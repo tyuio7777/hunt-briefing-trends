@@ -22,9 +22,9 @@ Hunt Briefing의 **플레이 기회 / 최근 화제 / 접속 추이** 전용 공
 | `data/players.json` | 최근 30일 관측과 4주 요일×시간대 중앙값 |
 | `data/status.json` | 마지막 수집 시도와 실패한 수집기 |
 | `data/article-registry.json` | 원문 식별, 최초 브리핑 수록, 분류 근거, 제외 항목 |
-| `data/calendar-supplements.json` | 기존 캘린더 형식의 보충 일정 호환용 내보내기. **기존 앱 일정표/알림에는 아직 연결하지 않음** |
+| `data/calendar-supplements.json` | 기존 캘린더 형식 호환 내보내기. v44 달력은 opportunities.json의 보충 일정만 표시하며 알림에는 연결하지 않음 |
 | `observations/YYYY-MM.jsonl` | 실제 Steam 관측 이력. 삭제·초기화하지 마세요 |
-| `state/issues/*.json` | 수록 근거 재현용 기존 브리핑 원본과 메타데이터 |
+| `state/issues/*.json` | 최근 90일 집계용 브리핑 사본과 메타데이터. 원본 feed는 수정하지 않음 |
 | `state/source-state.json` | 기존 feed Git tree·파일 SHA. 변경 파일만 재조회 |
 | `config/event-supplements.json` | 공식 감시 HTML에만 있는 일정 등 운영자 확인 보충 자료 |
 | `config/topics.json` | 공개 한·영 분류 사전과 규칙 버전 |
@@ -69,9 +69,9 @@ Hunt Briefing의 **플레이 기회 / 최근 화제 / 접속 추이** 전용 공
 
 ## 기존 일정표 활용 검토
 
-호환용 `calendar-supplements.json`은 기존 `BriefingCalendarEventData` 필드로 읽을 수 있습니다. **연결은 별도 승인 후 적용할 변경**입니다.
-권장 연결 위치는 일정표 페이지 전용 병합 계층입니다. 기존 공유 `BriefingCalendarService`를 바로 바꾸면 알림 worker에도 영향이 갈 수 있습니다. 동향 보충 조회 실패 시 기존 일정만 유지, 같은 ID 중복 제거, 확인일 우선 수정/취소, 보충 출처 표시가 필요합니다.
-시각 미확인 일정의 알림 여부와 통보 시각은 별도로 결정해야 하며, 이번 버전은 기존 푸시 스케줄러를 변경하지 않습니다.
+v44 앱부터 `opportunities.json`의 `supplemental=true` 일정만 기존 달력 화면에 병합합니다.
+기존 브리핑을 우선하고 중복을 정리하며, 조회 실패 시 기존 달력을 유지합니다.
+기존 브리핑/드롭스 알림 Worker에는 보충 자료를 전달하지 않습니다. 날짜만 알려진 일정에 임의 시각을 부여하지 않습니다.
 
 ## 검증과 운영
 
@@ -85,3 +85,26 @@ python3 tools/collect.py
 앱 호환 버전은 `schema_version: 1.0`입니다. 스키마가 맞지 않는 새 응답은 앱이 마지막 정상 캐시로 대체합니다. 원자적 Git 커밋으로 데이터 파일들을 함께 게시합니다. `config`·수집 코드를 수정할 때 기존 `observations`·`state`를 초기 자료로 덮어쓰지 마세요.
 
 출처: [Steam 공식 API](https://partner.steamgames.com/doc/webapi/ISteamUserStats#GetNumberOfCurrentPlayers), [GitHub 예약 동작](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule), [공개 runner 비용 기준](https://docs.github.com/en/billing/concepts/product-billing/github-actions), [Twitch 공식 안내](https://blog.twitch.tv/en/2026/10/01/stream-o-ween/).
+
+
+## v45 보관 정책
+
+| 자료 | 보관 기준 |
+|---|---|
+| 30분 관측 원본 | KST 오늘 포함 최근 90일 |
+| 이전 관측 일별 요약 | KST 오늘 기준 최근 730일 범위. 표본 수·최소·최대·합계·평균·최초/최종 관측 시각 |
+| 앱 접속 그래프 | 기존 최근 30일, 히트맵 28일 유지 |
+| 집계용 브리핑 사본 | 최근 90일. 원본 feed 저장소는 그대로 보존 |
+| 상세 원문 집계 자료 | 최초 수록일 기준 최근 90일 |
+| 종료 일정 | 종료일이 최근 90일 범위인 항목. 진행 중·미래 일정은 계속 유지 |
+
+- 일별 요약은 `data/player-daily.json`에 저장합니다. 관측하지 않은 시간을 0으로 채우지 않으며 평균은 실제 수집 표본의 평균입니다. 기존 앱 그래프 UI에는 별도 요약 화면을 추가하지 않습니다.
+- 상세 기록 정리 전에 해당 날짜의 요약을 저장합니다. 재실행 때 중복 집계하지 않습니다. 수집 시작 시각은 `state/retention.json`에 보존합니다.
+- `state/article-first-seen.json`은 URL과 최초 수록 시각만 보존하여 오래된 기사가 재등장해도 새 기사로 세지 않습니다.
+- `state/event-registry.json`은 최신 일정 상태를 보존합니다. 오래된 브리핑 사본을 정리해도 장기 일정이 사라지지 않으며, 최소 변경 이력으로 과거 확정이 최신 취소를 되돌리지 못하게 합니다.
+- 변경 없는 오래된 브리핑 사본을 다시 다운로드하지 않습니다. 원본 수정이 확인되면 다시 읽고 최신 상태를 반영합니다.
+- 수집은 기존 매시 13·43분, 기존 feed는 읽기 전용입니다. GPT 생성·검증·공식 감시 예약을 변경하지 않습니다.
+- 생성 파일 합계 100 MiB 이상 또는 앱용 일정 2,500개 이상이면 Actions 경고를 출력합니다. 앱의 3,000개·4 MiB 한도를 넘는 출력은 게시하지 않고 이전 정상 자료를 유지합니다.
+- 주 1회 GitHub 저장소 크기 추정치를 확인하며 256 MiB 이상이면 경고합니다. `data/storage-status.json`과 `data/repository-size.json`에서 확인할 수 있습니다.
+- Git 과거 이력과 최소 식별 인덱스는 별도로 누적됩니다. 강제 푸시·자동 이력 재작성은 하지 않으며, 경고 시 운영자가 이력 보관/저장소 분할을 판단해야 합니다.
+- 위 정책은 앱 알림을 추가하지 않습니다. 코드·정책 파일만 배포하고 이미 수집된 운영 데이터를 빈 샘플로 덮어쓰지 마세요.

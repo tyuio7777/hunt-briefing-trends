@@ -22,6 +22,8 @@ FEED = "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/"
 TREE = "https://api.github.com/repos/tyuio7777/hunt-briefing-feed/git/trees/main?recursive=1"
 STEAM = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650"
 ROOT = Path(__file__).resolve().parents[1]
+DETAIL_DAYS = 90
+SUMMARY_DAYS = 730
 
 def iso(d):
     return d.astimezone(UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
@@ -281,7 +283,7 @@ def player_record(payload, observed, trigger="manual"):
     return {"observed_at": iso(observed), "slot": slot(observed), "count": value,
         "trigger": trigger, "schedule": "13,43 * * * *", "run_id": os.environ.get("GITHUB_RUN_ID")}
 
-def player_feed(records, now, attempt_ok=True):
+def player_feed(records, now, attempt_ok=True, collection_started_at=None):
     unique = {}
     for r in sorted(records, key=lambda x: stamp(x["observed_at"])):
         if type(r.get("count")) is not int or r["count"] < 0 or stamp(r["observed_at"]) > now + timedelta(minutes=1):
@@ -289,7 +291,7 @@ def player_feed(records, now, attempt_ok=True):
         unique.setdefault(r["slot"], r)
     ordered = list(unique.values())
     points = [r for r in ordered if stamp(r["observed_at"]) >= now - timedelta(days=30)]
-    since = ordered[0]["observed_at"] if ordered else None
+    since = collection_started_at or (ordered[0]["observed_at"] if ordered else None)
     heat = []
     ready = since is not None and now - stamp(since) >= timedelta(days=28)
     for weekday in range(7):
@@ -313,7 +315,7 @@ def acquire_snapshots(root):
     state_path = root / "state/source-state.json"
     previous = read(state_path, {"sha": None, "issues": {}})
     if previous["sha"] == tree["sha"]:
-        return [read(root / "state/issues" / (i + ".json")) for i in previous["issues"]], tree["sha"]
+        return [read(p) for i in previous["issues"] if (p := root / "state/issues" / (i + ".json")).exists()], tree["sha"]
     idx, latest = get_json(FEED + "feed/index.json"), get_json(FEED + "feed/latest.json")
     issues = {i["id"]: i for i in idx["issues"]}
     if latest.get("issue"): issues[latest["issue"]["id"]] = latest["issue"]
@@ -327,6 +329,8 @@ def acquire_snapshots(root):
         if not sha:
             raise ValueError("Missing issue JSON in tree")
         cache = root / "state/issues" / (iid + ".json")
+        if not cache.exists() and previous["issues"].get(iid) == sha:
+            continue  # Previously compacted unchanged source; do not download it every run.
         old = read(cache)
         if old and previous["issues"].get(iid) == sha:
             document = old["document"]
@@ -338,7 +342,108 @@ def acquire_snapshots(root):
     # No writes until ALL changed upstream files were downloaded successfully.
     for iid, data in pending.items(): write(root / "state/issues" / (iid + ".json"), data)
     write(state_path, {"sha": tree["sha"], "issues": merged})
-    return [pending.get(i) or read(root / "state/issues" / (i + ".json")) for i in merged], tree["sha"]
+    return [value for i in merged if (value := pending.get(i) or read(root / "state/issues" / (i + ".json"))) is not None], tree["sha"]
+
+def compact_articles(root, registry, aliases, now):
+    # Keep a small identity -> earliest-inclusion index, not old article bodies/evidence.
+    known = read(root / 'state/article-first-seen.json', {'articles': {}})['articles']
+    previous = read(root / 'data/article-registry.json', {'articles': []})['articles']
+    merged = {}
+    for url, first in list(known.items()) + [(a['url'], a['first_included_at']) for a in previous + registry]:
+        key = aliases.get(url, url)
+        if key not in merged or stamp(first) < stamp(merged[key]): merged[key] = first
+    retained = []
+    cutoff = now.astimezone(KST).date() - timedelta(days=DETAIL_DAYS - 1)
+    for original in registry:
+        article = copy.deepcopy(original)
+        article['first_included_at'] = merged[article['url']]
+        if stamp(article['first_included_at']).astimezone(KST).date() >= cutoff:
+            retained.append(article)
+    return retained, {'schema_version': '1.0', 'articles': dict(sorted(merged.items()))}
+
+def compact_events(root, document, aliases, now):
+    old = read(root / 'state/event-registry.json')
+    if old is None:
+        old = {'heads': {}, 'events': read(root / 'data/opportunities.json', {'events': []})['events']}
+    heads, candidates = {}, {}
+    current_ids = {e['event_id'] for e in document['events'] if e['supplemental']}
+    for old_id, value in old['heads'].items():
+        key = aliases.get(old_id, old_id)
+        if value.get('supplemental') and key not in current_ids: continue
+        if key not in heads or stamp(value['checked_at']) > stamp(heads[key]['checked_at']): heads[key] = value
+    # Stored regular events preserve long-running campaigns beyond the raw-source retention window.
+    # Removed manual supplements are not resurrected from the stored registry.
+    for original in [e for e in old['events'] if not e['supplemental']] + document['events']:
+        event = copy.deepcopy(original)
+        key = aliases.get(event['event_id'], event['event_id']); event['event_id'] = key
+        head = heads.get(key)
+        if head and stamp(event['checked_at']) < stamp(head['checked_at']): continue
+        event['briefings'] = sorted(event['briefings'], key=lambda b: stamp(b['published_at']), reverse=True)[:25]
+        candidates[key] = event
+        heads[key] = {k: event[k] for k in ('checked_at', 'status', 'end_date', 'supplemental')}
+    cutoff = now.astimezone(KST).date() - timedelta(days=DETAIL_DAYS - 1)
+    retained = [e for e in candidates.values() if date.fromisoformat(e['end_date']) >= cutoff]
+    result = {**document, 'events': sorted(retained, key=lambda e: (e['start_date'], e['event_id']))}
+    return result, {'schema_version': '1.0', 'heads': dict(sorted(heads.items())), 'events': result['events']}
+
+def prune_source_cache(root, now):
+    cutoff = now.astimezone(KST).date() - timedelta(days=DETAIL_DAYS - 1)
+    for path in (root / 'state/issues').glob('*.json'):
+        if stamp(read(path)['issue']['published_at']).astimezone(KST).date() < cutoff:
+            path.unlink()  # Only the independent collector's copy; the source feed is read-only.
+
+def retain_observations(root, records, now, collection_started_at):
+    today = now.astimezone(KST).date()
+    cutoff, summary_cutoff = today - timedelta(days=DETAIL_DAYS - 1), today - timedelta(days=SUMMARY_DAYS - 1)
+    old = read(root / 'data/player-daily.json', {'days': []})
+    summaries = {d['date']: d for d in old['days'] if date.fromisoformat(d['date']) >= summary_cutoff}
+    unique = {}
+    for record in sorted(records, key=lambda r: stamp(r['observed_at'])):
+        if type(record['count']) is not int or record['count'] < 0 or stamp(record['observed_at']) > now + timedelta(minutes=1):
+            raise ValueError('Invalid observation; retention aborted')
+        unique.setdefault(record['slot'], record)
+    kept, expired = [], {}
+    for record in unique.values():
+        day = stamp(record['observed_at']).astimezone(KST).date()
+        if day >= cutoff: kept.append(record)
+        elif day >= summary_cutoff: expired.setdefault(str(day), []).append(record)
+    for day, rows in expired.items():
+        if day in summaries: continue  # Finalized whole days: restart cannot double count leftover rows.
+        counts = [r['count'] for r in rows]
+        summaries[day] = {'date': day, 'samples': len(rows), 'expected_samples': 48,
+            'minimum': min(counts), 'maximum': max(counts), 'sum': sum(counts),
+            'mean': sum(counts) / len(counts), 'first_observed_at': rows[0]['observed_at'],
+            'last_observed_at': rows[-1]['observed_at']}
+    daily = {'schema_version': '1.0', 'timezone': 'Asia/Seoul', 'retention_days': SUMMARY_DAYS,
+        'days': [summaries[k] for k in sorted(summaries)]}
+    # Save summaries before replacing raw files; interruption cannot discard the only remaining copy.
+    write(root / 'data/player-daily.json', daily)
+    write(root / 'state/retention.json', {'schema_version': '1.0', 'collection_started_at': collection_started_at,
+        'detail_days': DETAIL_DAYS, 'summary_days': SUMMARY_DAYS})
+    months = {}
+    for record in kept:
+        months.setdefault(stamp(record['observed_at']).astimezone(UTC).strftime('%Y-%m'), []).append(record)
+    folder = root / 'observations'; folder.mkdir(parents=True, exist_ok=True)
+    for month, rows in months.items():
+        path = folder / (month + '.jsonl')
+        text = ''.join(json.dumps(r, ensure_ascii=False) + '\n' for r in rows)
+        if not path.exists() or path.read_text(encoding='utf-8') != text:
+            temp = path.with_suffix('.tmp'); temp.write_text(text, encoding='utf-8'); temp.replace(path)
+    for path in folder.glob('*.jsonl'):
+        if path.stem not in months: path.unlink()
+    return kept, daily
+
+def storage_status(root, now):
+    size = sum(p.stat().st_size for folder in ('data', 'state', 'observations') for p in (root / folder).rglob('*')
+        if p.is_file() and p.name != 'storage-status.json')
+    event_count = len(read(root / 'data/opportunities.json', {'events': []})['events'])
+    warnings = []
+    if size >= 100 * 1024 * 1024: warnings.append('Generated working files exceed 100 MiB; review storage.')
+    if event_count >= 2500: warnings.append('Calendar approaches the 3000 event client limit; review event identities.')
+    for warning in warnings: print('::warning::' + warning)
+    write(root / 'data/storage-status.json', {'schema_version': '1.0', 'generated_bytes': size,
+        'events': event_count, 'source_cache_files': len(list((root / 'state/issues').glob('*.json'))),
+        'detail_days': DETAIL_DAYS, 'summary_days': SUMMARY_DAYS, 'warnings': warnings})
 
 def run(root, input_dir=None):
     now = datetime.now(UTC)
@@ -353,15 +458,25 @@ def run(root, input_dir=None):
             snapshots, source_sha = acquire_snapshots(root)
         rules, overrides = read(root / "config/topics.json"), read(root / "config/article-overrides.json")
         registry, excluded = topic_registry(snapshots, rules, overrides)
+        registry, article_index = compact_articles(root, registry, overrides.get('url_aliases', {}), now)
+        recent_ids = {s['issue']['id'] for s in snapshots if stamp(s['issue']['published_at']).astimezone(KST).date()
+                      >= now.astimezone(KST).date() - timedelta(days=DETAIL_DAYS - 1)}
+        excluded = [e for e in excluded if e['briefing_id'] in recent_ids]
         topics = topics_feed(registry, excluded, rules, now)
+        topics['registry_total'] = len(article_index['articles'])
+        topics['latest_briefing_at'] = max((s['issue']['published_at'] for s in snapshots), default=None)
         events = events_feed(snapshots, supplements, now)
+        events, event_registry = compact_events(root, events, supplements.get('event_aliases', {}), now)
         for value in (topics, events): value.update(source_sha=source_sha, source_checked_at=iso(now))
         validate_feed("topics", topics)
         validate_feed("opportunities", events)
         write(root / "data/topics.json", topics)
         write(root / "data/opportunities.json", events)
         write(root / "data/article-registry.json", {"schema_version": "1.0", "articles": registry, "excluded": excluded})
-        # Compatibility export is NOT consumed by the existing calendar or notification workers yet.
+        write(root / 'state/article-first-seen.json', article_index)
+        write(root / 'state/event-registry.json', event_registry)
+        prune_source_cache(root, now)
+        # v44 calendar consumes supplemental entries via opportunities.json; pushes remain isolated.
         fields = ("event_id", "title", "summary", "start_date", "end_date", "source_url", "status", "start_at", "end_at")
         write(root / "data/calendar-supplements.json", {"schema_version": "1.0", "updated_at": supplements["updated_at"],
             "calendar_events": [{k: e.get(k) for k in fields} for e in events["events"] if e["supplemental"]]})
@@ -390,9 +505,15 @@ def run(root, input_dir=None):
             except Exception as ex:
                 ok = False
                 errors.append("players: " + type(ex).__name__)
-        players = player_feed(records, datetime.now(UTC), ok)
+        started = read(root / 'state/retention.json', {}).get('collection_started_at')
+        started = started or read(root / 'data/players.json', {}).get('collection_started_at')
+        started = started or min((r['observed_at'] for r in records), default=None)
+        observed_now = datetime.now(UTC)
+        players = player_feed(records, observed_now, ok, started)
         validate_feed("players", players)
         write(root / "data/players.json", players)
+        retain_observations(root, records, observed_now, started)
+    storage_status(root, now)
     write(root / "data/status.json", {"schema_version": "1.0", "last_attempt_at": iso(datetime.now(UTC)), "errors": errors})
     print(json.dumps({"errors": errors, "read_only_upstream": True}))
     return bool(errors)
@@ -403,6 +524,7 @@ def validate_feed(kind, value):
     stamp(value["generated_at"])
     if kind == "opportunities":
         ids = [e["event_id"] for e in value["events"]]
+        if len(ids) > 3000: raise ValueError('Client event limit exceeded')
         if len(ids) != len(set(ids)): raise ValueError("Duplicate events")
         for event in value["events"]: normalize_event(event)
     elif kind == "topics":
@@ -413,7 +535,8 @@ def validate_feed(kind, value):
     elif kind == "players":
         if len(value["points"]) != len({p["slot"] for p in value["points"]}): raise ValueError("Duplicate observation")
         if any(type(p["count"]) is not int or p["count"] < 0 for p in value["points"]): raise ValueError("Invalid observation")
-    json.dumps(value, allow_nan=False)
+    if len(json.dumps(value, ensure_ascii=False, indent=2, allow_nan=False).encode('utf-8')) > 4 * 1024 * 1024:
+        raise ValueError('Client feed size limit exceeded')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

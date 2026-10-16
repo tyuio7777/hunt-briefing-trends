@@ -28,13 +28,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 tools/collect.py
+      - name: Check repository growth
+        if: always() && steps.collect.outcome != 'skipped'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 tools/check_storage.py
       - name: Publish validated results in this repository only
         if: always() && steps.collect.outcome != 'skipped'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           for dir in data observations state; do
-            if [ -d "$dir" ]; then git add "$dir"; fi
+            if [ -d "$dir" ]; then git add -A -- "$dir"; fi
           done
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh trends and Steam observation'
