@@ -1,0 +1,192 @@
+{
+  "issue": {
+    "id": "2026-10-12",
+    "title": "공식 4건 · 커뮤니티 7건",
+    "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+    "published_at": "2026-10-12T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+  },
+  "document": {
+    "date": "2026-10-12",
+    "title": "공식 4건 · 커뮤니티 7건",
+    "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.10.12",
+    "published_at": "2026-10-12T09:00:00+09:00",
+    "summary": "All Hallows’ Cleave 시작 하루 전 확정 보상과 감염 컴파운드 대비, Chapter 2 분할 개방 논쟁과 최신 Hunt 영상을 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 Blood Testament Chapter 2",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 7,
+      "leak": 0,
+      "rumor": 0
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-update-2-9-1",
+        "title": "Update 2.9.1 적용",
+        "summary": "Cursed Kin Story Challenge와 DLC Hunter 아바타, 다수의 조작·오디오·진행 수정이 적용된 업데이트입니다.",
+        "start_date": "2026-10-05",
+        "end_date": "2026-10-05",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-2-start",
+        "title": "Blood Testament Chapter 2 시작",
+        "summary": "Inferno와 Firefighter Supply를 포함한 Blood Testament Chapter 2 시작일입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-06",
+        "source_url": "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-playstation-plus-game-of-month-2026-10",
+        "title": "PlayStation Plus Game of the Month",
+        "summary": "Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-11-02",
+        "source_url": "https://www.huntshowdown.com/news/welcome-new-hunters",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-dlc-bound-by-blood-release",
+        "title": "Bound by Blood DLC 출시",
+        "summary": "The Protegee Hunter와 고딕 테마 외형을 포함한 Bound by Blood DLC 출시일입니다.",
+        "start_date": "2026-10-07",
+        "end_date": "2026-10-07",
+        "source_url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-all-hallows-cleave-start",
+        "title": "All Hallows’ Cleave 시작",
+        "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열리는 Community Event 시작일입니다.",
+        "start_date": "2026-10-13",
+        "end_date": "2026-10-13",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "all-hallows-cleave",
+        "category": "official",
+        "title": "All Hallows’ Cleave",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+          "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues"
+        ]
+      },
+      {
+        "id": "tarot-the-atlas",
+        "category": "official",
+        "title": "The Atlas",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "tarot-temperance",
+        "category": "official",
+        "title": "Temperance",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "long-derringer",
+        "category": "official",
+        "title": "Long Derringer",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "reddit-chapter-2-content-gap",
+        "category": "community",
+        "title": "Chapter 2 체감 부족 논쟁",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x2he70/is_the_entire_community_in_some_kind_of_mass/"
+        ]
+      },
+      {
+        "id": "reddit-event-boredom",
+        "category": "community",
+        "title": "이벤트와 기본 Hunt 선호 논쟁",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x0i3g0/how_are_people_bored_with_this_event/"
+        ]
+      },
+      {
+        "id": "reddit-melee-balance",
+        "category": "community",
+        "title": "현재 근접 무기 평가",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x2riv9/how_are_melee_weapons_in_the_current_patch/"
+        ]
+      },
+      {
+        "id": "reddit-two-slot-crossbow",
+        "category": "community",
+        "title": "2-slot Hand Crossbow 위시리스트",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x2qsn1/2_slot_hand_crossbow_i_hope_we_do_get_one_just/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-rXi3m1cVkWQ",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=rXi3m1cVkWQ"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-etmn-yCrPFg",
+        "category": "community",
+        "title": "REXNOR 최신 공개 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=etmn-yCrPFg"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-G_KB7fXecYI",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=G_KB7fXecYI"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
+      "https://www.huntshowdown.com/news/welcome-new-hunters",
+      "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+      "https://steamdb.info/app/594650/history/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x2he70/is_the_entire_community_in_some_kind_of_mass/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x0i3g0/how_are_people_bored_with_this_event/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x2riv9/how_are_melee_weapons_in_the_current_patch/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x2qsn1/2_slot_hand_crossbow_i_hope_we_do_get_one_just/",
+      "https://lobbyhub.ru/news.php?slug=hunt-showdown-blood-testament-chapter-2-vozvraschenie-inferno-ognemyot-i-novye-monstry",
+      "https://www.youtube.com/watch?v=rXi3m1cVkWQ",
+      "https://www.youtube.com/watch?v=etmn-yCrPFg",
+      "https://www.youtube.com/watch?v=G_KB7fXecYI"
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "issue": {
+    "id": "2026-09-19",
+    "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+    "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+    "published_at": "2026-09-19T09:03:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+  },
+  "document": {
+    "date": "2026-09-19",
+    "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+    "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.09.19",
+    "published_at": "2026-09-19T09:03:00+09:00",
+    "summary": "Hotfix 2.9.0.3의 감도·음향·크래시 수정, Written in Blood 무료 스토리 챌린지, Corruption's Cup 공식 서사와 Bloodskin 공략·서버 이슈를 정리했다.",
+    "hero": {
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png",
+      "alt": "Written in Blood 무료 스토리 챌린지 공식 이미지"
+    },
+    "stats": {
+      "official": 3,
+      "community": 4,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-written-in-blood-story-challenge-release",
+        "title": "Written in Blood 무료 스토리 챌린지 공개",
+        "summary": "Bloodskin 전투와 Blood Testament 서사를 잇는 무료 Story Challenge가 공개된 날입니다.",
+        "start_date": "2026-09-15",
+        "end_date": "2026-09-15",
+        "source_url": "https://steamcommunity.com/app/594650/announcements/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-hotfix-2-9-0-3",
+        "title": "Hotfix 2.9.0.3 적용",
+        "summary": "Blood Moon 음향, 조준 감도, Burgess·Saddle Bags 및 크래시 문제를 수정한 핫픽스 적용일입니다.",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-19",
+        "source_url": "https://store.steampowered.com/news/app/594650/view/687517158280790457",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "editors-lead",
+        "title": "Hotfix 2.9.0.3 — 전투 감도와 Blood Moon 음향 수정",
+        "category": "official",
+        "source_urls": [
+          "https://store.steampowered.com/news/app/594650/view/687517158280790457"
+        ]
+      },
+      {
+        "id": "field-notes",
+        "title": "Burgess·Saddle Bags·크래시 세부 수정",
+        "category": "official",
+        "source_urls": [
+          "https://steamcommunity.com/app/594650/allnews/",
+          "https://steamdb.info/app/594650/patchnotes/"
+        ]
+      },
+      {
+        "id": "event-loadout",
+        "title": "Written in Blood 무료 Story Challenge",
+        "category": "official",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wh2y34/new_free_story_challenge_written_in_blood_blood/"
+        ]
+      },
+      {
+        "id": "community-bloodskin-guide",
+        "title": "Bloodskin 장갑 파괴와 도약 중단 공략",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wgok4n/best_strat_to_kill_bloodskin/"
+        ]
+      },
+      {
+        "id": "community-audio",
+        "title": "Blood Moon 음향 위치 이상 보고",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wjzre5/enjoying_the_new_fountain_ambience/"
+        ]
+      },
+      {
+        "id": "community-network",
+        "title": "서버 지연과 추출 카운트다운 정지 보고",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wjljtw/crytek_is_pranking_me_again/"
+        ]
+      },
+      {
+        "id": "community-lore",
+        "title": "과거 로어 아카이브 접근 경로 공유",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wghcwm/are_the_lore_entries_from_the_books_archived/"
+        ]
+      },
+      {
+        "id": "rumor-watch",
+        "title": "2.9.0.4 또는 추가 핫픽스 가능성",
+        "category": "rumor",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wjljtw/crytek_is_pranking_me_again/",
+          "https://www.reddit.com/r/HuntShowdown/comments/1wjzre5/enjoying_the_new_fountain_ambience/"
+        ]
+      },
+      {
+        "id": "rumor-deep-dive",
+        "title": "후속 챕터와 트레일러 속 미출시 외형",
+        "category": "rumor",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wh2y34/new_free_story_challenge_written_in_blood_blood/"
+        ]
+      },
+      {
+        "id": "story-bundle",
+        "title": "Corruption's Cup — Lynch와 혈청의 대가",
+        "category": "official",
+        "source_urls": [
+          "https://www.huntshowdown.com/lore/tagged/events/corruption-s-cup"
+        ]
+      },
+      {
+        "id": "youtube-rexnor",
+        "title": "The ULTIMATE Bloodskin Boss Guide – Everything You Need To Know (2026)",
+        "category": "community",
+        "published": "2026-09-15",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=duchAOJ0RM0"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://store.steampowered.com/news/app/594650/view/687517158280790457",
+      "https://steamcommunity.com/app/594650/allnews/",
+      "https://steamdb.info/app/594650/patchnotes/",
+      "https://store.crytek.com/",
+      "https://www.huntshowdown.com/lore/tagged/events/corruption-s-cup",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wh2y34/new_free_story_challenge_written_in_blood_blood/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wgok4n/best_strat_to_kill_bloodskin/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wjzre5/enjoying_the_new_fountain_ambience/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wjljtw/crytek_is_pranking_me_again/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wghcwm/are_the_lore_entries_from_the_books_archived/",
+      "https://www.youtube.com/watch?v=duchAOJ0RM0"
+    ]
+  }
+}

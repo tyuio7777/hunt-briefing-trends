@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-16T06:30:00Z",
+  "calendar_events": [
+    {
+      "event_id": "hunt-twitch-rewards-2026-10-26",
+      "title": "Twitch Drops · 시청·구독 보상 캠페인",
+      "summary": "Twitch 공식 Stream-o-Ween 안내에 공개된 Hunt 보상 캠페인입니다. 시청과 신규 구독에 따른 보상이 예고됐으며, 정확한 시각·시간대와 세부 조건은 후속 안내 확인이 필요합니다.",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-09",
+      "source_url": "https://blog.twitch.tv/en/2026/10/01/stream-o-ween/",
+      "status": "confirmed",
+      "start_at": null,
+      "end_at": null
+    }
+  ]
+}

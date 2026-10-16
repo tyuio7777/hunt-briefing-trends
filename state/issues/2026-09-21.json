@@ -1,0 +1,97 @@
+{
+  "issue": {
+    "id": "2026-09-21",
+    "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+    "subtitle": "2.9.0.3 이후 안정화 · Blood Testament 장기 일정 · Bloodskin 메타",
+    "published_at": "2026-09-21T12:20:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/71ff8ae6879ab37eb0c3505d571285bc3ebe028a.png"
+  },
+  "document": {
+    "date": "2026-09-21",
+    "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+    "subtitle": "2.9.0.3 이후 안정화 · Blood Testament 장기 일정 · Bloodskin 메타",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.09.21",
+    "published_at": "2026-09-21T12:20:00+09:00",
+    "summary": "Hotfix 2.9.0.3 이후 공식 상태, Blood Testament 장기 일정과 Bloodskin 메타 및 커뮤니티 반응을 정리했다.",
+    "hero": {
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/71ff8ae6879ab37eb0c3505d571285bc3ebe028a.png",
+      "alt": "Blood Testament Hotfix 2.9.0.3"
+    },
+    "stats": {
+      "official": 2,
+      "community": 3,
+      "leak": 0,
+      "rumor": 1
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "editors-lead",
+        "title": "Hotfix 2.9.0.3 이후 공식 최신 상태",
+        "category": "official",
+        "source_urls": [
+          "https://steamcommunity.com/app/594650/announcements/"
+        ]
+      },
+      {
+        "id": "field-notes",
+        "title": "Blood Testament 장기 이벤트",
+        "category": "official",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/blood-testament-has-arrived"
+        ]
+      },
+      {
+        "id": "community-event",
+        "title": "Blood Testament 2주차 평가",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1whfmgl/new_event/"
+        ]
+      },
+      {
+        "id": "community-wells",
+        "title": "Blood Wells 제거와 Siphon 희소성",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wehkl5/the_blood_wells_are_just_gone/"
+        ]
+      },
+      {
+        "id": "youtube-rexnor",
+        "title": "The ULTIMATE Bloodskin Boss Guide – Everything You Need To Know (2026)",
+        "category": "community",
+        "published": "2026-09-15",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=duchAOJ0RM0"
+        ]
+      },
+      {
+        "id": "rumor-watch",
+        "title": "추가 핫픽스 가능성",
+        "category": "rumor",
+        "source_urls": []
+      }
+    ],
+    "source_urls": [
+      "https://steamcommunity.com/app/594650/announcements/",
+      "https://www.huntshowdown.com/news/blood-testament-has-arrived",
+      "https://store.crytek.com/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1whfmgl/new_event/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wehkl5/the_blood_wells_are_just_gone/",
+      "https://www.youtube.com/watch?v=duchAOJ0RM0"
+    ]
+  }
+}

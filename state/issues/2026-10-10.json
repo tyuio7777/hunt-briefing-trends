@@ -1,0 +1,202 @@
+{
+  "issue": {
+    "id": "2026-10-10",
+    "title": "공식 6건 · 커뮤니티 6건",
+    "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+    "published_at": "2026-10-10T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+  },
+  "document": {
+    "date": "2026-10-10",
+    "title": "공식 6건 · 커뮤니티 6건",
+    "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.10.10",
+    "published_at": "2026-10-10T09:00:00+09:00",
+    "summary": "Blood Testament Chapter 2 적용 결과, Update 2.9.1 수정, 10월 13일 All Hallows’ Cleave 일정과 확정된 Tarot·Long Derringer 정보를 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 Blood Testament Chapter 2",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+    },
+    "stats": {
+      "official": 6,
+      "community": 6,
+      "leak": 0,
+      "rumor": 0
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-update-2-9-1",
+        "title": "Update 2.9.1 적용",
+        "summary": "Cursed Kin Story Challenge와 DLC Hunter 아바타, 다수의 조작·오디오·진행 수정이 적용된 업데이트입니다.",
+        "start_date": "2026-10-05",
+        "end_date": "2026-10-05",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-2-start",
+        "title": "Blood Testament Chapter 2 시작",
+        "summary": "Inferno와 Firefighter Supply를 포함한 Blood Testament Chapter 2 시작일입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-06",
+        "source_url": "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-playstation-plus-game-of-month-2026-10",
+        "title": "PlayStation Plus Game of the Month",
+        "summary": "Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-11-02",
+        "source_url": "https://www.huntshowdown.com/news/welcome-new-hunters",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-dlc-bound-by-blood-release",
+        "title": "Bound by Blood DLC 출시",
+        "summary": "The Protegee Hunter와 고딕 테마 외형을 포함한 Bound by Blood DLC 출시일입니다.",
+        "start_date": "2026-10-07",
+        "end_date": "2026-10-07",
+        "source_url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-all-hallows-cleave-start",
+        "title": "All Hallows’ Cleave 시작",
+        "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열리는 Community Event 시작일입니다.",
+        "start_date": "2026-10-13",
+        "end_date": "2026-10-13",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "blood-testament-chapter-2-live",
+        "category": "official",
+        "title": "Blood Testament Chapter 2 적용",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "all-hallows-cleave",
+        "category": "official",
+        "title": "All Hallows’ Cleave",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "update-2-9-1",
+        "category": "official",
+        "title": "Update 2.9.1",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes"
+        ]
+      },
+      {
+        "id": "ps-plus-game-of-the-month",
+        "category": "official",
+        "title": "PlayStation Plus Game of the Month",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/welcome-new-hunters"
+        ]
+      },
+      {
+        "id": "bound-by-blood-dlc",
+        "category": "official",
+        "title": "Bound by Blood DLC",
+        "source_urls": [
+          "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/"
+        ]
+      },
+      {
+        "id": "cursed-kin-story-challenge",
+        "category": "official",
+        "title": "Cursed Kin Story Challenge",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes"
+        ]
+      },
+      {
+        "id": "reddit-chapter-2-confusion",
+        "category": "community",
+        "title": "Chapter 2 일정 혼선",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wzzk8b/chapter_2/"
+        ]
+      },
+      {
+        "id": "reddit-event-pacing",
+        "category": "community",
+        "title": "All Hallows’ Cleave 페이싱 논쟁",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wz8rab/blood_testament_event_pacing_and_community_events/"
+        ]
+      },
+      {
+        "id": "reddit-long-derringer-unlock",
+        "category": "community",
+        "title": "Long Derringer 해금 혼선",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wzjk4p/unlock_long_derringer/",
+          "https://www.reddit.com/r/HuntShowdown/comments/1wyz8ep/derringer_long_barrel_found/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-oEQfZN2Rrto",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=oEQfZN2Rrto"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-z6tvxmeZjAk",
+        "category": "community",
+        "title": "REXNOR 최신 공개 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=z6tvxmeZjAk"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-tfqLEE_P4cI",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=tfqLEE_P4cI"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
+      "https://www.huntshowdown.com/news/welcome-new-hunters",
+      "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+      "https://steamdb.info/app/594650/patchnotes/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wz4mwu/blood_testament_chapter_2_patch_notes/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wz8rab/blood_testament_event_pacing_and_community_events/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wzzk8b/chapter_2/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wzjk4p/unlock_long_derringer/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wyz8ep/derringer_long_barrel_found/",
+      "https://alte-knochen.de/news/hunt-showdown-chapter-2",
+      "https://www.youtube.com/watch?v=oEQfZN2Rrto",
+      "https://www.youtube.com/watch?v=z6tvxmeZjAk",
+      "https://www.youtube.com/watch?v=tfqLEE_P4cI"
+    ]
+  }
+}

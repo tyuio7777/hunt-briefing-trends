@@ -1,0 +1,143 @@
+{
+  "issue": {
+    "id": "2026-09-28",
+    "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+    "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+    "published_at": "2026-09-28T09:05:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+    "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+  },
+  "document": {
+    "date": "2026-09-28",
+    "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+    "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.09.28",
+    "published_at": "2026-09-28T09:05:00+09:00",
+    "summary": "Double XP Weekend Contract 종료 시각, 2.9.0.3 이후 공식 상태, Bloodskin Story Challenge 공략과 최신 커뮤니티 논의를 정리했다.",
+    "hero": {
+      "url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg",
+      "alt": "Double XP Weekend Contract 공식 이미지"
+    },
+    "stats": {
+      "official": 3,
+      "community": 5,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-double-xp-weekend-2026-09-25",
+        "title": "Double XP Weekend Contract",
+        "summary": "Hunter XP를 100% 추가 획득하는 주말 계약입니다.",
+        "start_date": "2026-09-25",
+        "end_date": "2026-09-28",
+        "end_at": "2026-09-28T22:00:00+09:00",
+        "source_url": "https://store.steampowered.com/news/app/594650/view/669503396264281574",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "double-xp-weekend",
+        "title": "Double XP Weekend Contract",
+        "category": "official",
+        "source_urls": [
+          "https://store.steampowered.com/news/app/594650/view/669503396264281574"
+        ]
+      },
+      {
+        "id": "hotfix-2-9-0-3",
+        "title": "Hotfix 2.9.0.3 최신 유지",
+        "category": "official",
+        "source_urls": [
+          "https://store.steampowered.com/news/app/594650/view/687517158280790457"
+        ]
+      },
+      {
+        "id": "written-in-blood",
+        "title": "Written in Blood Story Challenge",
+        "category": "official",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wh2y34/new_free_story_challenge_written_in_blood_blood/"
+        ]
+      },
+      {
+        "id": "bloodskin-jump-interrupt",
+        "title": "Bloodskin 점프 공격 차단 판정",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wq4cif/bloodskin_jump_attack_interrupt/"
+        ]
+      },
+      {
+        "id": "progression-branches",
+        "title": "무기 진행도 분기 재구성 제안",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wqm39y/merging_progression_branches/"
+        ]
+      },
+      {
+        "id": "event-end-date",
+        "title": "Blood Testament 종료일 확인",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wpwv54/where_can_i_see_when_this_event_ends/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost",
+        "title": "Crytek gave us this \"IMPOSSIBLE\" challenge - This is how I did it",
+        "category": "community",
+        "published": "2026-09-24",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=YgnxCA9hE1A"
+        ]
+      },
+      {
+        "id": "youtube-rexnor",
+        "title": "Zero To Hero VS Trios, But I Have NO MEDKIT...",
+        "category": "community",
+        "published": "2026-09-27",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=1_MEY4Fa9Rg"
+        ]
+      },
+      {
+        "id": "rumor-next-hotfix",
+        "title": "후속 핫픽스 배포 시점",
+        "category": "rumor",
+        "source_urls": []
+      },
+      {
+        "id": "rumor-next-chapter",
+        "title": "Blood Testament 다음 챕터 날짜",
+        "category": "rumor",
+        "source_urls": []
+      }
+    ],
+    "source_urls": [
+      "https://store.steampowered.com/news/app/594650/view/669503396264281574",
+      "https://store.steampowered.com/news/app/594650/view/687517158280790457",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wh2y34/new_free_story_challenge_written_in_blood_blood/",
+      "https://www.huntshowdown.com/news/blood-testament-has-arrived",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wq4cif/bloodskin_jump_attack_interrupt/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wqm39y/merging_progression_branches/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wpwv54/where_can_i_see_when_this_event_ends/",
+      "https://www.youtube.com/watch?v=YgnxCA9hE1A",
+      "https://www.youtube.com/watch?v=1_MEY4Fa9Rg",
+      "https://store.crytek.com/",
+      "https://steamdb.info/app/594650/patchnotes/"
+    ]
+  }
+}

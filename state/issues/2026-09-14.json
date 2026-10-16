@@ -1,0 +1,151 @@
+{
+  "issue": {
+    "id": "2026-09-14",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+    "published_at": "2026-09-14T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+  },
+  "document": {
+    "date": "2026-09-14",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.09.14",
+    "published_at": "2026-09-14T09:00:00+09:00",
+    "summary": "Bloodskin 공개 뒤 첫 주말의 실전 반응과 Hotfix 2.9.0.1 상태, 지역별 반응 및 검증된 최신 공략 영상을 정리했다.",
+    "hero": {
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg",
+      "alt": "Blood Testament 공식 대표 이미지"
+    },
+    "stats": {
+      "official": 4,
+      "community": 6,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-dlc-sage-of-joseon-release",
+        "title": "Sage of Joseon DLC 출시",
+        "summary": "조선 테마 헌터와 무기 외형을 포함한 DLC 출시일입니다.",
+        "start_date": "2026-09-09",
+        "end_date": "2026-09-09",
+        "source_url": "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-hotfix-2-9-0-1",
+        "title": "Hotfix 2.9.0.1 적용",
+        "summary": "한국시간 16:30 적용 일정. 충돌 수정과 일부 헌터 재활성화가 포함되며 별도 서버 중단 없이 배포됩니다.",
+        "start_date": "2026-09-10",
+        "end_date": "2026-09-10",
+        "source_url": "https://steamcommunity.com/app/594650/announcements/",
+        "status": "confirmed",
+        "start_at": "2026-09-10T16:30:00+09:00"
+      },
+      {
+        "event_id": "hunt-blood-testament-stage-3-bloodskin-unlock",
+        "title": "Stage 3 완료 · Bloodskin 해금",
+        "summary": "Make Them Bleed Stage 3 완료로 Bloodskin이 해금된 날입니다. 정확한 해금 시각은 기록하지 않았습니다.",
+        "start_date": "2026-09-11",
+        "end_date": "2026-09-11",
+        "source_url": "https://steamcommunity.com/app/594650/announcements/",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "editors-lead",
+        "title": "Bloodskin, 공개에서 실전 검증 단계로",
+        "category": "official",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wdrfhn/bloodskin_has_arrived_make_them_bleed_stage_3/",
+          "https://www.huntshowdown.com/news/blood-testament-has-arrived"
+        ]
+      },
+      {
+        "id": "field-notes",
+        "title": "Hotfix 2.9.0.1과 Sage of Joseon",
+        "category": "official",
+        "source_urls": [
+          "https://steamcommunity.com/app/594650/allnews/",
+          "https://steamdb.info/app/594650/patchnotes/",
+          "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/"
+        ]
+      },
+      {
+        "id": "event-loadout",
+        "title": "Bloodskin 및 Blood Moon 계약 운영",
+        "category": "official",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/blood-testament-has-arrived"
+        ]
+      },
+      {
+        "id": "community-report",
+        "title": "순간이동 때 부착 폭발물 분리 보고",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1we0e6x/bloodskin_boss_broken/"
+        ]
+      },
+      {
+        "id": "rumor-watch",
+        "title": "보스 판정·이벤트 이후 운용 추적",
+        "category": "rumor",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1we0e6x/bloodskin_boss_broken/"
+        ]
+      },
+      {
+        "id": "rumor-deep-dive",
+        "title": "다음 장 속도와 Bloodskin 정체 추측",
+        "category": "rumor",
+        "source_urls": [
+          "https://guided.news/en/news/hunt-showdown-1896-bloodskin-is-here-community-unleashes-new-boss/"
+        ]
+      },
+      {
+        "id": "around-the-world",
+        "title": "글로벌·한국·독일/유럽 화제",
+        "category": "community",
+        "source_urls": [
+          "https://www.reddit.com/r/FPS/comments/1wdtzic/hunt_showdown_1896_bloodskin_new_boss_for_new/",
+          "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/",
+          "https://guided.news/en/news/hunt-showdown-1896-bloodskin-is-here-community-unleashes-new-boss/",
+          "https://www.reddit.com/r/HuntShowdown/comments/1vyz7fh/blood_testament_skins_are_looking_really_good/"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake",
+        "title": "The *BLOODSKIN* boss guide + showcase! (HUNT: Showdown Guide).",
+        "category": "community",
+        "published": "13시간 전 (2026-09-14 확인)",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=pA0z6rEtwBY"
+        ]
+      },
+      {
+        "id": "youtube-rachtaz",
+        "title": "The *NEW* Bloodskin Boss Overview | Hunt: Showdown 1896",
+        "category": "community",
+        "published": "1일 전 (2026-09-14 확인)",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=pFRzpMyxvfs"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/news/blood-testament-has-arrived",
+      "https://steamcommunity.com/app/594650/allnews/",
+      "https://steamdb.info/app/594650/patchnotes/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1we0e6x/bloodskin_boss_broken/",
+      "https://www.reddit.com/r/FPS/comments/1wdtzic/hunt_showdown_1896_bloodskin_new_boss_for_new/",
+      "https://guided.news/en/news/hunt-showdown-1896-bloodskin-is-here-community-unleashes-new-boss/",
+      "https://www.youtube.com/watch?v=pA0z6rEtwBY",
+      "https://www.youtube.com/watch?v=pFRzpMyxvfs"
+    ]
+  }
+}

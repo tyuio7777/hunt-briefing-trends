@@ -1,0 +1,276 @@
+{
+  "issue": {
+    "id": "2026-09-08",
+    "title": "공식 3건 · 커뮤니티 8건 · 유출 1건",
+    "subtitle": "Blood Testament 배포일 · Update 2.9 · 서버 점검 · 지역별 화제",
+    "published_at": "2026-09-08T12:45:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+  },
+  "document": {
+    "schema_version": "1.0",
+    "id": "2026-09-08",
+    "language": "ko-KR",
+    "title": "Hunt: Showdown 커뮤니티·유출 동향",
+    "subtitle": "Blood Testament 배포일 · Update 2.9 · 서버 점검 · 지역별 화제",
+    "published_at": "2026-09-08T12:45:00+09:00",
+    "updated_at": "2026-09-08T12:45:00+09:00",
+    "hero": {
+      "image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg",
+      "alt": "Blood Testament",
+      "source_url": "https://steamcommunity.com/app/594650/announcements/"
+    },
+    "summary": [
+      "9월 8일 09:00 CEST(한국시간 16:00)에 Live Server가 내려가며 Update 2.9와 Blood Testament가 배포됩니다.",
+      "예상 점검은 약 4시간이며 업데이트 용량은 91.2GB입니다.",
+      "Make Them Bleed, Blood Moon, Siphon, Chupacabra, Burgess와 무기·MMR·정보 공개 방식 개편이 함께 적용됩니다."
+    ],
+    "sections": [
+      {
+        "id": "editors-lead",
+        "label": "EDITOR'S LEAD · OFFICIAL",
+        "title": "Blood Testament 오늘 배포 — 한국시간 16:00 서버 다운",
+        "description": "Update 2.9와 Blood Testament의 당일 배포 일정과 플레이 영향을 정리합니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "deployment",
+            "type": "article",
+            "title": "Update 2.9 + Blood Testament 배포",
+            "summary": "09:00 CEST 서버 중단, 예상 다운타임 약 4시간, 업데이트 용량 91.2GB.",
+            "body": "한국 기준 오후 4시부터 접속이 중단되며 대용량 다운로드까지 감안하면 저녁 시간대가 실질적인 첫 플레이 구간이 될 가능성이 높습니다.",
+            "image_url": "https://clan.akamai.steamstatic.com/images/30897473/34a7bbf4b26df79b5cc8c9e2840ceb87dcef0d2a.jpg",
+            "badges": [
+              "공식",
+              "Update 2.9"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": "2026-09-08T00:00:00+09:00",
+            "sources": [
+              {
+                "name": "Steam Announcements",
+                "url": "https://steamcommunity.com/app/594650/announcements/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "field-notes",
+        "label": "FIELD NOTES · OFFICIAL",
+        "title": "전투·Loadout·정보 공개·MMR 변경",
+        "description": "Update 2.9의 주요 시스템 변화입니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "update-2-9",
+            "type": "article",
+            "title": "Update 2.9 핵심 변경",
+            "summary": "Bow, Terminus, LeMat, Slug, Hunter Slots, Trait Loadout, 정보 공개 방식, MMR/Fair Play가 함께 바뀝니다.",
+            "body": "Hunter Slot 상한은 75에서 100으로 확대되고 MMR Decay가 돌아오며 치터 관련 보상과 신고 결과 알림이 도입됩니다.",
+            "image_url": "https://clan.akamai.steamstatic.com/images/30897473/e303dcaffbeb303934cef492b7ff0e0e6c586175.jpg",
+            "badges": [
+              "공식",
+              "시스템"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "event-loadout",
+        "label": "EVENT LOADOUT · 신규 콘텐츠 가이드",
+        "title": "Siphon · Chupacabra · Burgess",
+        "description": "Blood Testament의 전장 요소와 신규 장비를 정리합니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "event-core",
+            "type": "article",
+            "title": "이벤트 핵심 요소",
+            "summary": "Blood Well, Siphon, Chupacabra와 Burgess 계열 무기가 핵심입니다.",
+            "body": "Siphon은 Scarce Trait 상호작용에 영향을 주고 Chupacabra는 Health Chunk 복구 수단입니다. Burgess는 6발 탄창의 Size 3 접이식 슬라이드 액션 산탄총입니다.",
+            "image_url": "https://clan.akamai.steamstatic.com/images/30897473/7d6db91d19d64dc437156b785af644201fca6861.png",
+            "badges": [
+              "이벤트",
+              "가이드"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rumor-watch",
+        "label": "RUMOR WATCH",
+        "title": "Stage III 신규 몬스터 — 존재는 확정, 분류는 미확인",
+        "description": "Boss/Wild Target 여부는 아직 미확인입니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "stage-3",
+            "type": "rumor",
+            "title": "신규 몬스터 = 신규 보스?",
+            "summary": "NEW MONSTER는 공식 확인됐지만 Boss 또는 Wild Target이라는 표현은 없습니다.",
+            "body": "신규 몬스터 존재는 확정이며 분류와 정체는 계속 추적 대상입니다.",
+            "image_url": null,
+            "badges": [
+              "루머 추적"
+            ],
+            "confidence": "medium",
+            "region": "글로벌",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Reddit discussion",
+                "url": "https://www.reddit.com/r/HuntShowdown/comments/1w753v1/new_roadmap_blood_testament/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "around-the-world",
+        "label": "AROUND THE WORLD · 이번 주 지역별 화제",
+        "title": "지역별 공개 화제",
+        "description": "각 출력 지역에는 직접 원문 링크를 포함합니다.",
+        "display_type": "regions",
+        "items": [
+          {
+            "id": "region-global",
+            "type": "region",
+            "title": "🇺🇸 북미 / 글로벌 · Blood Testament Eve와 출시 직전 분위기",
+            "summary": "이벤트 시작 직전 기대감과 Stage III 신규 몬스터 반응이 이어집니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": "community",
+            "region": "북미/글로벌",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Reddit 원문",
+                "url": "https://www.reddit.com/r/HuntShowdown/comments/1w9fnq1/blood_testament_eve/"
+              }
+            ]
+          },
+          {
+            "id": "region-kr",
+            "type": "region",
+            "title": "🇰🇷 한국 · 서버 점검 시간과 91.2GB 업데이트",
+            "summary": "오후 4시 서버 다운과 대용량 패치가 직접적인 관심사입니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": "confirmed",
+            "region": "한국",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "한국어 Steam 공지",
+                "url": "https://steamcommunity.com/app/594650/announcements/?l=koreana"
+              }
+            ]
+          },
+          {
+            "id": "region-jp",
+            "type": "region",
+            "title": "🇯🇵 일본 · Blood Testament 개시와 로드맵 확인",
+            "summary": "일본어권 공개 Steam에서 서버 점검과 이벤트 개시를 확인할 수 있습니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": "confirmed",
+            "region": "일본",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "일본어 Steam 공지",
+                "url": "https://steamcommunity.com/app/594650/announcements/?l=japanese"
+              }
+            ]
+          },
+          {
+            "id": "region-cn",
+            "type": "region",
+            "title": "🇨🇳 중국 · 신규 몬스터와 Burgess 기대",
+            "summary": "중국어 공개 Steam에서 이벤트와 공식 변경 정보를 확인할 수 있습니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": "confirmed",
+            "region": "중국",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "중국어 Steam 공지",
+                "url": "https://steamcommunity.com/app/594650/announcements/?l=schinese"
+              }
+            ]
+          },
+          {
+            "id": "region-de",
+            "type": "region",
+            "title": "🇩🇪 독일 / 유럽 · 점검 시각·MMR·Fair Play 개편",
+            "summary": "09:00 CEST 점검과 시스템 개편이 주요 이슈입니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": "confirmed",
+            "region": "독일/유럽",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "독일어 Steam 공지",
+                "url": "https://steamcommunity.com/app/594650/announcements/?l=german"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "archive": {
+      "email_subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.09.08",
+      "email_message_id": "1a07eeb28f88c5b7",
+      "html_path": "feed/2026/09/2026-09-08.html"
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-update-2-9-maintenance-start",
+        "title": "Update 2.9 서버 점검 시작",
+        "summary": "한국시간 16:00 서버 점검 시작. 공지된 약 4시간은 예상 소요 시간이므로 확정 종료 시각은 기록하지 않았습니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-09-08",
+        "source_url": "https://steamcommunity.com/app/594650/announcements/",
+        "status": "confirmed",
+        "start_at": "2026-09-08T16:00:00+09:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "issue": {
+    "id": "2026-10-05",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+    "published_at": "2026-10-05T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+  },
+  "document": {
+    "date": "2026-10-05",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.10.05",
+    "published_at": "2026-10-05T09:00:00+09:00",
+    "summary": "Blood Testament Chapter 2 시작 하루 전 확정 일정과 준비 항목, Long Derringer 활용 논쟁, Player Survey와 콘솔 개선 요구를 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 Blood Testament Chapter 2",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 6,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-2-start",
+        "title": "Blood Testament Chapter 2 시작",
+        "summary": "새 Story Challenge·Community Event·Tarot Cards·Tool·Twitch Drops를 포함한 Chapter 2 시작일입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-06",
+        "source_url": "https://steamcommunity.com/games/594650/announcements/detail/669503396264282555",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-dlc-bound-by-blood-release",
+        "title": "Bound by Blood DLC 출시",
+        "summary": "The Protegee Hunter와 세 개 무기 외형, 소모품 외형 등을 포함한 DLC 출시일입니다.",
+        "start_date": "2026-10-07",
+        "end_date": "2026-10-07",
+        "source_url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "blood-testament-chapter-2",
+        "category": "official",
+        "title": "Blood Testament Chapter 2",
+        "source_urls": [
+          "https://steamcommunity.com/games/594650/announcements/detail/669503396264282555"
+        ]
+      },
+      {
+        "id": "bound-by-blood-dlc",
+        "category": "official",
+        "title": "Bound by Blood DLC",
+        "source_urls": [
+          "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/"
+        ]
+      },
+      {
+        "id": "player-survey-2026",
+        "category": "official",
+        "title": "Player Survey 2026",
+        "source_urls": [
+          "https://www.surveymonkey.com/r/JTL5ZVS"
+        ]
+      },
+      {
+        "id": "crytek-autumn-sale-2026",
+        "category": "official",
+        "title": "Crytek Autumn Sale",
+        "source_urls": [
+          "https://steamcommunity.com/app/594650/announcements/"
+        ]
+      },
+      {
+        "id": "reddit-long-derringer-use-cases",
+        "category": "community",
+        "title": "Long Derringer 활용 토론",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wwshai/what_use_cases_do_you_find_for_the_coming_long/"
+        ]
+      },
+      {
+        "id": "reddit-player-survey-priorities",
+        "category": "community",
+        "title": "Player Survey 우선순위 반응",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wu9up4/player_survey_hunt_showdown_1896/"
+        ]
+      },
+      {
+        "id": "reddit-livestream-format",
+        "category": "community",
+        "title": "개발자 방송 형식 평가",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wv3hua/blood_testament_chapter_2_developer_live_stream/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=U571QotRGUQ"
+        ]
+      },
+      {
+        "id": "youtube-rexnor",
+        "category": "community",
+        "title": "REXNOR 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=8lkXlQ2QiLU"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=fNJChPCq-Dg"
+        ]
+      },
+      {
+        "id": "rumor-temperance-effect",
+        "category": "rumor",
+        "title": "Temperance 효과 추정",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wte9uw/chapter_2_trailer_blood_testament_hunt_showdown/"
+        ]
+      },
+      {
+        "id": "rumor-familiar-faces-nightmares",
+        "category": "rumor",
+        "title": "Familiar faces, new nightmares 해석",
+        "source_urls": [
+          "https://steamcommunity.com/games/594650/announcements/detail/669503396264282555"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://steamcommunity.com/games/594650/announcements/detail/669503396264282555",
+      "https://steamcommunity.com/app/594650/announcements/",
+      "https://www.youtube.com/watch?v=Mz8ungOdl8M",
+      "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+      "https://www.surveymonkey.com/r/JTL5ZVS",
+      "https://steamdb.info/app/594650/patchnotes/",
+      "https://www.huntshowdown.com/lore/tagged/monsters/bloodskin",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wte9uw/chapter_2_trailer_blood_testament_hunt_showdown/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wv3hua/blood_testament_chapter_2_developer_live_stream/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wu9up4/player_survey_hunt_showdown_1896/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wwshai/what_use_cases_do_you_find_for_the_coming_long/",
+      "https://www.youtube.com/watch?v=U571QotRGUQ",
+      "https://www.youtube.com/watch?v=8lkXlQ2QiLU",
+      "https://www.youtube.com/watch?v=fNJChPCq-Dg",
+      "https://store.crytek.com/"
+    ]
+  }
+}

@@ -1,0 +1,1031 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-16T06:35:23Z",
+  "status": "ok",
+  "source_url": "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650",
+  "scope": "steam_global_online",
+  "interval_minutes": 30,
+  "collection_started_at": "2026-10-16T06:35:23Z",
+  "last_observed_at": "2026-10-16T06:35:23Z",
+  "points": [
+    {
+      "observed_at": "2026-10-16T06:35:23Z",
+      "slot": "2026-10-16T06:13:00Z",
+      "count": 8183,
+      "trigger": "push",
+      "schedule": "13,43 * * * *",
+      "run_id": "38862058008"
+    }
+  ],
+  "heatmap_ready": false,
+  "heatmap": [
+    {
+      "weekday": 0,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 15,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 0,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 15,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 1,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 15,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 2,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 15,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 3,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 15,
+      "count": 1,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 4,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 15,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 5,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 0,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 1,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 2,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 3,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 4,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 5,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 6,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 7,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 8,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 9,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 10,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 11,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 12,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 13,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 14,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 15,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 16,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 17,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 18,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 19,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 20,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 21,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 22,
+      "count": 0,
+      "median": null
+    },
+    {
+      "weekday": 6,
+      "hour": 23,
+      "count": 0,
+      "median": null
+    }
+  ]
+}

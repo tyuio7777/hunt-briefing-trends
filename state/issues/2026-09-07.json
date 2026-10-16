@@ -1,0 +1,491 @@
+{
+  "issue": {
+    "id": "2026-09-07",
+    "title": "공식 4건 · 커뮤니티 1건 · 루머 2건",
+    "subtitle": "Blood Testament 개시 하루 전 · Update 2.9 · 신규 파트너 · Stage III 추적",
+    "published_at": "2026-09-07T14:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.html",
+    "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
+  },
+  "document": {
+    "schema_version": "1.0",
+    "id": "2026-09-07",
+    "language": "ko-KR",
+    "title": "Hunt: Showdown 커뮤니티·유출 동향",
+    "subtitle": "Blood Testament 개시 하루 전 · Update 2.9 · 신규 파트너 · Stage III 추적",
+    "published_at": "2026-09-07T14:00:00+09:00",
+    "updated_at": "2026-09-07T14:00:00+09:00",
+    "hero": {
+      "image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg",
+      "alt": "Blood Testament 신규 로드맵",
+      "source_url": "https://steamcommunity.com/app/594650/"
+    },
+    "summary": [
+      "9월 8일 Blood Testament와 Update 2.9 개시를 하루 앞둔 최종 준비 단계입니다.",
+      "Stage III 보상은 NEW MONSTER로 공식 확인됐지만 Boss 또는 Wild Target 여부는 아직 공개되지 않았습니다.",
+      "Crytek은 신규 Hunt Partners를 공개했으며 YouTube 파트너로 Retryyy와 Toxic Pancake가 포함됐습니다."
+    ],
+    "sections": [
+      {
+        "id": "editors-lead",
+        "label": "EDITOR'S LEAD · OFFICIAL",
+        "title": "Blood Testament 로드맵 — Stage III는 NEW MONSTER",
+        "description": "9월 4일 공개 로드맵을 기준으로 확정 정보와 남은 미공개 영역을 구분합니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "roadmap",
+            "type": "article",
+            "title": "Community Event에서 Stage III 신규 몬스터까지",
+            "summary": "Community Event → Blood Moon → Chupacabra → New Monster 순서로 공동 진행 보상이 열립니다.",
+            "body": "60 Rewards Battle Pass, Siphon, Burgess Shotgun, Sage of Joseon DLC와 함께 Written in Blood, Halloween Event, 신규 Tarot Cards 및 신규 Tool도 이후 콘텐츠 축으로 예고됐습니다.",
+            "image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg",
+            "badges": [
+              "공식",
+              "로드맵"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": "2026-09-04T00:00:00+09:00",
+            "sources": [
+              {
+                "name": "Steam Community",
+                "url": "https://steamcommunity.com/app/594650/"
+              },
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "field-notes",
+        "label": "FIELD NOTES · OFFICIAL",
+        "title": "Update 2.9와 신규 Hunt Partners",
+        "description": "출시 직전 확인할 공식 변경입니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "new-partners",
+            "type": "article",
+            "title": "New Partners | Blood Testament",
+            "summary": "Crytek이 Blood Testament를 앞두고 신규 공식 파트너를 공개했습니다.",
+            "body": "YouTube 파트너로 Retryyy와 Toxic Pancake가 포함됐으며 출시 전후 실전 플레이와 첫인상 콘텐츠가 늘어날 가능성이 높습니다.",
+            "image_url": "https://clan.fastly.steamstatic.com/images/30897473/d27dc36afb101b2985e12f719209dd280a7d1244.jpg",
+            "badges": [
+              "공식",
+              "커뮤니티"
+            ],
+            "confidence": "confirmed",
+            "region": "글로벌",
+            "published_at": "2026-09-07T00:00:00+09:00",
+            "sources": [
+              {
+                "name": "Steam Community",
+                "url": "https://steamcommunity.com/app/594650/"
+              }
+            ]
+          },
+          {
+            "id": "update-2-9",
+            "type": "article",
+            "title": "Update 2.9 전투·시스템 변경",
+            "summary": "Bow, Terminus, LeMat, Slug, Heavy Knife와 정보 공개 구조, Loadout, MMR 및 Fair Play가 함께 바뀝니다.",
+            "body": "Trait Loadout 저장과 Hunter Slot 75→100 확대, 복귀 유저용 MMR Decay, 확인된 치터 사망 건의 Hunt Dollar 보상 체계가 적용됩니다.",
+            "image_url": null,
+            "badges": [
+              "공식",
+              "Update 2.9"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": "2026-08-24T00:00:00+09:00",
+            "sources": [
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "event-loadout",
+        "label": "EVENT LOADOUT · 신규 콘텐츠 가이드",
+        "title": "Siphon · Chupacabra · Blood Moon · Burgess",
+        "description": "이벤트 단계별 전장 변화와 장비를 정리합니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "event-mechanics",
+            "type": "article",
+            "title": "이벤트 핵심 요소",
+            "summary": "Blood Wells, Siphon, Chupacabra와 동적 Blood Moon이 공동 진행도에 따라 순차 해금됩니다.",
+            "body": "Burgess는 6발 탄창을 가진 Size 3 접이식 슬라이드 액션 산탄총이며 Bayonet과 Trauma 변형이 함께 등장합니다.",
+            "image_url": null,
+            "badges": [
+              "이벤트",
+              "가이드"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rumor-watch",
+        "label": "RUMOR WATCH",
+        "title": "신규 몬스터는 확정, 분류와 정체는 미확인",
+        "description": "공식 확인 범위와 커뮤니티 추측을 분리합니다.",
+        "display_type": "cards",
+        "items": [
+          {
+            "id": "stage-3",
+            "type": "rumor",
+            "title": "Stage III 신규 몬스터 = 정식 Boss인가?",
+            "summary": "로드맵은 NEW MONSTER를 명시하지만 Boss 또는 Wild Target이라고 표현하지 않았습니다.",
+            "body": "신규 몬스터 존재는 공식 확정입니다. Boss 분류, 정체, Warren Russett와 Lynch의 실험과의 직접 연결은 아직 추측입니다.",
+            "image_url": null,
+            "badges": [
+              "루머 추적"
+            ],
+            "confidence": "medium",
+            "region": "글로벌",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Reddit discussion",
+                "url": "https://www.reddit.com/r/HuntShowdown/comments/1w753v1/new_roadmap_blood_testament/"
+              }
+            ]
+          },
+          {
+            "id": "new-tool",
+            "type": "rumor",
+            "title": "신규 Tool의 정체",
+            "summary": "로드맵에서 신규 Tool 존재는 확인됐지만 세부 기능은 공개되지 않았습니다.",
+            "body": "커뮤니티의 Derringer 계열 또는 주사기형 도구 관측은 실루엣 해석 수준이므로 공식 발표 전까지 사실로 보지 않습니다.",
+            "image_url": null,
+            "badges": [
+              "낮음~중간"
+            ],
+            "confidence": "low",
+            "region": "글로벌",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Reddit discussion",
+                "url": "https://www.reddit.com/r/HuntShowdown/comments/1w753v1/new_roadmap_blood_testament/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "signals",
+        "label": "SIGNALS TO WATCH",
+        "title": "다음 확인 포인트",
+        "description": "9월 8일 개시 직후 확인할 변화입니다.",
+        "display_type": "ranking",
+        "items": [
+          {
+            "id": "signals-1",
+            "type": "signal",
+            "title": "Stage III 정체와 첫 주 공동 진행 속도",
+            "summary": "신규 몬스터의 분류, 최종 패치노트, Blood Moon 해금 속도가 핵심입니다.",
+            "body": "무기 밸런스와 MMR 보정이 실제 매치 체감에 미치는 영향도 첫 주에 함께 확인합니다.",
+            "image_url": null,
+            "badges": [
+              "우선 확인"
+            ],
+            "confidence": "high",
+            "region": null,
+            "published_at": null,
+            "sources": []
+          }
+        ]
+      },
+      {
+        "id": "top-picks",
+        "label": "TOP PICKS",
+        "title": "이번 테스트판 핵심 5가지",
+        "description": null,
+        "display_type": "ranking",
+        "items": [
+          {
+            "id": "top-1",
+            "type": "article",
+            "title": "Stage III NEW MONSTER 공식 확인",
+            "summary": "신규 몬스터의 존재가 루머 영역을 벗어났습니다.",
+            "body": "Boss/Wild Target 여부는 계속 추적합니다.",
+            "image_url": null,
+            "badges": [
+              "1"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": []
+          },
+          {
+            "id": "top-2",
+            "type": "article",
+            "title": "Blood Testament + Update 2.9",
+            "summary": "9월 8일 대규모 이벤트와 시스템 개편이 동시에 시작됩니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [
+              "2"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": []
+          },
+          {
+            "id": "top-3",
+            "type": "article",
+            "title": "New Partners 공개",
+            "summary": "Retryyy와 Toxic Pancake가 YouTube 파트너로 포함됐습니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [
+              "3"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": []
+          }
+        ]
+      },
+      {
+        "id": "story",
+        "label": "이번주의 이야기 꾸러미",
+        "title": "new nightmare가 실루엣을 얻기 시작했다",
+        "description": "Blood Testament의 공동 진행이 서사와 전장 변화를 직접 연결합니다.",
+        "display_type": "story",
+        "items": [
+          {
+            "id": "story-1",
+            "type": "story",
+            "title": "피로 열리는 세 단계의 결말",
+            "summary": "Warren Russett와 Lynch의 혈청 실험은 플레이어 공동 목표에 따라 Blood Moon, Chupacabra, 신규 몬스터로 이어집니다.",
+            "body": "이벤트의 결말을 컷신으로 소비하는 대신 전체 커뮤니티가 단계별로 Bayou의 변화를 열어젖히는 구조입니다. Stage III 존재가 Russett의 변질인지, 별도의 실험 결과인지는 다음 서사 확인 포인트입니다.",
+            "image_url": null,
+            "badges": [
+              "스토리"
+            ],
+            "confidence": "confirmed",
+            "region": null,
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "around-the-world",
+        "label": "AROUND THE WORLD · 이번 주 지역별 화제",
+        "title": "지역별 공개 커뮤니티 흐름",
+        "description": "공개적으로 확인 가능한 토론과 정보 정리 흐름입니다.",
+        "display_type": "regions",
+        "items": [
+          {
+            "id": "region-global",
+            "type": "region",
+            "title": "🇺🇸 북미 / 글로벌 · NEW MONSTER와 신규 Tool",
+            "summary": "신규 로드맵 이후 Stage III 분류와 Tool 실루엣 추측이 중심입니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": "medium",
+            "region": "북미/글로벌",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Reddit",
+                "url": "https://www.reddit.com/r/HuntShowdown/comments/1w753v1/new_roadmap_blood_testament/"
+              }
+            ]
+          },
+          {
+            "id": "region-ko",
+            "type": "region",
+            "title": "🇰🇷 한국 · 2.9 실전 변경 준비",
+            "summary": "Bow·Terminus·MMR·Trait Loadout 변화가 주요 확인 대상입니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": null,
+            "region": "한국",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Steam Korea",
+                "url": "https://steamcommunity.com/app/594650/?l=koreana"
+              }
+            ]
+          },
+          {
+            "id": "region-jp",
+            "type": "region",
+            "title": "🇯🇵 일본 · 단계형 공동 이벤트",
+            "summary": "9월 8일 개시와 단계별 보상 구조가 주요 관심사입니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": null,
+            "region": "일본",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Steam Japan",
+                "url": "https://steamcommunity.com/app/594650/?l=japanese"
+              }
+            ]
+          },
+          {
+            "id": "region-cn",
+            "type": "region",
+            "title": "🇨🇳 중국 · Blood Moon과 신규 몬스터",
+            "summary": "시각 테마와 Stage III 신규 몬스터가 주목받고 있습니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": null,
+            "region": "중국",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Steam China",
+                "url": "https://steamcommunity.com/app/594650/?l=schinese"
+              }
+            ]
+          },
+          {
+            "id": "region-de",
+            "type": "region",
+            "title": "🇩🇪 독일 / 유럽 · 시스템 개편과 신규 위협",
+            "summary": "Update 2.9 시스템 변화와 Stage III 정체가 주요 관전 포인트입니다.",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": null,
+            "region": "독일/유럽",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Steam Germany",
+                "url": "https://steamcommunity.com/app/594650/?l=german"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "youtube",
+        "label": "HUNT 유튜브 관련 소식",
+        "title": "Blood Testament 출시 직전 영상",
+        "description": "직접 URL이 검증된 공개 영상만 수록합니다.",
+        "display_type": "videos",
+        "items": [
+          {
+            "id": "youtube-toxic-pancake",
+            "type": "video",
+            "title": "Toxic Pancake · Blood Testament 관련 최신/화제 영상",
+            "summary": "Blood Testament 공개 시점의 실제 플레이와 변경점을 확인할 수 있는 영상입니다.",
+            "body": "신규 파트너 공개에 Toxic Pancake가 포함되면서 출시 이후 후속 콘텐츠도 주요 확인 대상이 됐습니다.",
+            "image_url": "https://img.youtube.com/vi/T1D0EyGPPeE/hqdefault.jpg",
+            "badges": [
+              "YouTube"
+            ],
+            "confidence": "confirmed",
+            "region": "글로벌",
+            "published_at": null,
+            "sources": [
+              {
+                "name": "YouTube",
+                "url": "https://youtu.be/T1D0EyGPPeE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sources-method",
+        "label": "SOURCES & METHOD",
+        "title": "매주 확인하는 고정 조사 범위",
+        "description": "이 목록은 이번 호의 인용처만이 아니라 매주 상시 확인하는 정보망입니다.",
+        "display_type": "muted",
+        "items": [
+          {
+            "id": "sources-official",
+            "type": "reference",
+            "title": "공식·플랫폼",
+            "summary": "Hunt/Crytek 공식, Steam, Steam Community, SteamDB, YouTube, X(Twitter), 공개 패치·빌드 추적 소스",
+            "body": null,
+            "image_url": null,
+            "badges": [],
+            "confidence": null,
+            "region": null,
+            "published_at": null,
+            "sources": [
+              {
+                "name": "Hunt: Showdown Official",
+                "url": "https://www.huntshowdown.com/news"
+              },
+              {
+                "name": "Steam Community",
+                "url": "https://steamcommunity.com/app/594650/"
+              },
+              {
+                "name": "SteamDB",
+                "url": "https://steamdb.info/app/594650/"
+              }
+            ]
+          },
+          {
+            "id": "sources-community",
+            "type": "reference",
+            "title": "지역별 공개 커뮤니티",
+            "summary": "r/HuntShowdown, 디시인사이드 헌트 쇼다운 마이너 갤러리, Hunt JP Discord, 百度贴吧 猎杀对决吧, Bilibili Crytek官方, QQ 그룹, 한국·유럽·독일 공개 Discord 및 게임 전문 매체",
+            "body": "비공식 정보는 공식 확인 전까지 사실로 간주하지 않습니다.",
+            "image_url": null,
+            "badges": [],
+            "confidence": null,
+            "region": null,
+            "published_at": null,
+            "sources": []
+          }
+        ]
+      }
+    ],
+    "html_url": "feed/2026/09/2026-09-07.html",
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      }
+    ]
+  }
+}

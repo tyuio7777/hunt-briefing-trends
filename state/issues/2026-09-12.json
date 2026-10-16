@@ -1,0 +1,99 @@
+{
+  "issue": {
+    "id": "2026-09-12",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Bloodskin 정식 해금 · Stage 3 완료 · Hotfix 2.9.0.1 · Sage of Joseon",
+    "published_at": "2026-09-12T20:44:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+  },
+  "document": {
+    "date": "2026-09-12",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "stats": {
+      "official": 4,
+      "community": 6,
+      "leak": 0,
+      "rumor": 2
+    },
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.09.12",
+    "summary": "Blood Testament와 Update 2.9 라이브, Make Them Bleed Stage 3 완료로 Bloodskin 등장, Hotfix 2.9.0.1 및 Sage of Joseon 출시.",
+    "hero": {
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg",
+      "alt": "Blood Testament"
+    },
+    "sections": [
+      {
+        "id": "editors-lead",
+        "title": "Stage 3 돌파 — Bloodskin이 실제 사냥감으로 등장",
+        "source_urls": [
+          "https://store.steampowered.com/oldnews/?appgroupname=Hunt%3A+Showdown&appids=594650&feed=steam_community_announcements"
+        ]
+      },
+      {
+        "id": "field-notes",
+        "title": "2.9.0.1 핫픽스와 출시 직후 안정화",
+        "source_urls": [
+          "https://steamcommunity.com/app/594650/announcements/"
+        ]
+      },
+      {
+        "id": "event-loadout",
+        "title": "Blood Moon · Chupacabra · Siphon · Burgess",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/blood-testament-has-arrived"
+        ]
+      },
+      {
+        "id": "rumor-watch",
+        "title": "Stage 3 보스 루머는 종료 — 이제 후속 챕터가 미확인 영역",
+        "source_urls": []
+      },
+      {
+        "id": "rumor-deep-dive",
+        "title": "유출보다 빠르게 공식화된 Bloodskin",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1w82jjo/the_developer_livestream_accidentally_confirms/"
+        ]
+      },
+      {
+        "id": "story-bundle",
+        "title": "Lynch의 혈청이 만든 ‘사냥감’ — Warren Russett에서 Bloodskin까지",
+        "source_urls": [
+          "https://www.crytek.com/news/blood-testament-comes-to-hunt-showdown-1896-on-september-8th"
+        ]
+      },
+      {
+        "id": "around-the-world",
+        "title": "지역별 공개 화제",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1w82jjo/the_developer_livestream_accidentally_confirms/",
+          "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/"
+        ]
+      }
+    ],
+    "published_at": "2026-09-12T20:44:00+09:00",
+    "calendar_events": [
+      {
+        "event_id": "hunt-dlc-sage-of-joseon-release",
+        "title": "Sage of Joseon DLC 출시",
+        "summary": "조선 테마 헌터와 무기 외형을 포함한 DLC 출시일입니다.",
+        "start_date": "2026-09-09",
+        "end_date": "2026-09-09",
+        "source_url": "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-hotfix-2-9-0-1",
+        "title": "Hotfix 2.9.0.1 적용",
+        "summary": "한국시간 16:30 적용 일정. 충돌 수정과 일부 헌터 재활성화가 포함되며 별도 서버 중단 없이 배포됩니다.",
+        "start_date": "2026-09-10",
+        "end_date": "2026-09-10",
+        "source_url": "https://steamcommunity.com/app/594650/announcements/",
+        "status": "confirmed",
+        "start_at": "2026-09-10T16:30:00+09:00"
+      }
+    ]
+  }
+}

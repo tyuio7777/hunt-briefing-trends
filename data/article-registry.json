@@ -1,0 +1,2519 @@
+{
+  "schema_version": "1.0",
+  "articles": [
+    {
+      "id": "a43324cca7991032238cb69e",
+      "url": "https://huntshowdown.com/news/biggest-bloodiest-update-to-hunt-showdown-1896-is-almost-here",
+      "title": "Community Event에서 Stage III 신규 몬스터까지",
+      "first_included_at": "2026-09-07T14:00:00+09:00",
+      "topics": [
+        "events",
+        "balance",
+        "fairness"
+      ],
+      "origins": [
+        "official",
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-07",
+          "title": "공식 4건 · 커뮤니티 1건 · 루머 2건",
+          "subtitle": "Blood Testament 개시 하루 전 · Update 2.9 · 신규 파트너 · Stage III 추적",
+          "published_at": "2026-09-07T14:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
+        },
+        {
+          "id": "2026-09-08",
+          "title": "공식 3건 · 커뮤니티 8건 · 유출 1건",
+          "subtitle": "Blood Testament 배포일 · Update 2.9 · 서버 점검 · 지역별 화제",
+          "published_at": "2026-09-08T12:45:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-07",
+          "title": "Community Event에서 Stage III 신규 몬스터까지",
+          "terms": [
+            "event",
+            "dlc",
+            "보상"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-07",
+          "title": "Community Event에서 Stage III 신규 몬스터까지",
+          "terms": [
+            "tarot"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-07",
+          "title": "Update 2.9 전투·시스템 변경",
+          "terms": [
+            "보상"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-07",
+          "title": "Update 2.9 전투·시스템 변경",
+          "terms": [
+            "trait",
+            "loadout"
+          ]
+        },
+        {
+          "topic": "fairness",
+          "briefing_id": "2026-09-07",
+          "title": "Update 2.9 전투·시스템 변경",
+          "terms": [
+            "치터",
+            "fair play",
+            "mmr"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-07",
+          "title": "이벤트 핵심 요소",
+          "terms": [
+            "이벤트"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-07",
+          "title": "피로 열리는 세 단계의 결말",
+          "terms": [
+            "이벤트"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-08",
+          "title": "Update 2.9 핵심 변경",
+          "terms": [
+            "보상"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-08",
+          "title": "Update 2.9 핵심 변경",
+          "terms": [
+            "trait",
+            "loadout"
+          ]
+        },
+        {
+          "topic": "fairness",
+          "briefing_id": "2026-09-08",
+          "title": "Update 2.9 핵심 변경",
+          "terms": [
+            "치터",
+            "fair play",
+            "mmr"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-08",
+          "title": "이벤트 핵심 요소",
+          "terms": [
+            "이벤트"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-08",
+          "title": "이벤트 핵심 요소",
+          "terms": [
+            "무기",
+            "trait"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "d5bdc92e4f7cfbb986d0bda9",
+      "url": "https://reddit.com/comments/1w753v1",
+      "title": "Stage III 신규 몬스터 = 정식 Boss인가?",
+      "first_included_at": "2026-09-07T14:00:00+09:00",
+      "topics": [
+        "lore",
+        "balance"
+      ],
+      "origins": [
+        "unconfirmed",
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-07",
+          "title": "공식 4건 · 커뮤니티 1건 · 루머 2건",
+          "subtitle": "Blood Testament 개시 하루 전 · Update 2.9 · 신규 파트너 · Stage III 추적",
+          "published_at": "2026-09-07T14:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
+        },
+        {
+          "id": "2026-09-08",
+          "title": "공식 3건 · 커뮤니티 8건 · 유출 1건",
+          "subtitle": "Blood Testament 배포일 · Update 2.9 · 서버 점검 · 지역별 화제",
+          "published_at": "2026-09-08T12:45:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "lore",
+          "briefing_id": "2026-09-07",
+          "title": "Stage III 신규 몬스터 = 정식 Boss인가?",
+          "terms": [
+            "추측"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-07",
+          "title": "신규 Tool의 정체",
+          "terms": [
+            "derringer"
+          ]
+        },
+        {
+          "topic": "lore",
+          "briefing_id": "2026-09-07",
+          "title": "🇺🇸 북미 / 글로벌 · NEW MONSTER와 신규 Tool",
+          "terms": [
+            "추측"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "a6967ecc15310b50fc54829f",
+      "url": "https://youtube.com/watch?v=T1D0EyGPPeE",
+      "title": "Toxic Pancake · Blood Testament 관련 최신/화제 영상",
+      "first_included_at": "2026-09-07T14:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-07",
+          "title": "공식 4건 · 커뮤니티 1건 · 루머 2건",
+          "subtitle": "Blood Testament 개시 하루 전 · Update 2.9 · 신규 파트너 · Stage III 추적",
+          "published_at": "2026-09-07T14:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-07.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-07",
+          "title": "Toxic Pancake · Blood Testament 관련 최신/화제 영상",
+          "terms": [
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "1808ba752d7dbf1415fc56ab",
+      "url": "https://reddit.com/comments/1w9fnq1",
+      "title": "🇺🇸 북미 / 글로벌 · Blood Testament Eve와 출시 직전 분위기",
+      "first_included_at": "2026-09-08T12:45:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-08",
+          "title": "공식 3건 · 커뮤니티 8건 · 유출 1건",
+          "subtitle": "Blood Testament 배포일 · Update 2.9 · 서버 점검 · 지역별 화제",
+          "published_at": "2026-09-08T12:45:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-08.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-08",
+          "title": "🇺🇸 북미 / 글로벌 · Blood Testament Eve와 출시 직전 분위기",
+          "terms": [
+            "이벤트",
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "63b4e4c0917b655303f62da3",
+      "url": "https://huntshowdown.com/news/blood-testament-has-arrived",
+      "title": "Blood Moon · Chupacabra · Siphon · Burgess",
+      "first_included_at": "2026-09-12T20:44:00+09:00",
+      "topics": [
+        "balance",
+        "events"
+      ],
+      "origins": [
+        "community",
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-12",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 정식 해금 · Stage 3 완료 · Hotfix 2.9.0.1 · Sage of Joseon",
+          "published_at": "2026-09-12T20:44:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        },
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        },
+        {
+          "id": "2026-09-21",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "2.9.0.3 이후 안정화 · Blood Testament 장기 일정 · Bloodskin 메타",
+          "published_at": "2026-09-21T12:20:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/71ff8ae6879ab37eb0c3505d571285bc3ebe028a.png"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-14",
+          "title": "Bloodskin, 공개에서 실전 검증 단계로",
+          "terms": [
+            "bloodskin"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-14",
+          "title": "Bloodskin 및 Blood Moon 계약 운영",
+          "terms": [
+            "bloodskin"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-21",
+          "title": "Blood Testament 장기 이벤트",
+          "terms": [
+            "이벤트",
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "8fc8e054220bdef69600912d",
+      "url": "https://reddit.com/comments/1w82jjo",
+      "title": "유출보다 빠르게 공식화된 Bloodskin",
+      "first_included_at": "2026-09-12T20:44:00+09:00",
+      "topics": [
+        "balance",
+        "lore"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-12",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 정식 해금 · Stage 3 완료 · Hotfix 2.9.0.1 · Sage of Joseon",
+          "published_at": "2026-09-12T20:44:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-12",
+          "title": "유출보다 빠르게 공식화된 Bloodskin",
+          "terms": [
+            "bloodskin"
+          ]
+        },
+        {
+          "topic": "lore",
+          "briefing_id": "2026-09-12",
+          "title": "유출보다 빠르게 공식화된 Bloodskin",
+          "terms": [
+            "유출"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "425f7448f7a78efcd2a04493",
+      "url": "https://crytek.com/news/blood-testament-comes-to-hunt-showdown-1896-on-september-8th",
+      "title": "Lynch의 혈청이 만든 ‘사냥감’ — Warren Russett에서 Bloodskin까지",
+      "first_included_at": "2026-09-12T20:44:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-12",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 정식 해금 · Stage 3 완료 · Hotfix 2.9.0.1 · Sage of Joseon",
+          "published_at": "2026-09-12T20:44:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-12",
+          "title": "Lynch의 혈청이 만든 ‘사냥감’ — Warren Russett에서 Bloodskin까지",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "11f136984a65d9293cb07735",
+      "url": "https://reddit.com/comments/1wdrfhn",
+      "title": "Bloodskin, 공개에서 실전 검증 단계로",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-14",
+          "title": "Bloodskin, 공개에서 실전 검증 단계로",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "12bfba7db899fd35c7b95464",
+      "url": "https://reddit.com/comments/1we0e6x",
+      "title": "순간이동 때 부착 폭발물 분리 보고",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-14",
+          "title": "보스 판정·이벤트 이후 운용 추적",
+          "terms": [
+            "이벤트"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "1a137a9672e3844fd1ba1a1c",
+      "url": "https://guided.news/en/news/hunt-showdown-1896-bloodskin-is-here-community-unleashes-new-boss",
+      "title": "다음 장 속도와 Bloodskin 정체 추측",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [
+        "balance",
+        "lore"
+      ],
+      "origins": [
+        "unconfirmed",
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-14",
+          "title": "다음 장 속도와 Bloodskin 정체 추측",
+          "terms": [
+            "bloodskin"
+          ]
+        },
+        {
+          "topic": "lore",
+          "briefing_id": "2026-09-14",
+          "title": "다음 장 속도와 Bloodskin 정체 추측",
+          "terms": [
+            "추측"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "f62fc624c61b11646fb037eb",
+      "url": "https://reddit.com/comments/1wdtzic",
+      "title": "글로벌·한국·독일/유럽 화제",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "a1e533b9e3b93cd8c61654b7",
+      "url": "https://reddit.com/comments/1vyz7fh",
+      "title": "글로벌·한국·독일/유럽 화제",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "7e29f97e46d97ea74e7a06a3",
+      "url": "https://youtube.com/watch?v=pA0z6rEtwBY",
+      "title": "The *BLOODSKIN* boss guide + showcase! (HUNT: Showdown Guide).",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-14",
+          "title": "The *BLOODSKIN* boss guide + showcase! (HUNT: Showdown Guide).",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "cb5244df357d50a9ddf60657",
+      "url": "https://youtube.com/watch?v=pFRzpMyxvfs",
+      "title": "The *NEW* Bloodskin Boss Overview | Hunt: Showdown 1896",
+      "first_included_at": "2026-09-14T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-14",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Bloodskin 해금 후 실전 검증 · 순간이동 폭발물 판정 · 첫 주말 공략 확산",
+          "published_at": "2026-09-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-14.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-14",
+          "title": "The *NEW* Bloodskin Boss Overview | Hunt: Showdown 1896",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "09b7d36f6d3dfdc33ea19d81",
+      "url": "https://store.steampowered.com/news/app/594650/view/687517158280790457",
+      "title": "Hotfix 2.9.0.3 — 전투 감도와 Blood Moon 음향 수정",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        },
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "e1fbed78cd45758d53c11dd8",
+      "url": "https://reddit.com/comments/1wh2y34",
+      "title": "Written in Blood 무료 Story Challenge",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [
+        "lore",
+        "events"
+      ],
+      "origins": [
+        "official",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        },
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "lore",
+          "briefing_id": "2026-09-19",
+          "title": "Written in Blood 무료 Story Challenge",
+          "terms": [
+            "story"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-19",
+          "title": "후속 챕터와 트레일러 속 미출시 외형",
+          "terms": [
+            "챕터"
+          ]
+        },
+        {
+          "topic": "lore",
+          "briefing_id": "2026-09-28",
+          "title": "Written in Blood Story Challenge",
+          "terms": [
+            "story"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "6579c66be6136781dd5eb7cd",
+      "url": "https://reddit.com/comments/1wgok4n",
+      "title": "Bloodskin 장갑 파괴와 도약 중단 공략",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-19",
+          "title": "Bloodskin 장갑 파괴와 도약 중단 공략",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "bf5e297e33531857765cf89c",
+      "url": "https://reddit.com/comments/1wjzre5",
+      "title": "Blood Moon 음향 위치 이상 보고",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "d003d0aa380f45a33e65550c",
+      "url": "https://reddit.com/comments/1wjljtw",
+      "title": "서버 지연과 추출 카운트다운 정지 보고",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [
+        "performance"
+      ],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "performance",
+          "briefing_id": "2026-09-19",
+          "title": "서버 지연과 추출 카운트다운 정지 보고",
+          "terms": [
+            "서버"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "b744779cac27dcd52d608a63",
+      "url": "https://reddit.com/comments/1wghcwm",
+      "title": "과거 로어 아카이브 접근 경로 공유",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "7d9b14ec339bbc97423d7866",
+      "url": "https://huntshowdown.com/lore/tagged/events/corruption-s-cup",
+      "title": "Corruption's Cup — Lynch와 혈청의 대가",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "76ee8e92b84167a13f601670",
+      "url": "https://youtube.com/watch?v=duchAOJ0RM0",
+      "title": "The ULTIMATE Bloodskin Boss Guide – Everything You Need To Know (2026)",
+      "first_included_at": "2026-09-19T09:03:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-19",
+          "title": "공식 3건 · 커뮤니티 4건 · 루머 2건",
+          "subtitle": "Hotfix 2.9.0.3 · Written in Blood · Bloodskin 공략·서버 이슈",
+          "published_at": "2026-09-19T09:03:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/a2d4b282dd0c69c259b69514e75bffe727ccba6f.png"
+        },
+        {
+          "id": "2026-09-21",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "2.9.0.3 이후 안정화 · Blood Testament 장기 일정 · Bloodskin 메타",
+          "published_at": "2026-09-21T12:20:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/71ff8ae6879ab37eb0c3505d571285bc3ebe028a.png"
+        },
+        {
+          "id": "2026-09-26",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "Double XP Weekend · 2.9.0.3 최신 유지 · Written in Blood 공략·다음 챕터 추적",
+          "published_at": "2026-09-26T10:25:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-19",
+          "title": "The ULTIMATE Bloodskin Boss Guide – Everything You Need To Know (2026)",
+          "terms": [
+            "bloodskin"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-21",
+          "title": "The ULTIMATE Bloodskin Boss Guide – Everything You Need To Know (2026)",
+          "terms": [
+            "bloodskin"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-26",
+          "title": "The ULTIMATE Bloodskin Boss Guide – Everything You Need To Know (2026)",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "b71130417e91d88b0704489d",
+      "url": "https://reddit.com/comments/1whfmgl",
+      "title": "Blood Testament 2주차 평가",
+      "first_included_at": "2026-09-21T12:20:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-21",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "2.9.0.3 이후 안정화 · Blood Testament 장기 일정 · Bloodskin 메타",
+          "published_at": "2026-09-21T12:20:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/71ff8ae6879ab37eb0c3505d571285bc3ebe028a.png"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-21",
+          "title": "Blood Testament 2주차 평가",
+          "terms": [
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "2bd2f6a8341f364e7a9451d3",
+      "url": "https://reddit.com/comments/1wehkl5",
+      "title": "Blood Wells 제거와 Siphon 희소성",
+      "first_included_at": "2026-09-21T12:20:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-21",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "2.9.0.3 이후 안정화 · Blood Testament 장기 일정 · Bloodskin 메타",
+          "published_at": "2026-09-21T12:20:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/71ff8ae6879ab37eb0c3505d571285bc3ebe028a.png"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "75abd44ce35ba63e5f880454",
+      "url": "https://reddit.com/comments/1wpyxqh",
+      "title": "Double XP Weekend — 이벤트 중반 성장 가속",
+      "first_included_at": "2026-09-26T10:25:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-26",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "Double XP Weekend · 2.9.0.3 최신 유지 · Written in Blood 공략·다음 챕터 추적",
+          "published_at": "2026-09-26T10:25:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-26",
+          "title": "Double XP Weekend — 이벤트 중반 성장 가속",
+          "terms": [
+            "이벤트"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "60990640482249bb94e88d07",
+      "url": "https://reddit.com/comments/1wmhcmc",
+      "title": "Blood Testament 2주차 평가",
+      "first_included_at": "2026-09-26T10:25:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-26",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "Double XP Weekend · 2.9.0.3 최신 유지 · Written in Blood 공략·다음 챕터 추적",
+          "published_at": "2026-09-26T10:25:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-26",
+          "title": "Blood Testament 2주차 평가",
+          "terms": [
+            "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-26",
+          "title": "Blood Testament 후속 챕터 날짜 추적",
+          "terms": [
+            "챕터",
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "958895ad56cef237e07f1565",
+      "url": "https://reddit.com/comments/1wok3qy",
+      "title": "Written in Blood Bloodskin 과제 공략",
+      "first_included_at": "2026-09-26T10:25:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-26",
+          "title": "공식 2건 · 커뮤니티 3건 · 루머 1건",
+          "subtitle": "Double XP Weekend · 2.9.0.3 최신 유지 · Written in Blood 공략·다음 챕터 추적",
+          "published_at": "2026-09-26T10:25:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/0be4c7f9f3bd1cdd99d27e41da281d38cc1dd6b7.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-26",
+          "title": "Written in Blood Bloodskin 과제 공략",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "3dce3b3899a94e8f0cc7b7fc",
+      "url": "https://store.steampowered.com/news/app/594650/view/669503396264281574",
+      "title": "Double XP Weekend Contract",
+      "first_included_at": "2026-09-28T09:05:00+09:00",
+      "topics": [],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "608ff349b9b8754dbdbdd054",
+      "url": "https://reddit.com/comments/1wq4cif",
+      "title": "Bloodskin 점프 공격 차단 판정",
+      "first_included_at": "2026-09-28T09:05:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-28",
+          "title": "Bloodskin 점프 공격 차단 판정",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "77cb91c1c41f4221bc8baf53",
+      "url": "https://reddit.com/comments/1wqm39y",
+      "title": "무기 진행도 분기 재구성 제안",
+      "first_included_at": "2026-09-28T09:05:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-09-28",
+          "title": "무기 진행도 분기 재구성 제안",
+          "terms": [
+            "무기"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "884642eb64542a9773f41494",
+      "url": "https://reddit.com/comments/1wpwv54",
+      "title": "Blood Testament 종료일 확인",
+      "first_included_at": "2026-09-28T09:05:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-09-28",
+          "title": "Blood Testament 종료일 확인",
+          "terms": [
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "4608bf21c30b25cb8d07a3d7",
+      "url": "https://youtube.com/watch?v=YgnxCA9hE1A",
+      "title": "Crytek gave us this \"IMPOSSIBLE\" challenge - This is how I did it",
+      "first_included_at": "2026-09-28T09:05:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "e777261febe50e65111ff12e",
+      "url": "https://youtube.com/watch?v=1_MEY4Fa9Rg",
+      "title": "Zero To Hero VS Trios, But I Have NO MEDKIT...",
+      "first_included_at": "2026-09-28T09:05:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-09-28",
+          "title": "공식 3건 · 커뮤니티 5건 · 루머 2건",
+          "subtitle": "Double XP 마지막 날 · Bloodskin 점프 차단 · 무기 진행도 개선 논의",
+          "published_at": "2026-09-28T09:05:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/09/2026-09-28.html",
+          "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/cf8bfde7a037dad1d38cf841da98da2d30cd70d4.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "df3e88f9bc4c971597d51864",
+      "url": "https://steamcommunity.com/games/594650/announcements/detail/669503396264282555",
+      "title": "Blood Testament Chapter 2",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "official",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-03",
+          "title": "Blood Testament Chapter 2",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-05",
+          "title": "Blood Testament Chapter 2",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "452f4ee2961ef259279e01f6",
+      "url": "https://surveymonkey.com/r/JTL5ZVS",
+      "title": "Player Survey 2026",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "f6c713f069b8d20c9fc40ef2",
+      "url": "https://reddit.com/comments/1wte9uw",
+      "title": "Chapter 2 예고편 반응",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [
+        "events",
+        "balance"
+      ],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-03",
+          "title": "Chapter 2 예고편 반응",
+          "terms": [
+            "chapter"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-03",
+          "title": "Temperance 효과 추정",
+          "terms": [
+            "temperance"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-05",
+          "title": "Temperance 효과 추정",
+          "terms": [
+            "temperance"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "05f0e0d7a1161fc9af437799",
+      "url": "https://reddit.com/comments/1wv3hua",
+      "title": "개발자 방송 형식 평가",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "d5ed58c83b0b114e62193030",
+      "url": "https://reddit.com/comments/1wtm0z4",
+      "title": "장기 이벤트 구조 재평가",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-03",
+          "title": "장기 이벤트 구조 재평가",
+          "terms": [
+            "이벤트"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "b3ff98564b05f797014e012d",
+      "url": "https://youtube.com/watch?v=U571QotRGUQ",
+      "title": "Psychoghost 최신 Hunt 영상",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "f2e4d91f8e72fc4bb5e54642",
+      "url": "https://youtube.com/watch?v=D6r77BrZ05E",
+      "title": "REXNOR 최신 공개 Hunt 영상",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "19bd3392c6731aacc3bea43e",
+      "url": "https://youtube.com/watch?v=USg1YeLrCQ4",
+      "title": "Toxic Pancake 최신 Hunt 영상",
+      "first_included_at": "2026-10-03T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-03",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 2 예고 · Bound by Blood 출시 · Long Derringer·Inferno 귀환",
+          "published_at": "2026-10-03T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-03.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "1ee27d9233c1561ca097646e",
+      "url": "https://reddit.com/comments/1wwshai",
+      "title": "Long Derringer 활용 토론",
+      "first_included_at": "2026-10-05T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-05",
+          "title": "Long Derringer 활용 토론",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "0826936361340160b3c56196",
+      "url": "https://reddit.com/comments/1wu9up4",
+      "title": "Player Survey 우선순위 반응",
+      "first_included_at": "2026-10-05T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "3303f3425380236adfa55a37",
+      "url": "https://youtube.com/watch?v=8lkXlQ2QiLU",
+      "title": "REXNOR 최신 Hunt 영상",
+      "first_included_at": "2026-10-05T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "8fa8864aaf313cea8c7bba37",
+      "url": "https://youtube.com/watch?v=fNJChPCq-Dg",
+      "title": "Toxic Pancake 최신 Hunt 영상",
+      "first_included_at": "2026-10-05T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-05",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Chapter 2 하루 전 · Long Derringer 활용 논쟁 · 콘솔 개선 과제",
+          "published_at": "2026-10-05T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-05.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "63bb88a71d62230c3dde3e6c",
+      "url": "https://huntshowdown.com/news/the-story-of-blood-testament-continues",
+      "title": "Blood Testament Chapter 2 적용",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-10",
+          "title": "Blood Testament Chapter 2 적용",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-12",
+          "title": "All Hallows’ Cleave",
+          "terms": [
+            "hallows"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "bd331a9adc43ee6fe41468ec",
+      "url": "https://huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "title": "Blood Testament Chapter 2 적용",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "events",
+        "balance"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-10",
+          "title": "Blood Testament Chapter 2 적용",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-10",
+          "title": "All Hallows’ Cleave",
+          "terms": [
+            "hallows"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-12",
+          "title": "All Hallows’ Cleave",
+          "terms": [
+            "hallows"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-12",
+          "title": "The Atlas",
+          "terms": [
+            "atlas"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-12",
+          "title": "Temperance",
+          "terms": [
+            "temperance"
+          ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-12",
+          "title": "Long Derringer",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "2aacaa1e05d38da50fdc4dae",
+      "url": "https://huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
+      "title": "Update 2.9.1",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "lore"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "lore",
+          "briefing_id": "2026-10-10",
+          "title": "Cursed Kin Story Challenge",
+          "terms": [
+            "story"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "4213ca031b1d165123f52d29",
+      "url": "https://huntshowdown.com/news/welcome-new-hunters",
+      "title": "PlayStation Plus Game of the Month",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "019097a913c48bf508326b55",
+      "url": "https://reddit.com/comments/1wzzk8b",
+      "title": "Chapter 2 일정 혼선",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-10",
+          "title": "Chapter 2 일정 혼선",
+          "terms": [
+            "chapter"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "95ba8e74191de9bc348461ff",
+      "url": "https://reddit.com/comments/1wz8rab",
+      "title": "All Hallows’ Cleave 페이싱 논쟁",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-10",
+          "title": "All Hallows’ Cleave 페이싱 논쟁",
+          "terms": [
+            "hallows"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "137bf1a41191e622c931705b",
+      "url": "https://reddit.com/comments/1wzjk4p",
+      "title": "Long Derringer 해금 혼선",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-10",
+          "title": "Long Derringer 해금 혼선",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "bf41d392ecf840fe9c5d8b51",
+      "url": "https://reddit.com/comments/1wyz8ep",
+      "title": "Long Derringer 해금 혼선",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-10",
+          "title": "Long Derringer 해금 혼선",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "ba4eb79b25a6d8f4cd001d2d",
+      "url": "https://youtube.com/watch?v=oEQfZN2Rrto",
+      "title": "Psychoghost 최신 Hunt 영상",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "6fb6bcadceda63cbb3a67f45",
+      "url": "https://youtube.com/watch?v=z6tvxmeZjAk",
+      "title": "REXNOR 최신 공개 Hunt 영상",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "ad6646bb28f1a94cf18facae",
+      "url": "https://youtube.com/watch?v=tfqLEE_P4cI",
+      "title": "Toxic Pancake 최신 Hunt 영상",
+      "first_included_at": "2026-10-10T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-10",
+          "title": "공식 6건 · 커뮤니티 6건",
+          "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
+          "published_at": "2026-10-10T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "9acd1bbea0217169854acce7",
+      "url": "https://reddit.com/comments/1x2he70",
+      "title": "Chapter 2 체감 부족 논쟁",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-12",
+          "title": "Chapter 2 체감 부족 논쟁",
+          "terms": [
+            "chapter"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "51f4da5ad69313b8f4660b63",
+      "url": "https://reddit.com/comments/1x0i3g0",
+      "title": "이벤트와 기본 Hunt 선호 논쟁",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-10-12",
+          "title": "이벤트와 기본 Hunt 선호 논쟁",
+          "terms": [
+            "이벤트"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "c37163d6a77bc05fa31fc3ad",
+      "url": "https://reddit.com/comments/1x2riv9",
+      "title": "현재 근접 무기 평가",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-12",
+          "title": "현재 근접 무기 평가",
+          "terms": [
+            "무기",
+            "근접"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "af785b765b331fbf9332d4a4",
+      "url": "https://reddit.com/comments/1x2qsn1",
+      "title": "2-slot Hand Crossbow 위시리스트",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-10-12",
+          "title": "2-slot Hand Crossbow 위시리스트",
+          "terms": [
+            "crossbow"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "66e4798a697e29adc9140373",
+      "url": "https://youtube.com/watch?v=rXi3m1cVkWQ",
+      "title": "Psychoghost 최신 Hunt 영상",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "6ea0455a4e595960b69e2193",
+      "url": "https://youtube.com/watch?v=etmn-yCrPFg",
+      "title": "REXNOR 최신 공개 Hunt 영상",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "d3bcc694d3e400c1c1eacb60",
+      "url": "https://youtube.com/watch?v=G_KB7fXecYI",
+      "title": "Toxic Pancake 최신 Hunt 영상",
+      "first_included_at": "2026-10-12T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-10-12",
+          "title": "공식 4건 · 커뮤니티 7건",
+          "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
+          "published_at": "2026-10-12T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    }
+  ],
+  "excluded": [
+    {
+      "briefing_id": "2026-09-07",
+      "title": "Community Event에서 Stage III 신규 몬스터까지",
+      "url": "https://steamcommunity.com/app/594650/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "New Partners | Blood Testament",
+      "url": "https://steamcommunity.com/app/594650/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "Stage III 정체와 첫 주 공동 진행 속도",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "Stage III NEW MONSTER 공식 확인",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "Blood Testament + Update 2.9",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "New Partners 공개",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "🇰🇷 한국 · 2.9 실전 변경 준비",
+      "url": "https://steamcommunity.com/app/594650/?l=koreana",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "🇯🇵 일본 · 단계형 공동 이벤트",
+      "url": "https://steamcommunity.com/app/594650/?l=japanese",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "🇨🇳 중국 · Blood Moon과 신규 몬스터",
+      "url": "https://steamcommunity.com/app/594650/?l=schinese",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "🇩🇪 독일 / 유럽 · 시스템 개편과 신규 위협",
+      "url": "https://steamcommunity.com/app/594650/?l=german",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "공식·플랫폼",
+      "url": "https://www.huntshowdown.com/news",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "공식·플랫폼",
+      "url": "https://steamcommunity.com/app/594650/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "공식·플랫폼",
+      "url": "https://steamdb.info/app/594650/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-07",
+      "title": "지역별 공개 커뮤니티",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-08",
+      "title": "Update 2.9 + Blood Testament 배포",
+      "url": "https://steamcommunity.com/app/594650/announcements/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-08",
+      "title": "🇰🇷 한국 · 서버 점검 시간과 91.2GB 업데이트",
+      "url": "https://steamcommunity.com/app/594650/announcements/?l=koreana",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-08",
+      "title": "🇯🇵 일본 · Blood Testament 개시와 로드맵 확인",
+      "url": "https://steamcommunity.com/app/594650/announcements/?l=japanese",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-08",
+      "title": "🇨🇳 중국 · 신규 몬스터와 Burgess 기대",
+      "url": "https://steamcommunity.com/app/594650/announcements/?l=schinese",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-08",
+      "title": "🇩🇪 독일 / 유럽 · 점검 시각·MMR·Fair Play 개편",
+      "url": "https://steamcommunity.com/app/594650/announcements/?l=german",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-12",
+      "title": "Stage 3 돌파 — Bloodskin이 실제 사냥감으로 등장",
+      "url": "https://store.steampowered.com/oldnews/?appgroupname=Hunt%3A+Showdown&appids=594650&feed=steam_community_announcements",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-12",
+      "title": "2.9.0.1 핫픽스와 출시 직후 안정화",
+      "url": "https://steamcommunity.com/app/594650/announcements/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-12",
+      "title": "Stage 3 보스 루머는 종료 — 이제 후속 챕터가 미확인 영역",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-12",
+      "title": "지역별 공개 화제",
+      "url": "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-14",
+      "title": "Hotfix 2.9.0.1과 Sage of Joseon",
+      "url": "https://steamcommunity.com/app/594650/allnews/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-14",
+      "title": "Hotfix 2.9.0.1과 Sage of Joseon",
+      "url": "https://steamdb.info/app/594650/patchnotes/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-14",
+      "title": "Hotfix 2.9.0.1과 Sage of Joseon",
+      "url": "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-14",
+      "title": "글로벌·한국·독일/유럽 화제",
+      "url": "https://store.steampowered.com/app/4730770/Hunt_Showdown_1896__Sage_of_Joseon/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-19",
+      "title": "Burgess·Saddle Bags·크래시 세부 수정",
+      "url": "https://steamcommunity.com/app/594650/allnews/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-19",
+      "title": "Burgess·Saddle Bags·크래시 세부 수정",
+      "url": "https://steamdb.info/app/594650/patchnotes/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-21",
+      "title": "Hotfix 2.9.0.3 이후 공식 최신 상태",
+      "url": "https://steamcommunity.com/app/594650/announcements/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-21",
+      "title": "추가 핫픽스 가능성",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-26",
+      "title": "Hotfix 2.9.0.3이 여전히 최신",
+      "url": "https://steamcommunity.com/app/594650/announcements/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-09-28",
+      "title": "후속 핫픽스 배포 시점",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-09-28",
+      "title": "Blood Testament 다음 챕터 날짜",
+      "reason": "no_source"
+    },
+    {
+      "briefing_id": "2026-10-03",
+      "title": "Bound by Blood DLC",
+      "url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-10-03",
+      "title": "Crytek Autumn Sale",
+      "url": "https://steamcommunity.com/app/594650/announcements/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-10-05",
+      "title": "Bound by Blood DLC",
+      "url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-10-05",
+      "title": "Crytek Autumn Sale",
+      "url": "https://steamcommunity.com/app/594650/announcements/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-10-10",
+      "title": "Bound by Blood DLC",
+      "url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+      "reason": "unidentified_article"
+    }
+  ]
+}
