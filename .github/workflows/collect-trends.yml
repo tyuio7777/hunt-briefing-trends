@@ -1,0 +1,47 @@
+name: Collect Hunt trends
+on:
+  schedule:
+    - cron: '13,43 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/**', 'tests/**', 'config/**', '.github/workflows/collect-trends.yml']
+permissions:
+  contents: write
+concurrency:
+  group: hunt-trends-main
+  cancel-in-progress: false
+jobs:
+  collect:
+    if: github.repository == 'tyuio7777/hunt-briefing-trends'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - name: Validate collector
+        run: python3 -m unittest discover -s tests -v
+      - name: Read sources and collect current Steam players
+        id: collect
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 tools/collect.py
+      - name: Publish validated results in this repository only
+        if: always() && steps.collect.outcome != 'skipped'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for dir in data observations state; do
+            if [ -d "$dir" ]; then git add "$dir"; fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh trends and Steam observation'
+            git push origin HEAD:main
+          fi
+      - name: Report incomplete collection
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'Collection incomplete. Previous valid data is preserved; see data/status.json.'
+          exit 1
