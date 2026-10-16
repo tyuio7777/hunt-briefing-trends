@@ -256,7 +256,16 @@ def events_feed(snapshots, supplements, now):
         if key in merged:
             for field in ("kind", "participation", "platforms"):
                 if field in extra: merged[key][field] = extra[field]
+    notices = supplements.get("server_notices", [])
+    for notice in notices:
+        if (notice.get("region") not in ("global", "asia", "us-west") or
+            notice.get("status") not in ("degraded", "outage", "maintenance", "resolved") or
+            not notice.get("evidence") or not notice.get("title") or not notice.get("id") or
+            not url_key(notice.get("source_url")) or
+            not timedelta(0) < stamp(notice["expires_at"]) - stamp(notice["verified_at"]) <= timedelta(days=7)):
+            raise ValueError("Invalid verified server notice")
     return {"schema_version": "1.0", "generated_at": iso(now), "status": "ok", "invalid_event_count": invalid,
+        "server_notices": notices,
         "events": sorted(merged.values(), key=lambda x: (x["start_date"], x["event_id"]))}
 
 def slot(d):

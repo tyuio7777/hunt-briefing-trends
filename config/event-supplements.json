@@ -21,6 +21,7 @@
       "monitor_html_sha": "e4c42ef6e2f45fcf361a907b4fbadaaad727a915"
     }
   ],
+  "server_notices": [],
   "event_aliases": {},
   "event_details": {
     "hunt-blood-testament": {"kind":"play","participation":"게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.","platforms":"플랫폼별 상세 조건은 공식 안내 확인"},

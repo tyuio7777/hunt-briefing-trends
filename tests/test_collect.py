@@ -105,6 +105,19 @@ class EventTests(unittest.TestCase):
     def test_milestone_not_expanded(self):
         e=c.normalize_event(event(start_date='2026-10-16',end_date='2026-10-16'))
         self.assertEqual(e['start_date'],e['end_date'])
+    def test_server_notice_requires_evidence_and_expiry(self):
+        s=supplements(); s['server_notices']=[{'region':'asia','status':'outage'}]
+        with self.assertRaises(ValueError): c.events_feed([],s,NOW)
+    def test_verified_server_notice(self):
+        s=supplements(); s['server_notices']=[{'id':'test-only','title':'TEST','summary':'TEST',
+            'region':'us-west','status':'degraded','source_url':'https://www.huntshowdown.com/news/test',
+            'verified_at':c.iso(NOW),'expires_at':c.iso(NOW+timedelta(hours=1)),'evidence':'test fixture only'}]
+        self.assertEqual(len(c.events_feed([],s,NOW)['server_notices']),1)
+    def test_notice_cannot_be_indefinite(self):
+        s=supplements(); s['server_notices']=[{'id':'test-only','title':'TEST','region':'global','status':'outage',
+            'source_url':'https://www.huntshowdown.com/news/test', 'verified_at':c.iso(NOW),
+            'expires_at':c.iso(NOW+timedelta(days=8)),'evidence':'test fixture only'}]
+        with self.assertRaises(ValueError): c.events_feed([],s,NOW)
 
 class ObservationTests(unittest.TestCase):
     def test_true_zero_allowed(self):
