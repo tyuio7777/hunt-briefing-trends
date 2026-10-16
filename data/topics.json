@@ -1,230 +1,25 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-16T13:26:51Z",
+  "generated_at": "2026-10-16T16:24:48Z",
   "status": "ok",
   "scope": "briefing_sources",
-  "from_date": "2026-10-10",
-  "through_date": "2026-10-16",
-  "previous_from_date": "2026-10-03",
-  "total": 18,
-  "previous_total": 12,
-  "small_sample": false,
+  "from_date": "2026-10-11",
+  "through_date": "2026-10-17",
+  "previous_from_date": "2026-10-04",
+  "total": 7,
+  "previous_total": 15,
+  "small_sample": true,
   "excluded_total": 39,
   "registry_total": 63,
   "topics": [
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 6,
-      "previous_count": 3,
-      "share": 0.3333333333333333,
-      "previous_share": 0.25,
+      "count": 2,
+      "previous_count": 4,
+      "share": 0.2857142857142857,
+      "previous_share": 0.26666666666666666,
       "articles": [
-        {
-          "id": "63bb88a71d62230c3dde3e6c",
-          "url": "https://huntshowdown.com/news/the-story-of-blood-testament-continues",
-          "title": "Blood Testament Chapter 2 적용",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            },
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "Blood Testament Chapter 2 적용",
-              "terms": [
-                "chapter",
-                "blood testament"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-12",
-              "title": "All Hallows’ Cleave",
-              "terms": [
-                "hallows"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "bd331a9adc43ee6fe41468ec",
-          "url": "https://huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
-          "title": "Blood Testament Chapter 2 적용",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "events",
-            "balance"
-          ],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            },
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "Blood Testament Chapter 2 적용",
-              "terms": [
-                "chapter",
-                "blood testament"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "All Hallows’ Cleave",
-              "terms": [
-                "hallows"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-12",
-              "title": "All Hallows’ Cleave",
-              "terms": [
-                "hallows"
-              ]
-            },
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "The Atlas",
-              "terms": [
-                "atlas"
-              ]
-            },
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "Temperance",
-              "terms": [
-                "temperance"
-              ]
-            },
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "Long Derringer",
-              "terms": [
-                "derringer"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "019097a913c48bf508326b55",
-          "url": "https://reddit.com/comments/1wzzk8b",
-          "title": "Chapter 2 일정 혼선",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "Chapter 2 일정 혼선",
-              "terms": [
-                "chapter"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "95ba8e74191de9bc348461ff",
-          "url": "https://reddit.com/comments/1wz8rab",
-          "title": "All Hallows’ Cleave 페이싱 논쟁",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "All Hallows’ Cleave 페이싱 논쟁",
-              "terms": [
-                "hallows"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
         {
           "id": "9acd1bbea0217169854acce7",
           "url": "https://reddit.com/comments/1x2he70",
@@ -298,164 +93,11 @@
     {
       "id": "balance",
       "name": "무기·특성·밸런스",
-      "count": 5,
-      "previous_count": 2,
-      "share": 0.2777777777777778,
-      "previous_share": 0.16666666666666666,
+      "count": 2,
+      "previous_count": 4,
+      "share": 0.2857142857142857,
+      "previous_share": 0.26666666666666666,
       "articles": [
-        {
-          "id": "bd331a9adc43ee6fe41468ec",
-          "url": "https://huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
-          "title": "Blood Testament Chapter 2 적용",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "events",
-            "balance"
-          ],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            },
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "Blood Testament Chapter 2 적용",
-              "terms": [
-                "chapter",
-                "blood testament"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-10",
-              "title": "All Hallows’ Cleave",
-              "terms": [
-                "hallows"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-12",
-              "title": "All Hallows’ Cleave",
-              "terms": [
-                "hallows"
-              ]
-            },
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "The Atlas",
-              "terms": [
-                "atlas"
-              ]
-            },
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "Temperance",
-              "terms": [
-                "temperance"
-              ]
-            },
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "Long Derringer",
-              "terms": [
-                "derringer"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "137bf1a41191e622c931705b",
-          "url": "https://reddit.com/comments/1wzjk4p",
-          "title": "Long Derringer 해금 혼선",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "balance"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-10",
-              "title": "Long Derringer 해금 혼선",
-              "terms": [
-                "derringer"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "bf41d392ecf840fe9c5d8b51",
-          "url": "https://reddit.com/comments/1wyz8ep",
-          "title": "Long Derringer 해금 혼선",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "balance"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-10",
-              "title": "Long Derringer 해금 혼선",
-              "terms": [
-                "derringer"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
         {
           "id": "c37163d6a77bc05fa31fc3ad",
           "url": "https://reddit.com/comments/1x2riv9",
@@ -548,147 +190,20 @@
     {
       "id": "lore",
       "name": "세계관·추측",
-      "count": 1,
-      "previous_count": 0,
-      "share": 0.05555555555555555,
-      "previous_share": 0.0,
-      "articles": [
-        {
-          "id": "2aacaa1e05d38da50fdc4dae",
-          "url": "https://huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
-          "title": "Update 2.9.1",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [
-            "lore"
-          ],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "lore",
-              "briefing_id": "2026-10-10",
-              "title": "Cursed Kin Story Challenge",
-              "terms": [
-                "story"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        }
-      ]
+      "count": 0,
+      "previous_count": 1,
+      "share": 0.0,
+      "previous_share": 0.06666666666666667,
+      "articles": []
     },
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 7,
-      "previous_count": 8,
-      "share": 0.3888888888888889,
-      "previous_share": 0.6666666666666666,
+      "count": 3,
+      "previous_count": 7,
+      "share": 0.42857142857142855,
+      "previous_share": 0.4666666666666667,
       "articles": [
-        {
-          "id": "4213ca031b1d165123f52d29",
-          "url": "https://huntshowdown.com/news/welcome-new-hunters",
-          "title": "PlayStation Plus Game of the Month",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "ba4eb79b25a6d8f4cd001d2d",
-          "url": "https://youtube.com/watch?v=oEQfZN2Rrto",
-          "title": "Psychoghost 최신 Hunt 영상",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "6fb6bcadceda63cbb3a67f45",
-          "url": "https://youtube.com/watch?v=z6tvxmeZjAk",
-          "title": "REXNOR 최신 공개 Hunt 영상",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "ad6646bb28f1a94cf18facae",
-          "url": "https://youtube.com/watch?v=tfqLEE_P4cI",
-          "title": "Toxic Pancake 최신 Hunt 영상",
-          "first_included_at": "2026-10-10T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-10",
-              "title": "공식 6건 · 커뮤니티 6건",
-              "subtitle": "Chapter 2 실전 전환 · All Hallows’ Cleave 10월 13일 · Temperance·Long Derringer 확정",
-              "published_at": "2026-10-10T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-10.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
         {
           "id": "66e4798a697e29adc9140373",
           "url": "https://youtube.com/watch?v=rXi3m1cVkWQ",
@@ -763,5 +278,5 @@
   ],
   "latest_briefing_at": "2026-10-12T09:00:00+09:00",
   "source_sha": "496fd3ac4c24c540d85d4266caf68754ff363998",
-  "source_checked_at": "2026-10-16T13:26:51Z"
+  "source_checked_at": "2026-10-16T16:24:48Z"
 }
