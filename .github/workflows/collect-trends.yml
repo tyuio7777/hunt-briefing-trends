@@ -1,7 +1,7 @@
 name: Collect Hunt trends
 on:
   schedule:
-    - cron: '13,43 * * * *'
+    - cron: '13/30 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
