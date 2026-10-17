@@ -1,0 +1,221 @@
+{
+  "issue": {
+    "id": "2026-10-17",
+    "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+    "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+    "published_at": "2026-10-17T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+  },
+  "document": {
+    "date": "2026-10-17",
+    "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+    "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.10.17",
+    "published_at": "2026-10-17T09:00:00+09:00",
+    "summary": "All Hallows’ Cleave 개시 후 첫 주말, Stage 1 진행 보정과 감염 컴파운드 실전 반응, 추가 보정·Long Derringer 해금 추측을 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 Blood Testament Chapter 2",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 8,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-update-2-9-1",
+        "title": "Update 2.9.1 적용",
+        "summary": "Cursed Kin Story Challenge와 DLC Hunter 아바타, 다수의 조작·오디오·진행 수정이 적용된 업데이트입니다.",
+        "start_date": "2026-10-05",
+        "end_date": "2026-10-05",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/update-291-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-2-start",
+        "title": "Blood Testament Chapter 2 시작",
+        "summary": "Inferno와 Firefighter Supply를 포함한 Blood Testament Chapter 2 시작일입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-10-06",
+        "source_url": "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-playstation-plus-game-of-month-2026-10",
+        "title": "PlayStation Plus Game of the Month",
+        "summary": "Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-11-02",
+        "source_url": "https://www.huntshowdown.com/news/welcome-new-hunters",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-dlc-bound-by-blood-release",
+        "title": "Bound by Blood DLC 출시",
+        "summary": "The Protegee Hunter와 고딕 테마 외형을 포함한 Bound by Blood DLC 출시일입니다.",
+        "start_date": "2026-10-07",
+        "end_date": "2026-10-07",
+        "source_url": "https://store.steampowered.com/app/4733620/Hunt_Showdown_1896__Bound_by_Blood/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-all-hallows-cleave-start",
+        "title": "All Hallows’ Cleave 시작",
+        "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열리는 Community Event 시작일입니다.",
+        "start_date": "2026-10-13",
+        "end_date": "2026-10-13",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "all-hallows-cleave-live",
+        "category": "official",
+        "title": "All Hallows’ Cleave 라이브",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+          "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues"
+        ]
+      },
+      {
+        "id": "all-hallows-stage1-boost",
+        "category": "official",
+        "title": "Stage 1 진행 보정",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x6h4rt/all_hallows_cleave_community_event/"
+        ]
+      },
+      {
+        "id": "infected-compounds-weavers",
+        "category": "official",
+        "title": "감염 컴파운드와 Weaver",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "all-hallows-reward-roadmap",
+        "category": "official",
+        "title": "Atlas·Temperance·Long Derringer 단계 보상",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "reddit-event-progress-pacing",
+        "category": "community",
+        "title": "공동 진행 속도 논쟁",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x69po0/how_it_feels_trying_to_grind_out_this_event_i_i/",
+          "https://www.reddit.com/r/HuntShowdown/comments/1x679gj/chapter_2_event_what_happens_when_the_community/"
+        ]
+      },
+      {
+        "id": "reddit-event-content-density",
+        "category": "community",
+        "title": "Chapter 2 체감 밀도 논쟁",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x7fji1/biggest_event_of_the_year_fell_kinda_flat/"
+        ]
+      },
+      {
+        "id": "reddit-nitro-1000-kill-ama",
+        "category": "community",
+        "title": "Nitro 1,000킬 AMA",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x6f2z0/i_got_1000_kills_with_the_nitro_ama/"
+        ]
+      },
+      {
+        "id": "community-last-blood-cup",
+        "category": "community",
+        "title": "Last Blood 독립 커뮤니티 컵",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x0ut0d/were_hosting_an_independent_hunt_showdown/"
+        ]
+      },
+      {
+        "id": "bilibili-bound-by-blood-showcase",
+        "category": "community",
+        "title": "중국 Bound by Blood 실기 소개",
+        "source_urls": [
+          "https://www.bilibili.com/video/BV1SHYw6rEk3/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-uMAkhWt7lIw",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=uMAkhWt7lIw"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-zZTkZHO47lw",
+        "category": "community",
+        "title": "REXNOR 최신 공개 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=zZTkZHO47lw"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-t9RSEQc3MiE",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=t9RSEQc3MiE"
+        ]
+      },
+      {
+        "id": "rumor-more-progress-boosts",
+        "category": "rumor",
+        "title": "추가 진행 보정·주말 부스트설",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x69po0/how_it_feels_trying_to_grind_out_this_event_i_i/",
+          "https://www.reddit.com/r/HuntShowdown/comments/1x679gj/chapter_2_event_what_happens_when_the_community/"
+        ]
+      },
+      {
+        "id": "rumor-long-derringer-early-access",
+        "category": "rumor",
+        "title": "Long Derringer 제한적 조기 사용설",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wy6f1y/the_only_loadout_ill_use_the_long_dinger_for/",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x6h4rt/all_hallows_cleave_community_event/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x69po0/how_it_feels_trying_to_grind_out_this_event_i_i/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x7fji1/biggest_event_of_the_year_fell_kinda_flat/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x679gj/chapter_2_event_what_happens_when_the_community/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wy6f1y/the_only_loadout_ill_use_the_long_dinger_for/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x6f2z0/i_got_1000_kills_with_the_nitro_ama/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x0ut0d/were_hosting_an_independent_hunt_showdown/",
+      "https://www.bilibili.com/video/BV1SHYw6rEk3/",
+      "https://steamdb.info/app/594650/history/",
+      "https://www.huntshowdown.com/lore/the-testament",
+      "https://www.huntshowdown.com/news/welcome-new-hunters",
+      "https://www.youtube.com/watch?v=uMAkhWt7lIw",
+      "https://www.youtube.com/watch?v=zZTkZHO47lw",
+      "https://www.youtube.com/watch?v=t9RSEQc3MiE"
+    ]
+  }
+}

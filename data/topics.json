@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-16T23:43:37Z",
+  "generated_at": "2026-10-17T00:13:37Z",
   "status": "ok",
   "scope": "briefing_sources",
   "from_date": "2026-10-11",
   "through_date": "2026-10-17",
   "previous_from_date": "2026-10-04",
-  "total": 7,
+  "total": 18,
   "previous_total": 15,
-  "small_sample": true,
+  "small_sample": false,
   "excluded_total": 39,
-  "registry_total": 63,
+  "registry_total": 74,
   "topics": [
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 2,
+      "count": 3,
       "previous_count": 4,
-      "share": 0.2857142857142857,
+      "share": 0.16666666666666666,
       "previous_share": 0.26666666666666666,
       "articles": [
         {
@@ -87,15 +87,49 @@
             }
           ],
           "rule_version": "1"
+        },
+        {
+          "id": "ecc58d7415d741560abed76e",
+          "url": "https://reddit.com/comments/1x7fji1",
+          "title": "Chapter 2 체감 밀도 논쟁",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [
+            "events"
+          ],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "events",
+              "briefing_id": "2026-10-17",
+              "title": "Chapter 2 체감 밀도 논쟁",
+              "terms": [
+                "chapter"
+              ]
+            }
+          ],
+          "rule_version": "1"
         }
       ]
     },
     {
       "id": "balance",
       "name": "무기·특성·밸런스",
-      "count": 2,
+      "count": 3,
       "previous_count": 4,
-      "share": 0.2857142857142857,
+      "share": 0.16666666666666666,
       "previous_share": 0.26666666666666666,
       "articles": [
         {
@@ -166,6 +200,40 @@
             }
           ],
           "rule_version": "1"
+        },
+        {
+          "id": "c493133831ed78bde05a6f99",
+          "url": "https://reddit.com/comments/1wy6f1y",
+          "title": "Long Derringer 제한적 조기 사용설",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [
+            "balance"
+          ],
+          "origins": [
+            "unconfirmed"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "balance",
+              "briefing_id": "2026-10-17",
+              "title": "Long Derringer 제한적 조기 사용설",
+              "terms": [
+                "derringer"
+              ]
+            }
+          ],
+          "rule_version": "1"
         }
       ]
     },
@@ -199,9 +267,9 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 3,
+      "count": 12,
       "previous_count": 7,
-      "share": 0.42857142857142855,
+      "share": 0.6666666666666666,
       "previous_share": 0.4666666666666667,
       "articles": [
         {
@@ -272,11 +340,220 @@
           ],
           "evidence": [],
           "rule_version": "1"
+        },
+        {
+          "id": "d6d8ec0f6e32ba8dc3f653fd",
+          "url": "https://reddit.com/comments/1x6h4rt",
+          "title": "Stage 1 진행 보정",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "official"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "3c8cca46d62025fb749d93f1",
+          "url": "https://reddit.com/comments/1x69po0",
+          "title": "공동 진행 속도 논쟁",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community",
+            "unconfirmed"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "cb99913de28e44c3cfaf2698",
+          "url": "https://reddit.com/comments/1x679gj",
+          "title": "공동 진행 속도 논쟁",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community",
+            "unconfirmed"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "693da3744550d709a9dc6219",
+          "url": "https://reddit.com/comments/1x6f2z0",
+          "title": "Nitro 1,000킬 AMA",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "b083cda6da6b6d4782f5ebe2",
+          "url": "https://reddit.com/comments/1x0ut0d",
+          "title": "Last Blood 독립 커뮤니티 컵",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "c50f8d828ed0d5c5daa47af8",
+          "url": "https://bilibili.com/video/BV1SHYw6rEk3",
+          "title": "중국 Bound by Blood 실기 소개",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "24a4cff2e241f6fe2c4249f2",
+          "url": "https://youtube.com/watch?v=uMAkhWt7lIw",
+          "title": "Psychoghost 최신 Hunt 영상",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "12118abab7b219e7f25004de",
+          "url": "https://youtube.com/watch?v=zZTkZHO47lw",
+          "title": "REXNOR 최신 공개 Hunt 영상",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "fb62a1d342c77a35aaa12584",
+          "url": "https://youtube.com/watch?v=t9RSEQc3MiE",
+          "title": "Toxic Pancake 최신 Hunt 영상",
+          "first_included_at": "2026-10-17T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-17",
+              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
+              "published_at": "2026-10-17T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-17.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
         }
       ]
     }
   ],
-  "latest_briefing_at": "2026-10-12T09:00:00+09:00",
-  "source_sha": "496fd3ac4c24c540d85d4266caf68754ff363998",
-  "source_checked_at": "2026-10-16T23:43:37Z"
+  "latest_briefing_at": "2026-10-17T09:00:00+09:00",
+  "source_sha": "267408c5708abda392530c315203c6be21901556",
+  "source_checked_at": "2026-10-17T00:13:37Z"
 }

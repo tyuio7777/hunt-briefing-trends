@@ -1,6 +1,7 @@
 {
   "schema_version": "1.0",
   "articles": {
+    "https://bilibili.com/video/BV1SHYw6rEk3": "2026-10-17T09:00:00+09:00",
     "https://crytek.com/news/blood-testament-comes-to-hunt-showdown-1896-on-september-8th": "2026-09-12T20:44:00+09:00",
     "https://guided.news/en/news/hunt-showdown-1896-bloodskin-is-here-community-unleashes-new-boss": "2026-09-14T09:00:00+09:00",
     "https://huntshowdown.com/lore/tagged/events/corruption-s-cup": "2026-09-19T09:03:00+09:00",
@@ -35,14 +36,21 @@
     "https://reddit.com/comments/1wu9up4": "2026-10-05T09:00:00+09:00",
     "https://reddit.com/comments/1wv3hua": "2026-10-03T09:00:00+09:00",
     "https://reddit.com/comments/1wwshai": "2026-10-05T09:00:00+09:00",
+    "https://reddit.com/comments/1wy6f1y": "2026-10-17T09:00:00+09:00",
     "https://reddit.com/comments/1wyz8ep": "2026-10-10T09:00:00+09:00",
     "https://reddit.com/comments/1wz8rab": "2026-10-10T09:00:00+09:00",
     "https://reddit.com/comments/1wzjk4p": "2026-10-10T09:00:00+09:00",
     "https://reddit.com/comments/1wzzk8b": "2026-10-10T09:00:00+09:00",
     "https://reddit.com/comments/1x0i3g0": "2026-10-12T09:00:00+09:00",
+    "https://reddit.com/comments/1x0ut0d": "2026-10-17T09:00:00+09:00",
     "https://reddit.com/comments/1x2he70": "2026-10-12T09:00:00+09:00",
     "https://reddit.com/comments/1x2qsn1": "2026-10-12T09:00:00+09:00",
     "https://reddit.com/comments/1x2riv9": "2026-10-12T09:00:00+09:00",
+    "https://reddit.com/comments/1x679gj": "2026-10-17T09:00:00+09:00",
+    "https://reddit.com/comments/1x69po0": "2026-10-17T09:00:00+09:00",
+    "https://reddit.com/comments/1x6f2z0": "2026-10-17T09:00:00+09:00",
+    "https://reddit.com/comments/1x6h4rt": "2026-10-17T09:00:00+09:00",
+    "https://reddit.com/comments/1x7fji1": "2026-10-17T09:00:00+09:00",
     "https://steamcommunity.com/games/594650/announcements/detail/669503396264282555": "2026-10-03T09:00:00+09:00",
     "https://store.steampowered.com/news/app/594650/view/669503396264281574": "2026-09-28T09:05:00+09:00",
     "https://store.steampowered.com/news/app/594650/view/687517158280790457": "2026-09-19T09:03:00+09:00",
@@ -62,7 +70,10 @@
     "https://youtube.com/watch?v=pA0z6rEtwBY": "2026-09-14T09:00:00+09:00",
     "https://youtube.com/watch?v=pFRzpMyxvfs": "2026-09-14T09:00:00+09:00",
     "https://youtube.com/watch?v=rXi3m1cVkWQ": "2026-10-12T09:00:00+09:00",
+    "https://youtube.com/watch?v=t9RSEQc3MiE": "2026-10-17T09:00:00+09:00",
     "https://youtube.com/watch?v=tfqLEE_P4cI": "2026-10-10T09:00:00+09:00",
-    "https://youtube.com/watch?v=z6tvxmeZjAk": "2026-10-10T09:00:00+09:00"
+    "https://youtube.com/watch?v=uMAkhWt7lIw": "2026-10-17T09:00:00+09:00",
+    "https://youtube.com/watch?v=z6tvxmeZjAk": "2026-10-10T09:00:00+09:00",
+    "https://youtube.com/watch?v=zZTkZHO47lw": "2026-10-17T09:00:00+09:00"
   }
 }
