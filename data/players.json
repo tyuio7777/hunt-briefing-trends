@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-18T05:13:36Z",
+  "generated_at": "2026-10-18T05:15:13Z",
   "status": "ok",
   "source_url": "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650",
   "scope": "steam_global_online",
