@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import copy
 import hashlib
+import html
 import json
 import os
 import re
@@ -21,6 +22,10 @@ KST = timezone(timedelta(hours=9))
 FEED = "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/"
 TREE = "https://api.github.com/repos/tyuio7777/hunt-briefing-feed/git/trees/main?recursive=1"
 STEAM = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650"
+STEAM_NEWS = "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=594650&count=20&maxlength=1&feeds=steam_community_announcements&format=json"
+NEWS_FEED = "steam_community_announcements"
+NEWS_LIMIT = 20
+NEWS_DAYS = 90
 ROOT = Path(__file__).resolve().parents[1]
 DETAIL_DAYS = 90
 SUMMARY_DAYS = 730
@@ -71,6 +76,91 @@ def safe_feed_url(url, suffix):
     return (isinstance(url, str) and url.startswith(FEED + "feed/") and
             re.fullmatch(r"[A-Za-z0-9_/-]+\." + suffix, url[len(FEED):]) is not None and
             ".." not in url)
+
+def safe_news_url(value):
+    if not isinstance(value, str) or len(value) > 2048:
+        return False
+    try:
+        p = urllib.parse.urlsplit(value)
+        if p.scheme != 'https' or p.username or p.password or p.port not in (None, 443) or p.query or p.fragment:
+            return False
+        if p.hostname in ('store.steampowered.com', 'steamstore-a.akamaihd.net'):
+            return re.fullmatch(r'/news/externalpost/steam_community_announcements/[0-9]+', p.path) is not None or (
+                p.hostname == 'store.steampowered.com' and
+                re.fullmatch(r'/news/app/594650/view/[0-9]+', p.path) is not None)
+        return p.hostname == 'steamcommunity.com' and re.fullmatch(
+            r'/(?:app|games)/594650/announcements/detail/[0-9]+', p.path) is not None
+    except ValueError:
+        return False
+
+def steam_news_feed(payload, now):
+    """Only publisher announcements. Never infer server health from news titles."""
+    app = payload.get('appnews') if isinstance(payload, dict) else None
+    if not isinstance(app, dict) or app.get('appid') != 594650 or not isinstance(app.get('newsitems'), list):
+        raise ValueError('Invalid Steam news response')
+    rows = app['newsitems']
+    if len(rows) > 100: raise ValueError('Steam news response too large')
+    items = {}
+    official = 0
+    for row in rows:
+        if not isinstance(row, dict): raise ValueError('Invalid news item')
+        if row.get('feedname') != NEWS_FEED: continue
+        official += 1
+        gid, title, epoch, url = row.get('gid'), row.get('title'), row.get('date'), row.get('url')
+        if (row.get('appid') != 594650 or not isinstance(gid, str) or not re.fullmatch(r'[0-9]{1,30}', gid)
+                or not isinstance(title, str) or not title.strip() or len(title) > 500
+                or type(epoch) is not int or not 946684800 <= epoch <= 7258118400 or not safe_news_url(url)):
+            raise ValueError('Invalid official news item')
+        published = datetime.fromtimestamp(epoch, UTC)
+        if not now - timedelta(days=NEWS_DAYS) <= published <= now: continue
+        title = ' '.join(re.sub(r'<[^>]*>', '', html.unescape(title)).split())
+        if not title: raise ValueError('Empty news title')
+        items.setdefault(gid, {'id': gid, 'title': title, 'published_at': iso(published),
+            'source_url': url})
+    if rows and not official: raise ValueError('Requested official feed was not returned')
+    return {'schema_version': '1.0', 'generated_at': iso(now), 'source_checked_at': iso(now),
+        'status': 'ok', 'appid': 594650, 'feed_name': NEWS_FEED,
+        'items': sorted(items.values(), key=lambda x: (x['published_at'], x['id']), reverse=True)[:NEWS_LIMIT]}
+
+def validate_steam_news(value):
+    if (value.get('schema_version') != '1.0' or value.get('status') not in ('ok', 'error')
+            or value.get('appid') != 594650 or value.get('feed_name') != NEWS_FEED
+            or not isinstance(value.get('items'), list) or len(value['items']) > NEWS_LIMIT):
+        raise ValueError('Invalid official news document')
+    stamp(value['generated_at'])
+    checked = value.get('source_checked_at')
+    if checked: stamp(checked)
+    if value['status'] == 'ok' and not checked: raise ValueError('Missing news check time')
+    ids = set()
+    for item in value['items']:
+        if (not isinstance(item, dict) or not isinstance(item.get('id'), str)
+                or not re.fullmatch(r'[0-9]{1,30}', item['id']) or item['id'] in ids
+                or not isinstance(item.get('title'), str) or not item['title'].strip() or len(item['title']) > 500
+                or not safe_news_url(item.get('source_url')) or not checked
+                or not 2000 <= stamp(item['published_at']).year <= 2200
+                or stamp(item['published_at']) > stamp(checked)):
+            raise ValueError('Invalid cached news item')
+        ids.add(item['id'])
+
+def collect_steam_news(root, now):
+    """Independent snapshot. Preserve last successful result on transport/schema failure."""
+    path = root / 'data/steam-news.json'
+    try:
+        value = steam_news_feed(get_json(STEAM_NEWS), now)
+        validate_steam_news(value)
+        write(path, value)
+        return None
+    except Exception as ex:
+        try:
+            old = read(path)
+            validate_steam_news(old)
+        except Exception:
+            old = {'schema_version': '1.0', 'generated_at': iso(now), 'source_checked_at': None,
+                'appid': 594650, 'feed_name': NEWS_FEED, 'items': []}
+        old.update(status='error', last_attempt_at=iso(now))
+        old['items'] = [i for i in old['items'] if now - timedelta(days=NEWS_DAYS) <= stamp(i['published_at']) <= now]
+        write(path, old)
+        return 'steam_news: ' + type(ex).__name__
 
 def url_key(url):
     """Conservative article identity, listing/home pages excluded. No network scraping."""
@@ -513,6 +603,9 @@ def run(root, input_dir=None):
         validate_feed("players", players)
         write(root / "data/players.json", players)
         retain_observations(root, records, observed_now, started)
+        # Reuse the existing trigger; no changes to Cloudflare or briefing schedules.
+        news_error = collect_steam_news(root, datetime.now(UTC))
+        if news_error: errors.append(news_error)
     storage_status(root, now)
     write(root / "data/status.json", {"schema_version": "1.0", "last_attempt_at": iso(datetime.now(UTC)), "errors": errors})
     print(json.dumps({"errors": errors, "read_only_upstream": True}))
@@ -543,3 +636,4 @@ if __name__ == "__main__":
     parser.add_argument("--input-dir", type=Path, help="Offline validation, never collects Steam observations")
     args = parser.parse_args()
     sys.exit(run(ROOT, args.input_dir))
+
