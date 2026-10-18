@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-18T14:43:39Z",
+  "generated_at": "2026-10-18T15:13:37Z",
   "status": "ok",
   "scope": "briefing_sources",
-  "from_date": "2026-10-12",
-  "through_date": "2026-10-18",
-  "previous_from_date": "2026-10-05",
-  "total": 18,
-  "previous_total": 15,
+  "from_date": "2026-10-13",
+  "through_date": "2026-10-19",
+  "previous_from_date": "2026-10-06",
+  "total": 11,
+  "previous_total": 18,
   "small_sample": false,
   "excluded_total": 39,
   "registry_total": 74,
@@ -15,79 +15,11 @@
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 3,
-      "previous_count": 4,
-      "share": 0.16666666666666666,
-      "previous_share": 0.26666666666666666,
+      "count": 1,
+      "previous_count": 6,
+      "share": 0.09090909090909091,
+      "previous_share": 0.3333333333333333,
       "articles": [
-        {
-          "id": "9acd1bbea0217169854acce7",
-          "url": "https://reddit.com/comments/1x2he70",
-          "title": "Chapter 2 체감 부족 논쟁",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-12",
-              "title": "Chapter 2 체감 부족 논쟁",
-              "terms": [
-                "chapter"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "51f4da5ad69313b8f4660b63",
-          "url": "https://reddit.com/comments/1x0i3g0",
-          "title": "이벤트와 기본 Hunt 선호 논쟁",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-10-12",
-              "title": "이벤트와 기본 Hunt 선호 논쟁",
-              "terms": [
-                "이벤트"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
         {
           "id": "ecc58d7415d741560abed76e",
           "url": "https://reddit.com/comments/1x7fji1",
@@ -127,80 +59,11 @@
     {
       "id": "balance",
       "name": "무기·특성·밸런스",
-      "count": 3,
-      "previous_count": 4,
-      "share": 0.16666666666666666,
-      "previous_share": 0.26666666666666666,
+      "count": 1,
+      "previous_count": 5,
+      "share": 0.09090909090909091,
+      "previous_share": 0.2777777777777778,
       "articles": [
-        {
-          "id": "c37163d6a77bc05fa31fc3ad",
-          "url": "https://reddit.com/comments/1x2riv9",
-          "title": "현재 근접 무기 평가",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [
-            "balance"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "현재 근접 무기 평가",
-              "terms": [
-                "무기",
-                "근접"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "af785b765b331fbf9332d4a4",
-          "url": "https://reddit.com/comments/1x2qsn1",
-          "title": "2-slot Hand Crossbow 위시리스트",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [
-            "balance"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "balance",
-              "briefing_id": "2026-10-12",
-              "title": "2-slot Hand Crossbow 위시리스트",
-              "terms": [
-                "crossbow"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
         {
           "id": "c493133831ed78bde05a6f99",
           "url": "https://reddit.com/comments/1wy6f1y",
@@ -261,86 +124,17 @@
       "count": 0,
       "previous_count": 1,
       "share": 0.0,
-      "previous_share": 0.06666666666666667,
+      "previous_share": 0.05555555555555555,
       "articles": []
     },
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 12,
+      "count": 9,
       "previous_count": 7,
-      "share": 0.6666666666666666,
-      "previous_share": 0.4666666666666667,
+      "share": 0.8181818181818182,
+      "previous_share": 0.3888888888888889,
       "articles": [
-        {
-          "id": "66e4798a697e29adc9140373",
-          "url": "https://youtube.com/watch?v=rXi3m1cVkWQ",
-          "title": "Psychoghost 최신 Hunt 영상",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "6ea0455a4e595960b69e2193",
-          "url": "https://youtube.com/watch?v=etmn-yCrPFg",
-          "title": "REXNOR 최신 공개 Hunt 영상",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "d3bcc694d3e400c1c1eacb60",
-          "url": "https://youtube.com/watch?v=G_KB7fXecYI",
-          "title": "Toxic Pancake 최신 Hunt 영상",
-          "first_included_at": "2026-10-12T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-12",
-              "title": "공식 4건 · 커뮤니티 7건",
-              "subtitle": "All Hallows’ Cleave D-1 · 감염 컴파운드 대비 · Inferno·이벤트 페이싱 논쟁",
-              "published_at": "2026-10-12T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-12.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
         {
           "id": "d6d8ec0f6e32ba8dc3f653fd",
           "url": "https://reddit.com/comments/1x6h4rt",
@@ -555,5 +349,5 @@
   ],
   "latest_briefing_at": "2026-10-17T09:00:00+09:00",
   "source_sha": "b70a535158964b1a244d3768964c3ef47923ba09",
-  "source_checked_at": "2026-10-18T14:43:39Z"
+  "source_checked_at": "2026-10-18T15:13:37Z"
 }
