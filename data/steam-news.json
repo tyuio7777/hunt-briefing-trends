@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T18:13:39Z",
-  "source_checked_at": "2026-10-19T18:13:39Z",
+  "generated_at": "2026-10-19T18:43:38Z",
+  "source_checked_at": "2026-10-19T18:43:38Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1846651706692106",
+      "title": "Blood Testament | Event Survey",
+      "published_at": "2026-10-19T18:17:12Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692106"
+    },
     {
       "id": "1846651706674991",
       "title": "Cursed Kin | Premium Story Challenge",
@@ -119,12 +125,6 @@
       "title": "Make Them Bleed | Stage 2 | Complete!",
       "published_at": "2026-09-10T14:28:14Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692409"
-    },
-    {
-      "id": "1843481262690183",
-      "title": "Hotfix 2.9.0.1 | Blood Testament",
-      "published_at": "2026-09-09T19:04:32Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690183"
     }
   ]
 }
