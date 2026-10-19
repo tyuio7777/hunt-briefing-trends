@@ -2,19 +2,19 @@
   "schema_version": "1.0",
   "heads": {
     "hunt-all-hallows-cleave-start": {
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-10-13",
       "supplemental": false
     },
     "hunt-blood-testament": {
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-12-08",
       "supplemental": false
     },
     "hunt-blood-testament-chapter-2-start": {
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-10-06",
       "supplemental": false
@@ -26,7 +26,7 @@
       "supplemental": false
     },
     "hunt-dlc-bound-by-blood-release": {
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-10-07",
       "supplemental": false
@@ -56,7 +56,7 @@
       "supplemental": false
     },
     "hunt-playstation-plus-game-of-month-2026-10": {
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-02",
       "supplemental": false
@@ -68,7 +68,7 @@
       "supplemental": true
     },
     "hunt-update-2-9-1": {
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-10-05",
       "supplemental": false
@@ -98,6 +98,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-19",
+          "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
+          "published_at": "2026-10-19T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
         {
           "id": "2026-10-17",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
@@ -198,7 +207,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -440,6 +449,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-19",
+          "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
+          "published_at": "2026-10-19T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
           "id": "2026-10-17",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
           "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
@@ -467,7 +485,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "supplemental": false,
       "kind": "update",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -486,6 +504,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-19",
+          "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
+          "published_at": "2026-10-19T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
           "id": "2026-10-17",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
           "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
@@ -531,7 +558,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -550,6 +577,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-19",
+          "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
+          "published_at": "2026-10-19T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
+        {
           "id": "2026-10-17",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
           "subtitle": "All Hallows’ Cleave 첫 주말 · Stage 1 진행 보정 · 감염 컴파운드·이벤트 페이싱 논쟁",
@@ -577,7 +613,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "supplemental": false,
       "kind": "subscription",
       "participation": "PlayStation Plus 제공 조건과 계정 지역을 공식 안내에서 확인.",
@@ -595,6 +631,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-19",
+          "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
+          "published_at": "2026-10-19T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
         {
           "id": "2026-10-17",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
@@ -641,7 +686,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "supplemental": false,
       "kind": "release",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -659,6 +704,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-19",
+          "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
+          "published_at": "2026-10-19T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
+        },
         {
           "id": "2026-10-17",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
@@ -687,7 +741,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-17T09:00:00+09:00",
+      "checked_at": "2026-10-19T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
