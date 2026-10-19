@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T18:43:37Z",
+  "generated_at": "2026-10-19T19:13:37Z",
   "status": "ok",
   "scope": "briefing_sources",
   "from_date": "2026-10-14",
@@ -466,5 +466,5 @@
   ],
   "latest_briefing_at": "2026-10-19T09:00:00+09:00",
   "source_sha": "129b4ee5a48e0cc8e27b3b27e13d9f1abf589778",
-  "source_checked_at": "2026-10-19T18:43:37Z"
+  "source_checked_at": "2026-10-19T19:13:37Z"
 }
