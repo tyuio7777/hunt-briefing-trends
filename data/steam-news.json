@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T17:43:38Z",
-  "source_checked_at": "2026-10-20T17:43:38Z",
+  "generated_at": "2026-10-20T18:13:39Z",
+  "source_checked_at": "2026-10-20T18:13:39Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1846651706696131",
+      "title": "Twitch Drops Dates | Blood Testament",
+      "published_at": "2026-10-20T17:21:12Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696131"
+    },
     {
       "id": "1846651706692106",
       "title": "Blood Testament | Event Survey",
@@ -119,12 +125,6 @@
       "title": "BLOODSKIN HAS ARRIVED | Make Them Bleed | Stage 3 | Complete!",
       "published_at": "2026-09-11T20:14:58Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696329"
-    },
-    {
-      "id": "1843481262692409",
-      "title": "Make Them Bleed | Stage 2 | Complete!",
-      "published_at": "2026-09-10T14:28:14Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692409"
     }
   ]
 }
