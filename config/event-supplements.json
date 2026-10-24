@@ -22,13 +22,36 @@
     }
   ],
   "server_notices": [],
-  "event_aliases": {},
+  "event_aliases": {
+    "hunt-twitch-drops-2026-10-26": "hunt-twitch-rewards-2026-10-26"
+  },
   "event_details": {
-    "hunt-blood-testament": {"kind":"play","participation":"게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.","platforms":"플랫폼별 상세 조건은 공식 안내 확인"},
-    "hunt-playstation-plus-game-of-month-2026-10": {"kind":"subscription","participation":"PlayStation Plus 제공 조건과 계정 지역을 공식 안내에서 확인.","platforms":"PlayStation"},
-    "hunt-update-2-9-1": {"kind":"update"},
-    "hunt-blood-testament-chapter-2-start": {"kind":"play"},
-    "hunt-all-hallows-cleave-start": {"kind":"play"},
-    "hunt-dlc-bound-by-blood-release": {"kind":"release"}
+    "hunt-blood-testament": {
+      "kind": "play",
+      "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
+      "platforms": "플랫폼별 상세 조건은 공식 안내 확인"
+    },
+    "hunt-playstation-plus-game-of-month-2026-10": {
+      "kind": "subscription",
+      "participation": "PlayStation Plus 제공 조건과 계정 지역을 공식 안내에서 확인.",
+      "platforms": "PlayStation"
+    },
+    "hunt-update-2-9-1": {
+      "kind": "update"
+    },
+    "hunt-blood-testament-chapter-2-start": {
+      "kind": "play"
+    },
+    "hunt-all-hallows-cleave-start": {
+      "kind": "play"
+    },
+    "hunt-dlc-bound-by-blood-release": {
+      "kind": "release"
+    },
+    "hunt-twitch-rewards-2026-10-26": {
+      "kind": "watch",
+      "participation": "무료 시청 시간 보상과 유료 Support a Streamer 신규 구독 보상은 별도 조건으로 확인. 두 보상 조건을 동일하게 취급하지 않음.",
+      "platforms": "Twitch / Hunt: Showdown 1896"
+    }
   }
 }
