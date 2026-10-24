@@ -1,0 +1,193 @@
+{
+  "issue": {
+    "id": "2026-10-24",
+    "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+    "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+    "published_at": "2026-10-24T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+  },
+  "document": {
+    "date": "2026-10-24",
+    "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+    "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.10.24",
+    "published_at": "2026-10-24T09:00:00+09:00",
+    "summary": "Twitch Drops가 한국시간 10월 27일 00시에 시작된다. 시청 시간 보상과 Support a Streamer 유료 구독 보상을 구분하고, Blood Testament 이벤트 설문과 All Hallows’ Cleave 진행 신호를 함께 점검했다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 October 2026 Twitch Drops",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 7,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-playstation-plus-game-of-month-2026-10",
+        "title": "PlayStation Plus Game of the Month",
+        "summary": "Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-11-02",
+        "source_url": "https://www.huntshowdown.com/news/welcome-new-hunters",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-all-hallows-cleave-start",
+        "title": "All Hallows’ Cleave 시작",
+        "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열린 Community Event 시작일입니다.",
+        "start_date": "2026-10-13",
+        "end_date": "2026-10-13",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-twitch-drops-2026-10-26",
+        "title": "2026년 10월 Twitch Drops",
+        "summary": "Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
+        "start_date": "2026-10-27",
+        "end_date": "2026-11-10",
+        "start_at": "2026-10-27T00:00:00+09:00",
+        "end_at": "2026-11-10T00:00:00+09:00",
+        "source_url": "https://www.huntshowdown.com/twitchdrops",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "official-twitch-drops-october-2026",
+        "category": "official",
+        "title": "2026년 10월 Twitch Drops 캠페인",
+        "source_urls": [
+          "https://www.huntshowdown.com/twitchdrops",
+          "https://store.steampowered.com/news/app/594650"
+        ]
+      },
+      {
+        "id": "official-blood-testament-event-survey",
+        "category": "official",
+        "title": "Blood Testament 이벤트 설문",
+        "source_urls": [
+          "https://store.steampowered.com/oldnews/?appids=594650",
+          "https://www.surveymonkey.com/r/TB3N9ZB"
+        ]
+      },
+      {
+        "id": "official-all-hallows-cleave-five-stages",
+        "category": "official",
+        "title": "All Hallows’ Cleave 다섯 단계",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "official-playstation-plus-october",
+        "category": "official",
+        "title": "PlayStation Plus 제공 기간",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/welcome-new-hunters"
+        ]
+      },
+      {
+        "id": "community-all-hallows-stage-discussion",
+        "category": "community",
+        "title": "All Hallows’ Cleave 진행 보정 토론",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x6h4rt/all_hallows_cleave_community_event/"
+        ]
+      },
+      {
+        "id": "community-psplus-30-hour-review",
+        "category": "community",
+        "title": "PlayStation Plus 신규 유저 30시간 후기",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x97aus/review_after_30_hours_ps/"
+        ]
+      },
+      {
+        "id": "community-last-blood-cup",
+        "category": "community",
+        "title": "Last Blood 독립 커뮤니티 컵",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x0ut0d/were_hosting_an_independent_hunt_showdown/"
+        ]
+      },
+      {
+        "id": "community-bilibili-bound-by-blood",
+        "category": "community",
+        "title": "중국 Bound by Blood 실기 소개",
+        "source_urls": [
+          "https://www.bilibili.com/video/BV1SHYw6rEk3/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-oefb0WVmc7U",
+        "category": "community",
+        "title": "Psychoghost Twitch Drops 안내",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=oefb0WVmc7U"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-5i6PZI6Ko6w",
+        "category": "community",
+        "title": "REXNOR Twitch Drops 안내",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=5i6PZI6Ko6w"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-Vii9A6jix58",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 영상",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=Vii9A6jix58"
+        ]
+      },
+      {
+        "id": "rumor-all-hallows-next-boost",
+        "category": "rumor",
+        "title": "All Hallows’ Cleave 다음 보정 시점 추정",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1x6h4rt/all_hallows_cleave_community_event/",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "rumor-twitch-all-rewards-free",
+        "category": "rumor",
+        "title": "Twitch Drops 전 보상 무료 시청 오인",
+        "source_urls": [
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/twitchdrops",
+      "https://store.steampowered.com/news/app/594650",
+      "https://store.steampowered.com/oldnews/?appids=594650",
+      "https://www.surveymonkey.com/r/TB3N9ZB",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "https://www.huntshowdown.com/news/welcome-new-hunters",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x6h4rt/all_hallows_cleave_community_event/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x97aus/review_after_30_hours_ps/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x0ut0d/were_hosting_an_independent_hunt_showdown/",
+      "https://www.bilibili.com/video/BV1SHYw6rEk3/",
+      "https://www.youtube.com/watch?v=oefb0WVmc7U",
+      "https://www.youtube.com/watch?v=5i6PZI6Ko6w",
+      "https://www.youtube.com/watch?v=Vii9A6jix58"
+    ]
+  }
+}

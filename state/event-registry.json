@@ -2,13 +2,13 @@
   "schema_version": "1.0",
   "heads": {
     "hunt-all-hallows-cleave-start": {
-      "checked_at": "2026-10-19T09:00:00+09:00",
+      "checked_at": "2026-10-24T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-10-13",
       "supplemental": false
     },
     "hunt-blood-testament": {
-      "checked_at": "2026-10-19T09:00:00+09:00",
+      "checked_at": "2026-10-24T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-12-08",
       "supplemental": false
@@ -56,9 +56,15 @@
       "supplemental": false
     },
     "hunt-playstation-plus-game-of-month-2026-10": {
-      "checked_at": "2026-10-19T09:00:00+09:00",
+      "checked_at": "2026-10-24T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-02",
+      "supplemental": false
+    },
+    "hunt-twitch-drops-2026-10-26": {
+      "checked_at": "2026-10-24T09:00:00+09:00",
+      "status": "confirmed",
+      "end_date": "2026-11-10",
       "supplemental": false
     },
     "hunt-twitch-rewards-2026-10-26": {
@@ -98,6 +104,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-24",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+          "published_at": "2026-10-24T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
         {
           "id": "2026-10-19",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
@@ -207,7 +222,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-10-19T09:00:00+09:00",
+      "checked_at": "2026-10-24T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -577,6 +592,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-24",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+          "published_at": "2026-10-24T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
           "id": "2026-10-19",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
           "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
@@ -613,7 +637,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-19T09:00:00+09:00",
+      "checked_at": "2026-10-24T09:00:00+09:00",
       "supplemental": false,
       "kind": "subscription",
       "participation": "PlayStation Plus 제공 조건과 계정 지역을 공식 안내에서 확인.",
@@ -696,7 +720,7 @@
     {
       "event_id": "hunt-all-hallows-cleave-start",
       "title": "All Hallows’ Cleave 시작",
-      "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열리는 Community Event 시작일입니다.",
+      "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열린 Community Event 시작일입니다.",
       "start_date": "2026-10-13",
       "end_date": "2026-10-13",
       "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
@@ -704,6 +728,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-24",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+          "published_at": "2026-10-24T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
         {
           "id": "2026-10-19",
           "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
@@ -741,7 +774,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-19T09:00:00+09:00",
+      "checked_at": "2026-10-24T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -768,6 +801,34 @@
       "briefings": [],
       "checked_at": "2026-10-16T06:30:00Z",
       "supplemental": true
+    },
+    {
+      "event_id": "hunt-twitch-drops-2026-10-26",
+      "title": "2026년 10월 Twitch Drops",
+      "summary": "Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
+      "start_date": "2026-10-27",
+      "end_date": "2026-11-10",
+      "start_at": "2026-10-26T15:00:00Z",
+      "end_at": "2026-11-09T15:00:00Z",
+      "source_url": "https://www.huntshowdown.com/twitchdrops",
+      "status": "confirmed",
+      "briefings": [
+        {
+          "id": "2026-10-24",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+          "published_at": "2026-10-24T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        }
+      ],
+      "checked_at": "2026-10-24T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "timestamp_kst"
     }
   ]
 }

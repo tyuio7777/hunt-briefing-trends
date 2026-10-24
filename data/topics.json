@@ -1,25 +1,163 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T23:43:37Z",
+  "generated_at": "2026-10-24T00:13:36Z",
   "status": "ok",
   "scope": "briefing_sources",
   "from_date": "2026-10-18",
   "through_date": "2026-10-24",
   "previous_from_date": "2026-10-11",
-  "total": 2,
+  "total": 8,
   "previous_total": 18,
   "small_sample": true,
-  "excluded_total": 42,
-  "registry_total": 76,
+  "excluded_total": 45,
+  "registry_total": 82,
   "topics": [
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 0,
-      "previous_count": 3,
-      "share": 0.0,
-      "previous_share": 0.16666666666666666,
-      "articles": []
+      "count": 4,
+      "previous_count": 4,
+      "share": 0.5,
+      "previous_share": 0.2222222222222222,
+      "articles": [
+        {
+          "id": "c9248bff73d18fac0fd877c9",
+          "url": "https://store.steampowered.com/news/app/594650",
+          "title": "2026년 10월 Twitch Drops 캠페인",
+          "first_included_at": "2026-10-24T09:00:00+09:00",
+          "topics": [
+            "events"
+          ],
+          "origins": [
+            "official"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-24",
+              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+              "published_at": "2026-10-24T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "events",
+              "briefing_id": "2026-10-24",
+              "title": "2026년 10월 Twitch Drops 캠페인",
+              "terms": [
+                "drops"
+              ]
+            }
+          ],
+          "rule_version": "1"
+        },
+        {
+          "id": "ba62ebcdd5a2d1717a214b71",
+          "url": "https://surveymonkey.com/r/TB3N9ZB",
+          "title": "Blood Testament 이벤트 설문",
+          "first_included_at": "2026-10-24T09:00:00+09:00",
+          "topics": [
+            "events"
+          ],
+          "origins": [
+            "official"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-24",
+              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+              "published_at": "2026-10-24T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "events",
+              "briefing_id": "2026-10-24",
+              "title": "Blood Testament 이벤트 설문",
+              "terms": [
+                "이벤트",
+                "blood testament"
+              ]
+            }
+          ],
+          "rule_version": "1"
+        },
+        {
+          "id": "6c4128c820ad5370f2ea7319",
+          "url": "https://youtube.com/watch?v=oefb0WVmc7U",
+          "title": "Psychoghost Twitch Drops 안내",
+          "first_included_at": "2026-10-24T09:00:00+09:00",
+          "topics": [
+            "events"
+          ],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-24",
+              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+              "published_at": "2026-10-24T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "events",
+              "briefing_id": "2026-10-24",
+              "title": "Psychoghost Twitch Drops 안내",
+              "terms": [
+                "drops"
+              ]
+            }
+          ],
+          "rule_version": "1"
+        },
+        {
+          "id": "a5cef13710468ddb37cc6a15",
+          "url": "https://youtube.com/watch?v=5i6PZI6Ko6w",
+          "title": "REXNOR Twitch Drops 안내",
+          "first_included_at": "2026-10-24T09:00:00+09:00",
+          "topics": [
+            "events"
+          ],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-24",
+              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+              "published_at": "2026-10-24T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "events",
+              "briefing_id": "2026-10-24",
+              "title": "REXNOR Twitch Drops 안내",
+              "terms": [
+                "drops"
+              ]
+            }
+          ],
+          "rule_version": "1"
+        }
+      ]
     },
     {
       "id": "balance",
@@ -60,10 +198,10 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 2,
-      "previous_count": 12,
-      "share": 1.0,
-      "previous_share": 0.6666666666666666,
+      "count": 4,
+      "previous_count": 11,
+      "share": 0.5,
+      "previous_share": 0.6111111111111112,
       "articles": [
         {
           "id": "3a25f7e7edd2d212ecc65d49",
@@ -110,11 +248,57 @@
           ],
           "evidence": [],
           "rule_version": "1"
+        },
+        {
+          "id": "39e338bd2f823781065fb2b2",
+          "url": "https://reddit.com/comments/1x97aus",
+          "title": "PlayStation Plus 신규 유저 30시간 후기",
+          "first_included_at": "2026-10-24T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-24",
+              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+              "published_at": "2026-10-24T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "d15be4596fe904fbb217e0c7",
+          "url": "https://youtube.com/watch?v=Vii9A6jix58",
+          "title": "Toxic Pancake 최신 Hunt 영상",
+          "first_included_at": "2026-10-24T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-10-24",
+              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
+              "published_at": "2026-10-24T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-24.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
         }
       ]
     }
   ],
-  "latest_briefing_at": "2026-10-19T09:00:00+09:00",
-  "source_sha": "b642273e8d87b4312c21f9db5ec52e76a75ea46e",
-  "source_checked_at": "2026-10-23T23:43:37Z"
+  "latest_briefing_at": "2026-10-24T09:00:00+09:00",
+  "source_sha": "451dd37d68cea1f7a5a14b6cb218ab430702ebe6",
+  "source_checked_at": "2026-10-24T00:13:36Z"
 }
