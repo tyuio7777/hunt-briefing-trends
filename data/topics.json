@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T14:43:36Z",
+  "generated_at": "2026-10-25T15:13:36Z",
   "status": "ok",
   "scope": "briefing_sources",
-  "from_date": "2026-10-19",
-  "through_date": "2026-10-25",
-  "previous_from_date": "2026-10-12",
-  "total": 8,
-  "previous_total": 18,
+  "from_date": "2026-10-20",
+  "through_date": "2026-10-26",
+  "previous_from_date": "2026-10-13",
+  "total": 6,
+  "previous_total": 13,
   "small_sample": true,
   "excluded_total": 45,
   "registry_total": 82,
@@ -16,9 +16,9 @@
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
       "count": 4,
-      "previous_count": 4,
-      "share": 0.5,
-      "previous_share": 0.2222222222222222,
+      "previous_count": 2,
+      "share": 0.6666666666666666,
+      "previous_share": 0.15384615384615385,
       "articles": [
         {
           "id": "c9248bff73d18fac0fd877c9",
@@ -163,9 +163,9 @@
       "id": "balance",
       "name": "무기·특성·밸런스",
       "count": 0,
-      "previous_count": 3,
+      "previous_count": 1,
       "share": 0.0,
-      "previous_share": 0.16666666666666666,
+      "previous_share": 0.07692307692307693,
       "articles": []
     },
     {
@@ -198,57 +198,11 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 4,
-      "previous_count": 11,
-      "share": 0.5,
-      "previous_share": 0.6111111111111112,
+      "count": 2,
+      "previous_count": 10,
+      "share": 0.3333333333333333,
+      "previous_share": 0.7692307692307693,
       "articles": [
-        {
-          "id": "3a25f7e7edd2d212ecc65d49",
-          "url": "https://youtube.com/watch?v=-Hlp0_BP4PQ",
-          "title": "Psychoghost 최신 Hunt 영상",
-          "first_included_at": "2026-10-19T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-19",
-              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
-              "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
-              "published_at": "2026-10-19T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "73d0effda11bc9cb08746a08",
-          "url": "https://huntshowdown.com/community/death-rites",
-          "title": "Death Rites 2026 재개설 오인",
-          "first_included_at": "2026-10-19T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "unconfirmed"
-          ],
-          "briefings": [
-            {
-              "id": "2026-10-19",
-              "title": "공식 4건 · 커뮤니티 8건 · 루머 2건",
-              "subtitle": "Cursed Kin 보상 구조 · Stage 2 페이싱 논쟁 · Test Server 메타데이터·오래된 일정 구분",
-              "published_at": "2026-10-19T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-19.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
         {
           "id": "39e338bd2f823781065fb2b2",
           "url": "https://reddit.com/comments/1x97aus",
@@ -300,5 +254,5 @@
   ],
   "latest_briefing_at": "2026-10-24T09:00:00+09:00",
   "source_sha": "6fba78a57e3eca35e4ce3dc84579ddb2f4cc1a2d",
-  "source_checked_at": "2026-10-25T14:43:36Z"
+  "source_checked_at": "2026-10-25T15:13:36Z"
 }
