@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T17:43:38Z",
-  "source_checked_at": "2026-10-25T17:43:38Z",
+  "generated_at": "2026-10-25T18:13:38Z",
+  "source_checked_at": "2026-10-25T18:13:38Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1847286114042362",
+      "title": "Twitch Drops start tomorrow! | Blood Testament",
+      "published_at": "2026-10-25T16:55:38Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042362"
+    },
     {
       "id": "1847286114037168",
       "title": "Twitch Drops Blog | Blood Testament",
@@ -119,12 +125,6 @@
       "title": "New Free Story Challenge | Written in Blood | Blood Testament",
       "published_at": "2026-09-15T15:05:49Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704848"
-    },
-    {
-      "id": "1843481262702258",
-      "title": "Pre-order the Bound By Blood Necklace and Corruption's Cup now.",
-      "published_at": "2026-09-14T16:26:42Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702258"
     }
   ]
 }
