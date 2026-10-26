@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T14:43:39Z",
-  "source_checked_at": "2026-10-26T14:43:39Z",
+  "generated_at": "2026-10-26T15:13:39Z",
+  "source_checked_at": "2026-10-26T15:13:39Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1847286114045240",
+      "title": "Twitch Drops are live! | Blood Testament",
+      "published_at": "2026-10-26T15:05:00Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045240"
+    },
     {
       "id": "1847286114042362",
       "title": "Twitch Drops start tomorrow! | Blood Testament",
@@ -119,12 +125,6 @@
       "title": "New Dime Novel - Corruption's Cup",
       "published_at": "2026-09-17T15:47:59Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492510"
-    },
-    {
-      "id": "1843481262704848",
-      "title": "New Free Story Challenge | Written in Blood | Blood Testament",
-      "published_at": "2026-09-15T15:05:49Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704848"
     }
   ]
 }
