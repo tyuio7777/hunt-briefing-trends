@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T23:43:37Z",
+  "generated_at": "2026-10-26T00:13:38Z",
   "status": "ok",
   "invalid_event_count": 0,
   "server_notices": [],
@@ -16,6 +16,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-26",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Twitch Drops 오늘 밤 개시 · 5개 보상 창과 128개 보상 · 무료 시청·유료 지원 조건 분리",
+          "published_at": "2026-10-26T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
         {
           "id": "2026-10-24",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
@@ -134,7 +143,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-10-24T09:00:00+09:00",
+      "checked_at": "2026-10-26T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -504,6 +513,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-26",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Twitch Drops 오늘 밤 개시 · 5개 보상 창과 128개 보상 · 무료 시청·유료 지원 조건 분리",
+          "published_at": "2026-10-26T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
           "id": "2026-10-24",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
@@ -549,7 +567,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-24T09:00:00+09:00",
+      "checked_at": "2026-10-26T09:00:00+09:00",
       "supplemental": false,
       "kind": "subscription",
       "participation": "PlayStation Plus 제공 조건과 계정 지역을 공식 안내에서 확인.",
@@ -641,6 +659,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-26",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Twitch Drops 오늘 밤 개시 · 5개 보상 창과 128개 보상 · 무료 시청·유료 지원 조건 분리",
+          "published_at": "2026-10-26T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
           "id": "2026-10-24",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "Twitch Drops 10월 27일 KST 개시 · 무료 시청 보상과 유료 지원 보상 구분 · Blood Testament 설문",
@@ -686,7 +713,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-24T09:00:00+09:00",
+      "checked_at": "2026-10-26T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -696,7 +723,7 @@
     {
       "event_id": "hunt-twitch-rewards-2026-10-26",
       "title": "2026년 10월 Twitch Drops",
-      "summary": "Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
+      "summary": "시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
       "start_date": "2026-10-27",
       "end_date": "2026-11-10",
       "start_at": "2026-10-26T15:00:00Z",
@@ -704,6 +731,15 @@
       "source_url": "https://www.huntshowdown.com/twitchdrops",
       "status": "confirmed",
       "briefings": [
+        {
+          "id": "2026-10-26",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Twitch Drops 오늘 밤 개시 · 5개 보상 창과 128개 보상 · 무료 시청·유료 지원 조건 분리",
+          "published_at": "2026-10-26T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-26.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
         {
           "id": "2026-10-24",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
@@ -714,7 +750,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
-      "checked_at": "2026-10-24T09:00:00+09:00",
+      "checked_at": "2026-10-26T09:00:00+09:00",
       "supplemental": false,
       "kind": "watch",
       "participation": "무료 시청 시간 보상과 유료 Support a Streamer 신규 구독 보상은 별도 조건으로 확인. 두 보상 조건을 동일하게 취급하지 않음.",
@@ -722,6 +758,6 @@
       "date_basis": "timestamp_kst"
     }
   ],
-  "source_sha": "110ab782cb653d18f9115b5683be3371b7c3e393",
-  "source_checked_at": "2026-10-25T23:43:37Z"
+  "source_sha": "c28fdeb7113e41928bda907820585aff8662e31c",
+  "source_checked_at": "2026-10-26T00:13:38Z"
 }
