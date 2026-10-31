@@ -1,0 +1,184 @@
+{
+  "issue": {
+    "id": "2026-10-31",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Leap of Faith 창 개시 · PS Plus 마지막 주말 · Twitch Drops 2주차 전환 준비",
+    "published_at": "2026-10-31T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+  },
+  "document": {
+    "date": "2026-10-31",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Leap of Faith 창 개시 · PS Plus 마지막 주말 · Twitch Drops 2주차 전환 준비",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.10.31",
+    "published_at": "2026-10-31T09:00:00+09:00",
+    "summary": "Twitch Drops Week 1 Part 2의 Leap of Faith 트랙, PlayStation Plus 제공 마지막 주말, All Hallows’ Cleave Stage 5 신호와 최신 Hunt 영상을 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 October 2026 Twitch Drops",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 6,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-playstation-plus-game-of-month-2026-10",
+        "title": "PlayStation Plus Game of the Month",
+        "summary": "Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-11-02",
+        "source_url": "https://www.huntshowdown.com/news/welcome-new-hunters",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-all-hallows-cleave-start",
+        "title": "All Hallows’ Cleave 시작",
+        "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열린 Community Event 시작일입니다.",
+        "start_date": "2026-10-13",
+        "end_date": "2026-10-13",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-twitch-drops-2026-10-26",
+        "title": "2026년 10월 Twitch Drops",
+        "summary": "시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
+        "start_date": "2026-10-27",
+        "end_date": "2026-11-10",
+        "start_at": "2026-10-27T00:00:00+09:00",
+        "end_at": "2026-11-10T00:00:00+09:00",
+        "source_url": "https://www.huntshowdown.com/twitchdrops",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "official-twitch-drops-week1-part2",
+        "category": "official",
+        "title": "Twitch Drops Week 1 Part 2와 Leap of Faith",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/twitch-drops-are-back",
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      },
+      {
+        "id": "official-support-a-streamer-2026-10",
+        "category": "official",
+        "title": "Support a Streamer 보상 조건",
+        "source_urls": [
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      },
+      {
+        "id": "official-playstation-plus-october-final-weekend",
+        "category": "official",
+        "title": "PlayStation Plus 제공 마지막 주말",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/welcome-new-hunters"
+        ]
+      },
+      {
+        "id": "official-all-hallows-five-stages",
+        "category": "official",
+        "title": "All Hallows’ Cleave 5단계 보상 구조",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      },
+      {
+        "id": "community-twitch-drops-live-discussion",
+        "category": "community",
+        "title": "Twitch Drops 개시 후 보상표 토론",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xfzevi/twitch_drops_are_live/"
+        ]
+      },
+      {
+        "id": "community-all-hallows-stage5-tracker",
+        "category": "community",
+        "title": "All Hallows’ Cleave Stage 5 커뮤니티 추적",
+        "source_urls": [
+          "https://bayouledger.com/?period=blood-testament"
+        ]
+      },
+      {
+        "id": "community-bilibili-drops-2026-11",
+        "category": "community",
+        "title": "중국 Bilibili 별도 라이브 드롭",
+        "source_urls": [
+          "https://www.bilibili.com/blackboard/era/7lAzSRx8MKsVrIib.html"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-feKniPFPFac",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=feKniPFPFac"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-PvSauFcy5Ms",
+        "category": "community",
+        "title": "REXNOR 최신 공개 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=PvSauFcy5Ms"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-_6GYzAguYSs",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=_6GYzAguYSs"
+        ]
+      },
+      {
+        "id": "rumor-twitch-window-progress-carryover",
+        "category": "rumor",
+        "title": "Twitch 보상 창 진행률 자동 이월설",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/twitch-drops-are-back",
+          "https://www.reddit.com/r/HuntShowdown/comments/1xfzevi/twitch_drops_are_live/"
+        ]
+      },
+      {
+        "id": "rumor-all-hallows-stage5-equals-end",
+        "category": "rumor",
+        "title": "All Hallows’ Cleave Stage 5 종료 해석",
+        "source_urls": [
+          "https://bayouledger.com/?period=blood-testament",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/news/twitch-drops-are-back",
+      "https://www.huntshowdown.com/twitchdrops",
+      "https://www.huntshowdown.com/news/welcome-new-hunters",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xfzevi/twitch_drops_are_live/",
+      "https://bayouledger.com/?period=blood-testament",
+      "https://www.bilibili.com/blackboard/era/7lAzSRx8MKsVrIib.html",
+      "https://www.youtube.com/watch?v=feKniPFPFac",
+      "https://www.youtube.com/watch?v=PvSauFcy5Ms",
+      "https://www.youtube.com/watch?v=_6GYzAguYSs",
+      "https://steamdb.info/app/594650/history/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1x6h4rt/all_hallows_cleave_community_event/"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-30T23:43:36Z",
+  "generated_at": "2026-10-31T00:13:39Z",
   "status": "ok",
   "invalid_event_count": 0,
   "server_notices": [],
@@ -16,6 +16,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-10-31",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 창 개시 · PS Plus 마지막 주말 · Twitch Drops 2주차 전환 준비",
+          "published_at": "2026-10-31T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
         {
           "id": "2026-10-26",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
@@ -143,7 +152,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-10-26T09:00:00+09:00",
+      "checked_at": "2026-10-31T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -513,6 +522,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-31",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 창 개시 · PS Plus 마지막 주말 · Twitch Drops 2주차 전환 준비",
+          "published_at": "2026-10-31T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
           "id": "2026-10-26",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
           "subtitle": "Twitch Drops 오늘 밤 개시 · 5개 보상 창과 128개 보상 · 무료 시청·유료 지원 조건 분리",
@@ -567,7 +585,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-26T09:00:00+09:00",
+      "checked_at": "2026-10-31T09:00:00+09:00",
       "supplemental": false,
       "kind": "subscription",
       "participation": "PlayStation Plus 제공 조건과 계정 지역을 공식 안내에서 확인.",
@@ -659,6 +677,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-10-31",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 창 개시 · PS Plus 마지막 주말 · Twitch Drops 2주차 전환 준비",
+          "published_at": "2026-10-31T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
           "id": "2026-10-26",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
           "subtitle": "Twitch Drops 오늘 밤 개시 · 5개 보상 창과 128개 보상 · 무료 시청·유료 지원 조건 분리",
@@ -713,7 +740,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/3c8d385c9ddae7ff6c2ca9b7036c9cc56b3c52ab.jpg"
         }
       ],
-      "checked_at": "2026-10-26T09:00:00+09:00",
+      "checked_at": "2026-10-31T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -731,6 +758,15 @@
       "source_url": "https://www.huntshowdown.com/twitchdrops",
       "status": "confirmed",
       "briefings": [
+        {
+          "id": "2026-10-31",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 창 개시 · PS Plus 마지막 주말 · Twitch Drops 2주차 전환 준비",
+          "published_at": "2026-10-31T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
         {
           "id": "2026-10-26",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
@@ -750,7 +786,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
-      "checked_at": "2026-10-26T09:00:00+09:00",
+      "checked_at": "2026-10-31T09:00:00+09:00",
       "supplemental": false,
       "kind": "watch",
       "participation": "무료 시청 시간 보상과 유료 Support a Streamer 신규 구독 보상은 별도 조건으로 확인. 두 보상 조건을 동일하게 취급하지 않음.",
@@ -758,6 +794,6 @@
       "date_basis": "timestamp_kst"
     }
   ],
-  "source_sha": "74bbf8be04f73adbcb6f82f250301e704e63ed0c",
-  "source_checked_at": "2026-10-30T23:43:36Z"
+  "source_sha": "6a6e6eb98a2b3000e63a7829be37e740626a551a",
+  "source_checked_at": "2026-10-31T00:13:39Z"
 }
