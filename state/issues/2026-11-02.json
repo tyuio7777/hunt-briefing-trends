@@ -1,0 +1,187 @@
+{
+  "issue": {
+    "id": "2026-11-02",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+    "published_at": "2026-11-02T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+  },
+  "document": {
+    "date": "2026-11-02",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.11.02",
+    "published_at": "2026-11-02T09:00:00+09:00",
+    "summary": "Leap of Faith 보상 창 마지막 날과 Random Charm 창 전환, PlayStation Plus 제공 종료일, Long Derringer 실전 반응을 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 October November 2026 Twitch Drops",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 6,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-playstation-plus-game-of-month-2026-10",
+        "title": "PlayStation Plus Game of the Month",
+        "summary": "Hunt: Showdown 1896이 PlayStation Plus Game of the Month로 제공되는 기간입니다.",
+        "start_date": "2026-10-06",
+        "end_date": "2026-11-02",
+        "source_url": "https://www.huntshowdown.com/news/welcome-new-hunters",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-all-hallows-cleave-start",
+        "title": "All Hallows’ Cleave 시작",
+        "summary": "다섯 단계의 공동 해금과 Bileweaver·Bloodweaver 감염 컴파운드가 열린 Community Event 시작일입니다.",
+        "start_date": "2026-10-13",
+        "end_date": "2026-10-13",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-twitch-drops-2026-10-26",
+        "title": "2026년 10월 Twitch Drops",
+        "summary": "시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
+        "start_date": "2026-10-27",
+        "end_date": "2026-11-10",
+        "start_at": "2026-10-27T00:00:00+09:00",
+        "end_at": "2026-11-10T00:00:00+09:00",
+        "source_url": "https://www.huntshowdown.com/twitchdrops",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "official-twitch-drops-week1-part2-final-day",
+        "category": "official",
+        "title": "Leap of Faith 보상 창 마지막 날",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/twitch-drops-are-back",
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      },
+      {
+        "id": "official-twitch-drops-week2-three-windows",
+        "category": "official",
+        "title": "Week 2 세 보상 창과 Random Charm",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/twitch-drops-are-back",
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      },
+      {
+        "id": "official-support-a-streamer-2026-10",
+        "category": "official",
+        "title": "Support a Streamer 보상 조건",
+        "source_urls": [
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      },
+      {
+        "id": "official-playstation-plus-october-end",
+        "category": "official",
+        "title": "PlayStation Plus 제공 종료일",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/welcome-new-hunters"
+        ]
+      },
+      {
+        "id": "community-long-derringer-unlocked",
+        "category": "community",
+        "title": "Long Derringer 최종 해금 반응",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xgpkye/we_did_it/"
+        ]
+      },
+      {
+        "id": "community-psplus-new-player",
+        "category": "community",
+        "title": "PlayStation Plus 신규 유저 온보딩",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wyuuk7/new_player_ps_plus_sub/"
+        ]
+      },
+      {
+        "id": "community-bilibili-drops-2026-11",
+        "category": "community",
+        "title": "중국 Bilibili 4차 라이브 드롭",
+        "source_urls": [
+          "https://live.bilibili.com/blackboard/era/4lUytWPmzTjl1QLJ.html"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-R5UbFSdo6Q0",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=R5UbFSdo6Q0"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-PvSauFcy5Ms",
+        "category": "community",
+        "title": "REXNOR 최신 공개 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=PvSauFcy5Ms"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-_6GYzAguYSs",
+        "category": "community",
+        "title": "Toxic Pancake 최신 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=_6GYzAguYSs"
+        ]
+      },
+      {
+        "id": "rumor-twitch-window-progress-carryover",
+        "category": "rumor",
+        "title": "Twitch 보상 창 진행률 자동 이월설",
+        "source_urls": [
+          "https://www.huntshowdown.com/twitchdrops",
+          "https://www.reddit.com/r/HuntShowdown/comments/1xfzevi/twitch_drops_are_live/"
+        ]
+      },
+      {
+        "id": "rumor-rolling-block-rifle-after-long-derringer",
+        "category": "rumor",
+        "title": "Long Derringer 후속 롤링블록 소총설",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1wym69t/remington_rolling_block_rifle_next/",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/news/twitch-drops-are-back",
+      "https://www.huntshowdown.com/twitchdrops",
+      "https://www.huntshowdown.com/news/welcome-new-hunters",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-2-patch-notes",
+      "https://www.huntshowdown.com/news/the-story-of-blood-testament-continues",
+      "https://steamdb.info/app/594650/history/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xgpkye/we_did_it/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wyuuk7/new_player_ps_plus_sub/",
+      "https://live.bilibili.com/blackboard/era/4lUytWPmzTjl1QLJ.html",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xfzevi/twitch_drops_are_live/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1wym69t/remington_rolling_block_rifle_next/",
+      "https://www.youtube.com/watch?v=R5UbFSdo6Q0",
+      "https://www.youtube.com/watch?v=PvSauFcy5Ms",
+      "https://www.youtube.com/watch?v=_6GYzAguYSs"
+    ]
+  }
+}

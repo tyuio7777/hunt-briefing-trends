@@ -1845,6 +1845,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
       "evidence": [
@@ -1979,6 +1988,14 @@
           "terms": [
             "hallows"
           ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-11-02",
+          "title": "Long Derringer 후속 롤링블록 소총설",
+          "terms": [
+            "derringer"
+          ]
         }
       ],
       "rule_version": "1"
@@ -2087,6 +2104,15 @@
           "published_at": "2026-10-31T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
@@ -3238,6 +3264,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
       "evidence": [
@@ -3271,6 +3306,22 @@
           "topic": "events",
           "briefing_id": "2026-10-31",
           "title": "Twitch 보상 창 진행률 자동 이월설",
+          "terms": [
+            "보상"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-02",
+          "title": "Leap of Faith 보상 창 마지막 날",
+          "terms": [
+            "보상"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-02",
+          "title": "Week 2 세 보상 창과 Random Charm",
           "terms": [
             "보상"
           ]
@@ -3349,6 +3400,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
       "evidence": [],
@@ -3375,6 +3435,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
       "evidence": [
@@ -3390,6 +3459,14 @@
         {
           "topic": "events",
           "briefing_id": "2026-10-31",
+          "title": "Twitch 보상 창 진행률 자동 이월설",
+          "terms": [
+            "보상"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-02",
           "title": "Twitch 보상 창 진행률 자동 이월설",
           "terms": [
             "보상"
@@ -3462,9 +3539,155 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/10/2026-10-31.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        },
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
       "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "beb7bd8f8d6d5b14038c7bc2",
+      "url": "https://reddit.com/comments/1xgpkye",
+      "title": "Long Derringer 최종 해금 반응",
+      "first_included_at": "2026-11-02T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-11-02",
+          "title": "Long Derringer 최종 해금 반응",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "9dad824658a814af92e3676e",
+      "url": "https://reddit.com/comments/1wyuuk7",
+      "title": "PlayStation Plus 신규 유저 온보딩",
+      "first_included_at": "2026-11-02T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "8e1bb7aad9d92210abb6b07c",
+      "url": "https://live.bilibili.com/blackboard/era/4lUytWPmzTjl1QLJ.html",
+      "title": "중국 Bilibili 4차 라이브 드롭",
+      "first_included_at": "2026-11-02T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "5f88ce42fa914da328b6b58f",
+      "url": "https://youtube.com/watch?v=R5UbFSdo6Q0",
+      "title": "Psychoghost 최신 Hunt 플레이",
+      "first_included_at": "2026-11-02T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "bc0a0e1d0a418568c727111b",
+      "url": "https://reddit.com/comments/1wym69t",
+      "title": "Long Derringer 후속 롤링블록 소총설",
+      "first_included_at": "2026-11-02T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-02",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
+          "published_at": "2026-11-02T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-02.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-11-02",
+          "title": "Long Derringer 후속 롤링블록 소총설",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
       "rule_version": "1"
     }
   ],
@@ -3770,6 +3993,30 @@
       "briefing_id": "2026-10-31",
       "title": "All Hallows’ Cleave Stage 5 종료 해석",
       "url": "https://bayouledger.com/?period=blood-testament",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-02",
+      "title": "Leap of Faith 보상 창 마지막 날",
+      "url": "https://www.huntshowdown.com/twitchdrops",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-02",
+      "title": "Week 2 세 보상 창과 Random Charm",
+      "url": "https://www.huntshowdown.com/twitchdrops",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-02",
+      "title": "Support a Streamer 보상 조건",
+      "url": "https://www.huntshowdown.com/twitchdrops",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-02",
+      "title": "Twitch 보상 창 진행률 자동 이월설",
+      "url": "https://www.huntshowdown.com/twitchdrops",
       "reason": "unidentified_article"
     }
   ]
