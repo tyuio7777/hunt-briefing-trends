@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-02T18:13:38Z",
-  "source_checked_at": "2026-11-02T18:13:38Z",
+  "generated_at": "2026-11-02T18:43:41Z",
+  "source_checked_at": "2026-11-02T18:43:41Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1847920302249155",
+      "title": "Twitch Drops - Week 2 | Blood Testament",
+      "published_at": "2026-11-02T18:01:08Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249155"
+    },
     {
       "id": "1847286114045240",
       "title": "Twitch Drops are live! | Blood Testament",
@@ -119,12 +125,6 @@
       "title": "Hotfix 2.9.0.3 | Blood Testament",
       "published_at": "2026-09-18T15:15:21Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495159"
-    },
-    {
-      "id": "1844115010492510",
-      "title": "New Dime Novel - Corruption's Cup",
-      "published_at": "2026-09-17T15:47:59Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010492510"
     }
   ]
 }
