@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T18:13:37Z",
-  "source_checked_at": "2026-11-06T18:13:37Z",
+  "generated_at": "2026-11-06T18:43:38Z",
+  "source_checked_at": "2026-11-06T18:43:38Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1848664643346977",
+      "title": "As the Crow Carves - Legacy Chronicle",
+      "published_at": "2026-11-06T18:32:25Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346977"
+    },
     {
       "id": "1847920302251553",
       "title": "Blood Testament Chapter 3 Patch Notes",
@@ -119,12 +125,6 @@
       "title": "Mythos | Bloodskin",
       "published_at": "2026-09-27T16:20:31Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498229501"
-    },
-    {
-      "id": "1844751498224868",
-      "title": "📜 Double XP Weekend Contract 📜",
-      "published_at": "2026-09-25T15:03:12Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224868"
     }
   ]
 }
