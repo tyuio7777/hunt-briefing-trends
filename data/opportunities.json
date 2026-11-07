@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T23:43:36Z",
+  "generated_at": "2026-11-07T00:13:38Z",
   "status": "ok",
   "invalid_event_count": 0,
   "server_notices": [],
@@ -16,6 +16,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-07",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
+          "published_at": "2026-11-07T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
+          "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
         {
           "id": "2026-11-02",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
@@ -161,7 +170,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-11-02T09:00:00+09:00",
+      "checked_at": "2026-11-07T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -786,6 +795,15 @@
       "status": "confirmed",
       "briefings": [
         {
+          "id": "2026-11-07",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
+          "published_at": "2026-11-07T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
+          "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
           "id": "2026-11-02",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
           "subtitle": "Leap of Faith 마지막 날 · Random Charm 창 전환 · PS Plus 제공 종료일",
@@ -822,14 +840,42 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
-      "checked_at": "2026-11-02T09:00:00+09:00",
+      "checked_at": "2026-11-07T09:00:00+09:00",
       "supplemental": false,
       "kind": "watch",
       "participation": "무료 시청 시간 보상과 유료 Support a Streamer 신규 구독 보상은 별도 조건으로 확인. 두 보상 조건을 동일하게 취급하지 않음.",
       "platforms": "Twitch / Hunt: Showdown 1896",
       "date_basis": "timestamp_kst"
+    },
+    {
+      "event_id": "hunt-blood-testament-chapter-3-start",
+      "title": "Blood Testament Chapter 3 적용",
+      "summary": "Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+      "status": "confirmed",
+      "start_at": null,
+      "end_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-07",
+          "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+          "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
+          "published_at": "2026-11-07T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
+          "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        }
+      ],
+      "checked_at": "2026-11-07T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
     }
   ],
-  "source_sha": "cd8a794914d00b7ef0d3f5f38debd3735174729c",
-  "source_checked_at": "2026-11-06T23:43:36Z"
+  "source_sha": "d49b97d68a98c2e0e0b73937eabbb26ba0318d61",
+  "source_checked_at": "2026-11-07T00:13:38Z"
 }

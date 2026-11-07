@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "id": "2026-11-07",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
+    "published_at": "2026-11-07T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
+    "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+  },
+  "document": {
+    "date": "2026-11-07",
+    "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
+    "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.11.07",
+    "published_at": "2026-11-07T09:00:00+09:00",
+    "summary": "Blood Testament Chapter 3 적용, Lancaster·Cleaver 공동 이벤트 보상 구조, Fair Play Follow Up과 유럽 High-Ping Queue 시험을 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 Blood Testament Chapter 3",
+      "url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+    },
+    "stats": {
+      "official": 4,
+      "community": 6,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-3-start",
+        "title": "Blood Testament Chapter 3 적용",
+        "summary": "Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.",
+        "start_date": "2026-11-03",
+        "end_date": "2026-11-03",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-twitch-drops-2026-10-26",
+        "title": "2026년 10월 Twitch Drops",
+        "summary": "시청 시간 보상과 Support a Streamer 보상으로 구성된 Hunt: Showdown 1896 Twitch Drops 캠페인입니다. 원문 UTC 시각을 한국시간으로 변환했습니다.",
+        "start_date": "2026-10-27",
+        "end_date": "2026-11-10",
+        "start_at": "2026-10-27T00:00:00+09:00",
+        "end_at": "2026-11-10T00:00:00+09:00",
+        "source_url": "https://www.huntshowdown.com/twitchdrops",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "official-blood-testament-chapter-3",
+        "category": "official",
+        "title": "Blood Testament Chapter 3 적용",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "official-fair-play-follow-up-live",
+        "category": "official",
+        "title": "Fair Play Follow Up 서비스 개시",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/an-update-from-the-fair-play-task-force"
+        ]
+      },
+      {
+        "id": "official-eu-high-ping-queue-test",
+        "category": "official",
+        "title": "유럽 High-Ping Queue 임시 시험",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/an-update-from-the-fair-play-task-force",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "official-twitch-drops-final-weekend",
+        "category": "official",
+        "title": "Twitch Drops 마지막 주말",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/twitch-drops-are-back",
+          "https://www.huntshowdown.com/twitchdrops"
+        ]
+      },
+      {
+        "id": "community-where-is-lancaster",
+        "category": "community",
+        "title": "Lancaster 획득 시점 혼선",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xnrj0r/where_is_the_lancaster/"
+        ]
+      },
+      {
+        "id": "community-lancaster-ammo-visible",
+        "category": "community",
+        "title": "Lancaster 탄약 선노출 관찰",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xmntlw/ammo_for_a_gun_that_doesnt_exist/"
+        ]
+      },
+      {
+        "id": "community-random-legendary-stage5",
+        "category": "community",
+        "title": "Stage 5 무작위 Legendary 보상 반응",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xmryz1/random_legendary_skin_from_the_community_event/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-6oMoB-YEf9c",
+        "category": "community",
+        "title": "Psychoghost 최신 Hunt 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=6oMoB-YEf9c"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-HCm8Ifpo4rc",
+        "category": "community",
+        "title": "REXNOR 최신 Hunt 로드아웃",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=HCm8Ifpo4rc"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-MChxbQkZh58",
+        "category": "community",
+        "title": "Toxic Pancake Chapter 3 라운드업",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=MChxbQkZh58"
+        ]
+      },
+      {
+        "id": "rumor-reap-harvest-next-tuesday",
+        "category": "rumor",
+        "title": "Reap the Harvest 다음 화요일 개시설",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xnrj0r/where_is_the_lancaster/",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "rumor-high-ping-global-permanent",
+        "category": "rumor",
+        "title": "High-Ping Queue 전 지역 영구화설",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xmsoaw/an_update_from_the_fair_play_task_force/",
+          "https://www.huntshowdown.com/news/an-update-from-the-fair-play-task-force"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+      "https://www.huntshowdown.com/news/an-update-from-the-fair-play-task-force",
+      "https://www.huntshowdown.com/news/twitch-drops-are-back",
+      "https://www.huntshowdown.com/twitchdrops",
+      "https://steamdb.info/app/594650/history/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xnrj0r/where_is_the_lancaster/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xmntlw/ammo_for_a_gun_that_doesnt_exist/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xmryz1/random_legendary_skin_from_the_community_event/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xmsoaw/an_update_from_the_fair_play_task_force/",
+      "https://www.youtube.com/watch?v=6oMoB-YEf9c",
+      "https://www.youtube.com/watch?v=HCm8Ifpo4rc",
+      "https://www.youtube.com/watch?v=MChxbQkZh58"
+    ]
+  }
+}
