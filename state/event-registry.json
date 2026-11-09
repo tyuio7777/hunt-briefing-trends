@@ -7,8 +7,14 @@
       "end_date": "2026-10-13",
       "supplemental": false
     },
+    "hunt-as-the-crow-carves-legacy-chronicle-launch": {
+      "checked_at": "2026-11-09T09:00:00+09:00",
+      "status": "confirmed",
+      "end_date": "2026-11-06",
+      "supplemental": false
+    },
     "hunt-blood-testament": {
-      "checked_at": "2026-11-07T09:00:00+09:00",
+      "checked_at": "2026-11-09T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-12-08",
       "supplemental": false
@@ -20,7 +26,7 @@
       "supplemental": false
     },
     "hunt-blood-testament-chapter-3-start": {
-      "checked_at": "2026-11-07T09:00:00+09:00",
+      "checked_at": "2026-11-09T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-03",
       "supplemental": false
@@ -68,7 +74,7 @@
       "supplemental": false
     },
     "hunt-twitch-rewards-2026-10-26": {
-      "checked_at": "2026-11-07T09:00:00+09:00",
+      "checked_at": "2026-11-09T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-10",
       "supplemental": false
@@ -104,6 +110,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-07",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
@@ -258,7 +273,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-11-07T09:00:00+09:00",
+      "checked_at": "2026-11-09T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -883,6 +898,15 @@
       "status": "confirmed",
       "briefings": [
         {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
           "id": "2026-11-07",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
           "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
@@ -928,7 +952,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/c98e8aaa00dde106cce0fa1770d02c4a9ccbe12b.jpg"
         }
       ],
-      "checked_at": "2026-11-07T09:00:00+09:00",
+      "checked_at": "2026-11-09T09:00:00+09:00",
       "supplemental": false,
       "kind": "watch",
       "participation": "무료 시청 시간 보상과 유료 Support a Streamer 신규 구독 보상은 별도 조건으로 확인. 두 보상 조건을 동일하게 취급하지 않음.",
@@ -947,6 +971,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
           "id": "2026-11-07",
           "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
           "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
@@ -956,7 +989,35 @@
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
         }
       ],
-      "checked_at": "2026-11-07T09:00:00+09:00",
+      "checked_at": "2026-11-09T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
+    },
+    {
+      "event_id": "hunt-as-the-crow-carves-legacy-chronicle-launch",
+      "title": "As the Crow Carves 공개",
+      "summary": "Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "source_url": "https://store.steampowered.com/news/app/594650/view/1848664643346977",
+      "status": "confirmed",
+      "start_at": null,
+      "end_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "checked_at": "2026-11-09T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",

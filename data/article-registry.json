@@ -3282,6 +3282,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
@@ -3339,6 +3348,14 @@
           "topic": "events",
           "briefing_id": "2026-11-07",
           "title": "Twitch Drops 마지막 주말",
+          "terms": [
+            "drops"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-09",
+          "title": "Twitch Drops 마지막 날",
           "terms": [
             "drops"
           ]
@@ -3728,6 +3745,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
@@ -3738,6 +3764,14 @@
           "terms": [
             "chapter",
             "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-09",
+          "title": "Reap the Harvest 보상 구조",
+          "terms": [
+            "보상"
           ]
         }
       ],
@@ -3764,6 +3798,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
@@ -3771,6 +3814,14 @@
           "topic": "fairness",
           "briefing_id": "2026-11-07",
           "title": "Fair Play Follow Up 서비스 개시",
+          "terms": [
+            "fair play"
+          ]
+        },
+        {
+          "topic": "fairness",
+          "briefing_id": "2026-11-09",
+          "title": "Fair Play Follow Up과 유럽 High-Ping Queue",
           "terms": [
             "fair play"
           ]
@@ -3877,6 +3928,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [],
@@ -3925,12 +3985,29 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
         {
           "topic": "events",
           "briefing_id": "2026-11-07",
+          "title": "Toxic Pancake Chapter 3 라운드업",
+          "terms": [
+            "chapter"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-09",
           "title": "Toxic Pancake Chapter 3 라운드업",
           "terms": [
             "chapter"
@@ -3957,9 +4034,190 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
+        },
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "df14386665d771f7b59412fb",
+      "url": "https://store.steampowered.com/news/app/594650/view/1848664643346977",
+      "title": "As the Crow Carves Legacy Chronicle 공개",
+      "first_included_at": "2026-11-09T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "7f77924fd614119cdda1ce75",
+      "url": "https://reddit.com/comments/1xpkbl3",
+      "title": "As the Crow Carves 발표 시점 논쟁",
+      "first_included_at": "2026-11-09T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "860216dfb2bac0cc6bbac5d1",
+      "url": "https://reddit.com/comments/1xpxng6",
+      "title": "Lancaster 해금 시점 질문",
+      "first_included_at": "2026-11-09T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "82328a42dd4c82e203daecdf",
+      "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=57666&page=1",
+      "title": "한국 Twitch 구독 보상 가이드",
+      "first_included_at": "2026-11-09T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-09",
+          "title": "한국 Twitch 구독 보상 가이드",
+          "terms": [
+            "보상"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "6eb29d77be653ab709408d1b",
+      "url": "https://bilibili.com/video/BV1nmYS6FE88",
+      "title": "중국 Bloodskin 공략 공유",
+      "first_included_at": "2026-11-09T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-11-09",
+          "title": "중국 Bloodskin 공략 공유",
+          "terms": [
+            "bloodskin"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "ce78da647772bc45c5b29f7c",
+      "url": "https://youtube.com/watch?v=_b2WnQFpyoA",
+      "title": "REXNOR 최신 Long Derringer 영상",
+      "first_included_at": "2026-11-09T09:00:00+09:00",
+      "topics": [
+        "balance"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-09",
+          "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
+          "published_at": "2026-11-09T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "balance",
+          "briefing_id": "2026-11-09",
+          "title": "REXNOR 최신 Long Derringer 영상",
+          "terms": [
+            "derringer"
+          ]
+        }
+      ],
       "rule_version": "1"
     }
   ],
@@ -4294,6 +4552,12 @@
     {
       "briefing_id": "2026-11-07",
       "title": "Twitch Drops 마지막 주말",
+      "url": "https://www.huntshowdown.com/twitchdrops",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-09",
+      "title": "Twitch Drops 마지막 날",
       "url": "https://www.huntshowdown.com/twitchdrops",
       "reason": "unidentified_article"
     }
