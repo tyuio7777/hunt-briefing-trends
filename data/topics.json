@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-13T14:43:37Z",
+  "generated_at": "2026-11-13T15:13:37Z",
   "status": "ok",
   "scope": "briefing_sources",
-  "from_date": "2026-11-07",
-  "through_date": "2026-11-13",
-  "previous_from_date": "2026-10-31",
-  "total": 15,
-  "previous_total": 9,
+  "from_date": "2026-11-08",
+  "through_date": "2026-11-14",
+  "previous_from_date": "2026-11-01",
+  "total": 6,
+  "previous_total": 14,
   "small_sample": true,
   "excluded_total": 58,
   "registry_total": 109,
@@ -15,149 +15,11 @@
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 4,
-      "previous_count": 1,
-      "share": 0.26666666666666666,
-      "previous_share": 0.1111111111111111,
+      "count": 1,
+      "previous_count": 3,
+      "share": 0.16666666666666666,
+      "previous_share": 0.21428571428571427,
       "articles": [
-        {
-          "id": "aa0ac3fd75d92b4b2b907fce",
-          "url": "https://huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
-          "title": "Blood Testament Chapter 3 적용",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "official",
-            "unconfirmed"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            },
-            {
-              "id": "2026-11-09",
-              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
-              "published_at": "2026-11-09T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-07",
-              "title": "Blood Testament Chapter 3 적용",
-              "terms": [
-                "chapter",
-                "blood testament"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-09",
-              "title": "Reap the Harvest 보상 구조",
-              "terms": [
-                "보상"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "0e6e6a75b55cb4ea0db4d8f1",
-          "url": "https://reddit.com/comments/1xmryz1",
-          "title": "Stage 5 무작위 Legendary 보상 반응",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-07",
-              "title": "Stage 5 무작위 Legendary 보상 반응",
-              "terms": [
-                "보상"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "490aa412eb737749825e974a",
-          "url": "https://youtube.com/watch?v=MChxbQkZh58",
-          "title": "Toxic Pancake Chapter 3 라운드업",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            },
-            {
-              "id": "2026-11-09",
-              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
-              "published_at": "2026-11-09T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-07",
-              "title": "Toxic Pancake Chapter 3 라운드업",
-              "terms": [
-                "chapter"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-09",
-              "title": "Toxic Pancake Chapter 3 라운드업",
-              "terms": [
-                "chapter"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
         {
           "id": "82328a42dd4c82e203daecdf",
           "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=57666&page=1",
@@ -199,8 +61,8 @@
       "name": "무기·특성·밸런스",
       "count": 2,
       "previous_count": 2,
-      "share": 0.13333333333333333,
-      "previous_share": 0.2222222222222222,
+      "share": 0.3333333333333333,
+      "previous_share": 0.14285714285714285,
       "articles": [
         {
           "id": "6eb29d77be653ab709408d1b",
@@ -284,64 +146,11 @@
     {
       "id": "fairness",
       "name": "매칭·공정성",
-      "count": 1,
-      "previous_count": 0,
-      "share": 0.06666666666666667,
-      "previous_share": 0.0,
-      "articles": [
-        {
-          "id": "ae89eafc1d31e4d015df1b2e",
-          "url": "https://huntshowdown.com/news/an-update-from-the-fair-play-task-force",
-          "title": "Fair Play Follow Up 서비스 개시",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [
-            "fairness"
-          ],
-          "origins": [
-            "official",
-            "unconfirmed"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            },
-            {
-              "id": "2026-11-09",
-              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
-              "published_at": "2026-11-09T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "fairness",
-              "briefing_id": "2026-11-07",
-              "title": "Fair Play Follow Up 서비스 개시",
-              "terms": [
-                "fair play"
-              ]
-            },
-            {
-              "topic": "fairness",
-              "briefing_id": "2026-11-09",
-              "title": "Fair Play Follow Up과 유럽 High-Ping Queue",
-              "terms": [
-                "fair play"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        }
-      ]
+      "count": 0,
+      "previous_count": 1,
+      "share": 0.0,
+      "previous_share": 0.07142857142857142,
+      "articles": []
     },
     {
       "id": "lore",
@@ -355,145 +164,11 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 8,
-      "previous_count": 6,
-      "share": 0.5333333333333333,
-      "previous_share": 0.6666666666666666,
+      "count": 3,
+      "previous_count": 8,
+      "share": 0.5,
+      "previous_share": 0.5714285714285714,
       "articles": [
-        {
-          "id": "f6432e9a0d4e64497ed6079c",
-          "url": "https://reddit.com/comments/1xnrj0r",
-          "title": "Lancaster 획득 시점 혼선",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community",
-            "unconfirmed"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "7da91ba738a6437fdcebd55b",
-          "url": "https://reddit.com/comments/1xmntlw",
-          "title": "Lancaster 탄약 선노출 관찰",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "517ecf9f2c6924ee8735c645",
-          "url": "https://youtube.com/watch?v=6oMoB-YEf9c",
-          "title": "Psychoghost 최신 Hunt 플레이",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            },
-            {
-              "id": "2026-11-09",
-              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
-              "published_at": "2026-11-09T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "c67cc5d3edde0c3a8b134746",
-          "url": "https://youtube.com/watch?v=HCm8Ifpo4rc",
-          "title": "REXNOR 최신 Hunt 로드아웃",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "c21bfd974a5d7c8e7f5490cb",
-          "url": "https://reddit.com/comments/1xmsoaw",
-          "title": "High-Ping Queue 전 지역 영구화설",
-          "first_included_at": "2026-11-07T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "unconfirmed"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-07",
-              "title": "공식 4건 · 커뮤니티 6건 · 루머 2건",
-              "subtitle": "Blood Testament Chapter 3 적용 · Lancaster 공동 해금 대기 · Fair Play Follow Up",
-              "published_at": "2026-11-07T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-07.html",
-              "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
-            },
-            {
-              "id": "2026-11-09",
-              "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
-              "published_at": "2026-11-09T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
         {
           "id": "df14386665d771f7b59412fb",
           "url": "https://store.steampowered.com/news/app/594650/view/1848664643346977",
@@ -569,5 +244,5 @@
   ],
   "latest_briefing_at": "2026-11-09T09:00:00+09:00",
   "source_sha": "07792ba71028e5e6138eb4e9b3c958407ac5efb9",
-  "source_checked_at": "2026-11-13T14:43:37Z"
+  "source_checked_at": "2026-11-13T15:13:37Z"
 }
