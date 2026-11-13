@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-13T06:13:38Z",
+  "generated_at": "2026-11-13T06:43:37Z",
   "status": "ok",
   "source_url": "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650",
   "scope": "steam_global_online",
   "interval_minutes": 30,
   "collection_started_at": "2026-10-16T06:35:23Z",
-  "last_observed_at": "2026-11-13T06:13:38Z",
+  "last_observed_at": "2026-11-13T06:43:37Z",
   "points": [
     {
       "observed_at": "2026-10-16T06:35:23Z",
@@ -10551,1017 +10551,1025 @@
       "trigger": "workflow_dispatch",
       "schedule": "13,43 * * * *",
       "run_id": "43377202299"
+    },
+    {
+      "observed_at": "2026-11-13T06:43:37Z",
+      "slot": "2026-11-13T06:43:00Z",
+      "count": 6989,
+      "trigger": "workflow_dispatch",
+      "schedule": "13,43 * * * *",
+      "run_id": "43380683052"
     }
   ],
-  "heatmap_ready": false,
+  "heatmap_ready": true,
   "heatmap": [
     {
       "weekday": 0,
       "hour": 0,
       "count": 8,
-      "median": null
+      "median": 25644.5
     },
     {
       "weekday": 0,
       "hour": 1,
       "count": 8,
-      "median": null
+      "median": 22342.5
     },
     {
       "weekday": 0,
       "hour": 2,
       "count": 8,
-      "median": null
+      "median": 20911.0
     },
     {
       "weekday": 0,
       "hour": 3,
       "count": 8,
-      "median": null
+      "median": 20325.5
     },
     {
       "weekday": 0,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 20431.0
     },
     {
       "weekday": 0,
       "hour": 5,
       "count": 8,
-      "median": null
+      "median": 19070.5
     },
     {
       "weekday": 0,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 16214.0
     },
     {
       "weekday": 0,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 12509.0
     },
     {
       "weekday": 0,
       "hour": 8,
       "count": 6,
-      "median": null
+      "median": 10299.0
     },
     {
       "weekday": 0,
       "hour": 9,
       "count": 6,
-      "median": null
+      "median": 8874.5
     },
     {
       "weekday": 0,
       "hour": 10,
       "count": 7,
-      "median": null
+      "median": 8377
     },
     {
       "weekday": 0,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 8259.5
     },
     {
       "weekday": 0,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 7714.5
     },
     {
       "weekday": 0,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 7309.0
     },
     {
       "weekday": 0,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 7121.5
     },
     {
       "weekday": 0,
       "hour": 15,
       "count": 8,
-      "median": null
+      "median": 6991.0
     },
     {
       "weekday": 0,
       "hour": 16,
       "count": 8,
-      "median": null
+      "median": 7478.5
     },
     {
       "weekday": 0,
       "hour": 17,
       "count": 8,
-      "median": null
+      "median": 8246.5
     },
     {
       "weekday": 0,
       "hour": 18,
       "count": 8,
-      "median": null
+      "median": 9146.5
     },
     {
       "weekday": 0,
       "hour": 19,
       "count": 8,
-      "median": null
+      "median": 10016.5
     },
     {
       "weekday": 0,
       "hour": 20,
       "count": 8,
-      "median": null
+      "median": 13226.5
     },
     {
       "weekday": 0,
       "hour": 21,
       "count": 8,
-      "median": null
+      "median": 17551.0
     },
     {
       "weekday": 0,
       "hour": 22,
       "count": 8,
-      "median": null
+      "median": 21891.0
     },
     {
       "weekday": 0,
       "hour": 23,
       "count": 8,
-      "median": null
+      "median": 22812.5
     },
     {
       "weekday": 1,
       "hour": 0,
       "count": 8,
-      "median": null
+      "median": 19691.0
     },
     {
       "weekday": 1,
       "hour": 1,
       "count": 8,
-      "median": null
+      "median": 17400.5
     },
     {
       "weekday": 1,
       "hour": 2,
       "count": 8,
-      "median": null
+      "median": 17242.0
     },
     {
       "weekday": 1,
       "hour": 3,
       "count": 7,
-      "median": null
+      "median": 17831
     },
     {
       "weekday": 1,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 18522.5
     },
     {
       "weekday": 1,
       "hour": 5,
       "count": 8,
-      "median": null
+      "median": 17748.5
     },
     {
       "weekday": 1,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 14331.5
     },
     {
       "weekday": 1,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 11577.0
     },
     {
       "weekday": 1,
       "hour": 8,
       "count": 8,
-      "median": null
+      "median": 9501.5
     },
     {
       "weekday": 1,
       "hour": 9,
       "count": 8,
-      "median": null
+      "median": 8056.0
     },
     {
       "weekday": 1,
       "hour": 10,
       "count": 8,
-      "median": null
+      "median": 8046.0
     },
     {
       "weekday": 1,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 8154.5
     },
     {
       "weekday": 1,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 7762.5
     },
     {
       "weekday": 1,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 7286.5
     },
     {
       "weekday": 1,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 7201.5
     },
     {
       "weekday": 1,
       "hour": 15,
       "count": 8,
-      "median": null
+      "median": 7195.5
     },
     {
       "weekday": 1,
       "hour": 16,
       "count": 8,
-      "median": null
+      "median": 7628.5
     },
     {
       "weekday": 1,
       "hour": 17,
       "count": 8,
-      "median": null
+      "median": 8929.5
     },
     {
       "weekday": 1,
       "hour": 18,
       "count": 8,
-      "median": null
+      "median": 10234.0
     },
     {
       "weekday": 1,
       "hour": 19,
       "count": 8,
-      "median": null
+      "median": 11206.0
     },
     {
       "weekday": 1,
       "hour": 20,
       "count": 8,
-      "median": null
+      "median": 13834.0
     },
     {
       "weekday": 1,
       "hour": 21,
       "count": 8,
-      "median": null
+      "median": 19224.0
     },
     {
       "weekday": 1,
       "hour": 22,
       "count": 8,
-      "median": null
+      "median": 23624.5
     },
     {
       "weekday": 1,
       "hour": 23,
       "count": 8,
-      "median": null
+      "median": 24930.5
     },
     {
       "weekday": 2,
       "hour": 0,
       "count": 8,
-      "median": null
+      "median": 20667.5
     },
     {
       "weekday": 2,
       "hour": 1,
       "count": 8,
-      "median": null
+      "median": 18184.0
     },
     {
       "weekday": 2,
       "hour": 2,
       "count": 8,
-      "median": null
+      "median": 17808.5
     },
     {
       "weekday": 2,
       "hour": 3,
       "count": 8,
-      "median": null
+      "median": 18575.0
     },
     {
       "weekday": 2,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 18967.5
     },
     {
       "weekday": 2,
       "hour": 5,
       "count": 8,
-      "median": null
+      "median": 17761.5
     },
     {
       "weekday": 2,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 15557.5
     },
     {
       "weekday": 2,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 12198.0
     },
     {
       "weekday": 2,
       "hour": 8,
       "count": 8,
-      "median": null
+      "median": 9446.5
     },
     {
       "weekday": 2,
       "hour": 9,
       "count": 8,
-      "median": null
+      "median": 8383.5
     },
     {
       "weekday": 2,
       "hour": 10,
       "count": 8,
-      "median": null
+      "median": 8102.0
     },
     {
       "weekday": 2,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 8374.0
     },
     {
       "weekday": 2,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 8183.5
     },
     {
       "weekday": 2,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 7668.5
     },
     {
       "weekday": 2,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 7668.0
     },
     {
       "weekday": 2,
       "hour": 15,
       "count": 8,
-      "median": null
+      "median": 7592.5
     },
     {
       "weekday": 2,
       "hour": 16,
       "count": 8,
-      "median": null
+      "median": 8044.5
     },
     {
       "weekday": 2,
       "hour": 17,
       "count": 8,
-      "median": null
+      "median": 9176.5
     },
     {
       "weekday": 2,
       "hour": 18,
       "count": 8,
-      "median": null
+      "median": 10282.5
     },
     {
       "weekday": 2,
       "hour": 19,
       "count": 8,
-      "median": null
+      "median": 10907.0
     },
     {
       "weekday": 2,
       "hour": 20,
       "count": 8,
-      "median": null
+      "median": 14000.5
     },
     {
       "weekday": 2,
       "hour": 21,
       "count": 8,
-      "median": null
+      "median": 18498.5
     },
     {
       "weekday": 2,
       "hour": 22,
       "count": 8,
-      "median": null
+      "median": 23781.5
     },
     {
       "weekday": 2,
       "hour": 23,
       "count": 8,
-      "median": null
+      "median": 24755.5
     },
     {
       "weekday": 3,
       "hour": 0,
       "count": 8,
-      "median": null
+      "median": 20495.5
     },
     {
       "weekday": 3,
       "hour": 1,
       "count": 8,
-      "median": null
+      "median": 17914.5
     },
     {
       "weekday": 3,
       "hour": 2,
       "count": 8,
-      "median": null
+      "median": 17319.0
     },
     {
       "weekday": 3,
       "hour": 3,
       "count": 8,
-      "median": null
+      "median": 17641.5
     },
     {
       "weekday": 3,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 18234.0
     },
     {
       "weekday": 3,
       "hour": 5,
       "count": 7,
-      "median": null
+      "median": 17860
     },
     {
       "weekday": 3,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 14999.5
     },
     {
       "weekday": 3,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 12026.5
     },
     {
       "weekday": 3,
       "hour": 8,
       "count": 8,
-      "median": null
+      "median": 9063.0
     },
     {
       "weekday": 3,
       "hour": 9,
       "count": 8,
-      "median": null
+      "median": 7834.5
     },
     {
       "weekday": 3,
       "hour": 10,
       "count": 8,
-      "median": null
+      "median": 7689.5
     },
     {
       "weekday": 3,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 7871.0
     },
     {
       "weekday": 3,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 7571.5
     },
     {
       "weekday": 3,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 7135.0
     },
     {
       "weekday": 3,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 7057.5
     },
     {
       "weekday": 3,
       "hour": 15,
       "count": 8,
-      "median": null
+      "median": 6965.0
     },
     {
       "weekday": 3,
       "hour": 16,
       "count": 8,
-      "median": null
+      "median": 7340.0
     },
     {
       "weekday": 3,
       "hour": 17,
       "count": 8,
-      "median": null
+      "median": 8112.5
     },
     {
       "weekday": 3,
       "hour": 18,
       "count": 8,
-      "median": null
+      "median": 9084.5
     },
     {
       "weekday": 3,
       "hour": 19,
       "count": 8,
-      "median": null
+      "median": 10079.5
     },
     {
       "weekday": 3,
       "hour": 20,
       "count": 8,
-      "median": null
+      "median": 12941.5
     },
     {
       "weekday": 3,
       "hour": 21,
       "count": 8,
-      "median": null
+      "median": 17486.5
     },
     {
       "weekday": 3,
       "hour": 22,
       "count": 8,
-      "median": null
+      "median": 21361.5
     },
     {
       "weekday": 3,
       "hour": 23,
       "count": 8,
-      "median": null
+      "median": 22526.0
     },
     {
       "weekday": 4,
       "hour": 0,
       "count": 8,
-      "median": null
+      "median": 19333.5
     },
     {
       "weekday": 4,
       "hour": 1,
       "count": 7,
-      "median": null
+      "median": 17200
     },
     {
       "weekday": 4,
       "hour": 2,
       "count": 8,
-      "median": null
+      "median": 16407.5
     },
     {
       "weekday": 4,
       "hour": 3,
       "count": 8,
-      "median": null
+      "median": 16953.0
     },
     {
       "weekday": 4,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 17171.0
     },
     {
       "weekday": 4,
       "hour": 5,
       "count": 8,
-      "median": null
+      "median": 16602.5
     },
     {
       "weekday": 4,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 13839.0
     },
     {
       "weekday": 4,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 10855.5
     },
     {
       "weekday": 4,
       "hour": 8,
       "count": 8,
-      "median": null
+      "median": 8784.5
     },
     {
       "weekday": 4,
       "hour": 9,
       "count": 8,
-      "median": null
+      "median": 7408.5
     },
     {
       "weekday": 4,
       "hour": 10,
       "count": 8,
-      "median": null
+      "median": 7462.0
     },
     {
       "weekday": 4,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 7783.5
     },
     {
       "weekday": 4,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 7670.5
     },
     {
       "weekday": 4,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 7232.5
     },
     {
       "weekday": 4,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 7205.0
     },
     {
       "weekday": 4,
       "hour": 15,
       "count": 9,
-      "median": null
+      "median": 7346
     },
     {
       "weekday": 4,
       "hour": 16,
       "count": 6,
-      "median": null
+      "median": 7941.0
     },
     {
       "weekday": 4,
       "hour": 17,
       "count": 7,
-      "median": null
+      "median": 9103
     },
     {
       "weekday": 4,
       "hour": 18,
       "count": 6,
-      "median": null
+      "median": 9871.5
     },
     {
       "weekday": 4,
       "hour": 19,
       "count": 6,
-      "median": null
+      "median": 10568.5
     },
     {
       "weekday": 4,
       "hour": 20,
       "count": 7,
-      "median": null
+      "median": 13361
     },
     {
       "weekday": 4,
       "hour": 21,
       "count": 6,
-      "median": null
+      "median": 18598.5
     },
     {
       "weekday": 4,
       "hour": 22,
       "count": 7,
-      "median": null
+      "median": 22996
     },
     {
       "weekday": 4,
       "hour": 23,
       "count": 6,
-      "median": null
+      "median": 24500.0
     },
     {
       "weekday": 5,
       "hour": 0,
       "count": 6,
-      "median": null
+      "median": 22967.5
     },
     {
       "weekday": 5,
       "hour": 1,
       "count": 7,
-      "median": null
+      "median": 19887
     },
     {
       "weekday": 5,
       "hour": 2,
       "count": 7,
-      "median": null
+      "median": 18874
     },
     {
       "weekday": 5,
       "hour": 3,
       "count": 7,
-      "median": null
+      "median": 18862
     },
     {
       "weekday": 5,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 19473.5
     },
     {
       "weekday": 5,
       "hour": 5,
       "count": 8,
-      "median": null
+      "median": 19462.5
     },
     {
       "weekday": 5,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 18158.0
     },
     {
       "weekday": 5,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 14686.5
     },
     {
       "weekday": 5,
       "hour": 8,
       "count": 8,
-      "median": null
+      "median": 11838.0
     },
     {
       "weekday": 5,
       "hour": 9,
       "count": 8,
-      "median": null
+      "median": 9725.0
     },
     {
       "weekday": 5,
       "hour": 10,
       "count": 8,
-      "median": null
+      "median": 9588.5
     },
     {
       "weekday": 5,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 10373.5
     },
     {
       "weekday": 5,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 10847.0
     },
     {
       "weekday": 5,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 10661.5
     },
     {
       "weekday": 5,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 11142.0
     },
     {
       "weekday": 5,
       "hour": 15,
       "count": 8,
-      "median": null
+      "median": 12305.0
     },
     {
       "weekday": 5,
       "hour": 16,
       "count": 8,
-      "median": null
+      "median": 13522.0
     },
     {
       "weekday": 5,
       "hour": 17,
       "count": 8,
-      "median": null
+      "median": 14516.5
     },
     {
       "weekday": 5,
       "hour": 18,
       "count": 8,
-      "median": null
+      "median": 15010.0
     },
     {
       "weekday": 5,
       "hour": 19,
       "count": 8,
-      "median": null
+      "median": 14944.5
     },
     {
       "weekday": 5,
       "hour": 20,
       "count": 8,
-      "median": null
+      "median": 17997.5
     },
     {
       "weekday": 5,
       "hour": 21,
       "count": 8,
-      "median": null
+      "median": 22907.5
     },
     {
       "weekday": 5,
       "hour": 22,
       "count": 8,
-      "median": null
+      "median": 26995.5
     },
     {
       "weekday": 5,
       "hour": 23,
       "count": 8,
-      "median": null
+      "median": 28559.0
     },
     {
       "weekday": 6,
       "hour": 0,
       "count": 8,
-      "median": null
+      "median": 26321.0
     },
     {
       "weekday": 6,
       "hour": 1,
       "count": 8,
-      "median": null
+      "median": 22926.5
     },
     {
       "weekday": 6,
       "hour": 2,
       "count": 8,
-      "median": null
+      "median": 20853.5
     },
     {
       "weekday": 6,
       "hour": 3,
       "count": 8,
-      "median": null
+      "median": 20013.5
     },
     {
       "weekday": 6,
       "hour": 4,
       "count": 8,
-      "median": null
+      "median": 20140.5
     },
     {
       "weekday": 6,
       "hour": 5,
       "count": 8,
-      "median": null
+      "median": 19759.5
     },
     {
       "weekday": 6,
       "hour": 6,
       "count": 8,
-      "median": null
+      "median": 18542.5
     },
     {
       "weekday": 6,
       "hour": 7,
       "count": 8,
-      "median": null
+      "median": 15400.5
     },
     {
       "weekday": 6,
       "hour": 8,
       "count": 8,
-      "median": null
+      "median": 12420.0
     },
     {
       "weekday": 6,
       "hour": 9,
       "count": 8,
-      "median": null
+      "median": 10016.0
     },
     {
       "weekday": 6,
       "hour": 10,
       "count": 8,
-      "median": null
+      "median": 9770.0
     },
     {
       "weekday": 6,
       "hour": 11,
       "count": 8,
-      "median": null
+      "median": 10311.0
     },
     {
       "weekday": 6,
       "hour": 12,
       "count": 8,
-      "median": null
+      "median": 10887.0
     },
     {
       "weekday": 6,
       "hour": 13,
       "count": 8,
-      "median": null
+      "median": 10844.5
     },
     {
       "weekday": 6,
       "hour": 14,
       "count": 8,
-      "median": null
+      "median": 12029.5
     },
     {
       "weekday": 6,
       "hour": 15,
       "count": 8,
-      "median": null
+      "median": 13747.0
     },
     {
       "weekday": 6,
       "hour": 16,
       "count": 8,
-      "median": null
+      "median": 15126.0
     },
     {
       "weekday": 6,
       "hour": 17,
       "count": 8,
-      "median": null
+      "median": 16216.5
     },
     {
       "weekday": 6,
       "hour": 18,
       "count": 8,
-      "median": null
+      "median": 16460.5
     },
     {
       "weekday": 6,
       "hour": 19,
       "count": 8,
-      "median": null
+      "median": 16297.0
     },
     {
       "weekday": 6,
       "hour": 20,
       "count": 7,
-      "median": null
+      "median": 18700
     },
     {
       "weekday": 6,
       "hour": 21,
       "count": 8,
-      "median": null
+      "median": 24340.0
     },
     {
       "weekday": 6,
       "hour": 22,
       "count": 8,
-      "median": null
+      "median": 28341.0
     },
     {
       "weekday": 6,
       "hour": 23,
       "count": 8,
-      "median": null
+      "median": 29265.5
     }
   ]
 }
