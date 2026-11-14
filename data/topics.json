@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-14T14:43:37Z",
+  "generated_at": "2026-11-14T15:13:36Z",
   "status": "ok",
   "scope": "briefing_sources",
-  "from_date": "2026-11-08",
-  "through_date": "2026-11-14",
-  "previous_from_date": "2026-11-01",
+  "from_date": "2026-11-09",
+  "through_date": "2026-11-15",
+  "previous_from_date": "2026-11-02",
   "total": 12,
   "previous_total": 14,
   "small_sample": false,
@@ -413,5 +413,5 @@
   ],
   "latest_briefing_at": "2026-11-14T09:00:00+09:00",
   "source_sha": "7cd0c1a464717f6b0cf2124d7ba3cdd0be7a6ff4",
-  "source_checked_at": "2026-11-14T14:43:37Z"
+  "source_checked_at": "2026-11-14T15:13:36Z"
 }
