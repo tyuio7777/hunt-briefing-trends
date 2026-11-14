@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-13T23:43:38Z",
+  "generated_at": "2026-11-14T00:13:37Z",
   "status": "ok",
   "invalid_event_count": 0,
   "server_notices": [],
@@ -16,6 +16,14 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        },
         {
           "id": "2026-11-09",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
@@ -179,7 +187,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-11-09T09:00:00+09:00",
+      "checked_at": "2026-11-14T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -877,6 +885,14 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        },
+        {
           "id": "2026-11-09",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
@@ -895,7 +911,7 @@
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
         }
       ],
-      "checked_at": "2026-11-09T09:00:00+09:00",
+      "checked_at": "2026-11-14T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -914,6 +930,14 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        },
+        {
           "id": "2026-11-09",
           "title": "공식 4건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "As the Crow Carves 공개 · Twitch Drops 마지막 날 · Reap the Harvest 일정 대기",
@@ -923,7 +947,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-09T09:00:00+09:00",
+      "checked_at": "2026-11-14T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -931,6 +955,6 @@
       "date_basis": "announced_date"
     }
   ],
-  "source_sha": "07792ba71028e5e6138eb4e9b3c958407ac5efb9",
-  "source_checked_at": "2026-11-13T23:43:38Z"
+  "source_sha": "0dfe8c21d10ecf3208a177f5f3efb5707542c259",
+  "source_checked_at": "2026-11-14T00:13:37Z"
 }

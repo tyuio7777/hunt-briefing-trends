@@ -1,0 +1,175 @@
+{
+  "issue": {
+    "id": "2026-11-14",
+    "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+    "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+    "published_at": "2026-11-14T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+  },
+  "document": {
+    "date": "2026-11-14",
+    "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+    "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.11.14",
+    "published_at": "2026-11-14T09:00:00+09:00",
+    "summary": "Reap the Harvest의 공식 시작일 공백과 11월 13일 SteamDB 본편·테스트 서버 변경을 분리해 추적하고, Lancaster 해금 대기 여론과 유럽 High-Ping Queue 체감을 정리했습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 As the Crow Carves Legacy Chronicle",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+    },
+    "stats": {
+      "official": 3,
+      "community": 7,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-3-start",
+        "title": "Blood Testament Chapter 3 적용",
+        "summary": "Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.",
+        "start_date": "2026-11-03",
+        "end_date": "2026-11-03",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-as-the-crow-carves-legacy-chronicle-launch",
+        "title": "As the Crow Carves 공개",
+        "summary": "Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.",
+        "start_date": "2026-11-06",
+        "end_date": "2026-11-06",
+        "source_url": "https://store.steampowered.com/news/app/594650/view/1848664643346977",
+        "status": "confirmed"
+      }
+    ],
+    "sections": [
+      {
+        "id": "official-as-the-crow-carves",
+        "category": "official",
+        "title": "As the Crow Carves Legacy Chronicle 운영 중",
+        "source_urls": [
+          "https://store.steampowered.com/news/app/594650/view/1848664643346977"
+        ]
+      },
+      {
+        "id": "official-reap-harvest-reward-structure",
+        "category": "official",
+        "title": "Reap the Harvest는 ‘Chapter 3 후반’ 예정",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "official-fair-play-high-ping",
+        "category": "official",
+        "title": "Fair Play Follow Up과 유럽 High-Ping Queue",
+        "source_urls": [
+          "https://www.huntshowdown.com/news/an-update-from-the-fair-play-task-force",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "community-reap-harvest-delay-reaction",
+        "category": "community",
+        "title": "Lancaster·Reap 일정 공백에 대한 반응",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xtggv4/gimme_lancaster_plz/"
+        ]
+      },
+      {
+        "id": "community-eu-high-ping-test-feedback",
+        "category": "community",
+        "title": "유럽 High-Ping Queue 체감 보고",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xpru3v/the_ping_limit_seems_to_be_working_to_me/",
+          "https://www.reddit.com/r/HuntShowdown/comments/1xmsoaw/an_update_from_the_fair_play_task_force/"
+        ]
+      },
+      {
+        "id": "community-korea-sixstar-playstyle",
+        "category": "community",
+        "title": "한국 고 MMR 운영 체감 공유",
+        "source_urls": [
+          "https://gall.dcinside.com/mgallery/board/view/?id=huntshowdown&no=57908&page=1"
+        ]
+      },
+      {
+        "id": "community-china-advanced-tips-translation",
+        "category": "community",
+        "title": "중국어권 Hunt 고급 팁 번역 공유",
+        "source_urls": [
+          "https://www.bilibili.com/video/BV1BEnn6VEdG/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-Ts1G6Zr5_UQ",
+        "category": "community",
+        "title": "Psychoghost Mosin·Crown 솔로 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=Ts1G6Zr5_UQ"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-_b2WnQFpyoA",
+        "category": "community",
+        "title": "REXNOR Long Derringer 트릭샷",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=_b2WnQFpyoA"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-W3Ggnct6-BI",
+        "category": "community",
+        "title": "Toxic Pancake Bound by Blood 로드아웃",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=W3Ggnct6-BI"
+        ]
+      },
+      {
+        "id": "rumor-reap-harvest-next-tuesday",
+        "category": "rumor",
+        "title": "Reap the Harvest 다음 화요일 개시설",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xtggv4/gimme_lancaster_plz/",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "rumor-steamdb-reap-imminent",
+        "category": "rumor",
+        "title": "11월 13일 SteamDB 변경이 Reap 직전 배포라는 해석",
+        "source_urls": [
+          "https://steamdb.info/app/594650/history/",
+          "https://steamdb.info/app/770720/history/",
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://store.steampowered.com/news/app/594650/view/1848664643346977",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+      "https://www.huntshowdown.com/news/an-update-from-the-fair-play-task-force",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xtggv4/gimme_lancaster_plz/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xpru3v/the_ping_limit_seems_to_be_working_to_me/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xmsoaw/an_update_from_the_fair_play_task_force/",
+      "https://gall.dcinside.com/mgallery/board/view/?id=huntshowdown&no=57908&page=1",
+      "https://www.bilibili.com/video/BV1BEnn6VEdG/",
+      "https://www.youtube.com/watch?v=Ts1G6Zr5_UQ",
+      "https://www.youtube.com/watch?v=_b2WnQFpyoA",
+      "https://www.youtube.com/watch?v=W3Ggnct6-BI",
+      "https://steamdb.info/app/594650/history/",
+      "https://steamdb.info/app/770720/history/"
+    ]
+  }
+}

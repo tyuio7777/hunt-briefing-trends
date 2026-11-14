@@ -3730,7 +3730,8 @@
       "title": "Blood Testament Chapter 3 적용",
       "first_included_at": "2026-11-07T09:00:00+09:00",
       "topics": [
-        "events"
+        "events",
+        "fairness"
       ],
       "origins": [
         "official",
@@ -3754,6 +3755,14 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
         }
       ],
       "evidence": [
@@ -3772,6 +3781,22 @@
           "title": "Reap the Harvest 보상 구조",
           "terms": [
             "보상"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-14",
+          "title": "Reap the Harvest는 ‘Chapter 3 후반’ 예정",
+          "terms": [
+            "chapter"
+          ]
+        },
+        {
+          "topic": "fairness",
+          "briefing_id": "2026-11-14",
+          "title": "Fair Play Follow Up과 유럽 High-Ping Queue",
+          "terms": [
+            "fair play"
           ]
         }
       ],
@@ -3807,6 +3832,14 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
         }
       ],
       "evidence": [
@@ -3821,6 +3854,14 @@
         {
           "topic": "fairness",
           "briefing_id": "2026-11-09",
+          "title": "Fair Play Follow Up과 유럽 High-Ping Queue",
+          "terms": [
+            "fair play"
+          ]
+        },
+        {
+          "topic": "fairness",
+          "briefing_id": "2026-11-14",
           "title": "Fair Play Follow Up과 유럽 High-Ping Queue",
           "terms": [
             "fair play"
@@ -4023,7 +4064,8 @@
       "first_included_at": "2026-11-07T09:00:00+09:00",
       "topics": [],
       "origins": [
-        "unconfirmed"
+        "unconfirmed",
+        "community"
       ],
       "briefings": [
         {
@@ -4043,6 +4085,14 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
         }
       ],
       "evidence": [],
@@ -4066,6 +4116,14 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
         }
       ],
       "evidence": [],
@@ -4206,6 +4264,14 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-09.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
         }
       ],
       "evidence": [
@@ -4216,8 +4282,160 @@
           "terms": [
             "derringer"
           ]
+        },
+        {
+          "topic": "balance",
+          "briefing_id": "2026-11-14",
+          "title": "REXNOR Long Derringer 트릭샷",
+          "terms": [
+            "derringer"
+          ]
         }
       ],
+      "rule_version": "1"
+    },
+    {
+      "id": "b6637e461d7e61900c644de0",
+      "url": "https://reddit.com/comments/1xtggv4",
+      "title": "Lancaster·Reap 일정 공백에 대한 반응",
+      "first_included_at": "2026-11-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "24c49695b6c8ab64fb6428fa",
+      "url": "https://reddit.com/comments/1xpru3v",
+      "title": "유럽 High-Ping Queue 체감 보고",
+      "first_included_at": "2026-11-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "7f27763ac64929cde5ee9c15",
+      "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=57908&page=1",
+      "title": "한국 고 MMR 운영 체감 공유",
+      "first_included_at": "2026-11-14T09:00:00+09:00",
+      "topics": [
+        "fairness"
+      ],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "fairness",
+          "briefing_id": "2026-11-14",
+          "title": "한국 고 MMR 운영 체감 공유",
+          "terms": [
+            "mmr"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "7f9f31f5fdab5364f9d9d7e1",
+      "url": "https://bilibili.com/video/BV1BEnn6VEdG",
+      "title": "중국어권 Hunt 고급 팁 번역 공유",
+      "first_included_at": "2026-11-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "58c094a3ba4eaf62097c931b",
+      "url": "https://youtube.com/watch?v=Ts1G6Zr5_UQ",
+      "title": "Psychoghost Mosin·Crown 솔로 플레이",
+      "first_included_at": "2026-11-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "f52c17f704249603b7161db8",
+      "url": "https://youtube.com/watch?v=W3Ggnct6-BI",
+      "title": "Toxic Pancake Bound by Blood 로드아웃",
+      "first_included_at": "2026-11-14T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-14",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 일정 공백 · 11월 13일 빌드 신호 · Lancaster 대기 여론",
+          "published_at": "2026-11-14T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html"
+        }
+      ],
+      "evidence": [],
       "rule_version": "1"
     }
   ],
@@ -4559,6 +4777,18 @@
       "briefing_id": "2026-11-09",
       "title": "Twitch Drops 마지막 날",
       "url": "https://www.huntshowdown.com/twitchdrops",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-14",
+      "title": "11월 13일 SteamDB 변경이 Reap 직전 배포라는 해석",
+      "url": "https://steamdb.info/app/594650/history/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-14",
+      "title": "11월 13일 SteamDB 변경이 Reap 직전 배포라는 해석",
+      "url": "https://steamdb.info/app/770720/history/",
       "reason": "unidentified_article"
     }
   ]
