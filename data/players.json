@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T20:13:38Z",
+  "generated_at": "2026-11-15T20:43:37Z",
   "status": "ok",
   "source_url": "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650",
   "scope": "steam_global_online",
   "interval_minutes": 30,
   "collection_started_at": "2026-10-16T06:35:23Z",
-  "last_observed_at": "2026-11-15T20:13:38Z",
+  "last_observed_at": "2026-11-15T20:43:37Z",
   "points": [
     {
       "observed_at": "2026-10-16T20:43:38Z",
@@ -11447,6 +11447,14 @@
       "trigger": "workflow_dispatch",
       "schedule": "13,43 * * * *",
       "run_id": "43756844793"
+    },
+    {
+      "observed_at": "2026-11-15T20:43:37Z",
+      "slot": "2026-11-15T20:43:00Z",
+      "count": 16821,
+      "trigger": "workflow_dispatch",
+      "schedule": "13,43 * * * *",
+      "run_id": "43759671998"
     }
   ],
   "heatmap_ready": true,
@@ -11484,8 +11492,8 @@
     {
       "weekday": 0,
       "hour": 5,
-      "count": 8,
-      "median": 18831.0
+      "count": 9,
+      "median": 18750
     },
     {
       "weekday": 0,
