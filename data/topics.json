@@ -1,25 +1,60 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T23:43:37Z",
+  "generated_at": "2026-11-16T00:13:37Z",
   "status": "ok",
   "scope": "briefing_sources",
   "from_date": "2026-11-10",
   "through_date": "2026-11-16",
   "previous_from_date": "2026-11-03",
-  "total": 6,
+  "total": 10,
   "previous_total": 15,
-  "small_sample": true,
-  "excluded_total": 60,
-  "registry_total": 115,
+  "small_sample": false,
+  "excluded_total": 61,
+  "registry_total": 119,
   "topics": [
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 0,
+      "count": 1,
       "previous_count": 4,
-      "share": 0.0,
+      "share": 0.1,
       "previous_share": 0.26666666666666666,
-      "articles": []
+      "articles": [
+        {
+          "id": "7e850287d5a8bbfb8aa8808b",
+          "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=57920&page=1",
+          "title": "한국 커뮤니티의 이벤트 간격 불만",
+          "first_included_at": "2026-11-16T09:00:00+09:00",
+          "topics": [
+            "events"
+          ],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "events",
+              "briefing_id": "2026-11-16",
+              "title": "한국 커뮤니티의 이벤트 간격 불만",
+              "terms": [
+                "이벤트"
+              ]
+            }
+          ],
+          "rule_version": "1"
+        }
+      ]
     },
     {
       "id": "balance",
@@ -44,7 +79,7 @@
       "name": "매칭·공정성",
       "count": 1,
       "previous_count": 2,
-      "share": 0.16666666666666666,
+      "share": 0.1,
       "previous_share": 0.13333333333333333,
       "articles": [
         {
@@ -95,9 +130,9 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 5,
+      "count": 8,
       "previous_count": 8,
-      "share": 0.8333333333333334,
+      "share": 0.8,
       "previous_share": 0.5333333333333333,
       "articles": [
         {
@@ -142,6 +177,15 @@
               "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
               "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html",
               "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            },
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
             }
           ],
           "evidence": [],
@@ -165,6 +209,15 @@
               "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
               "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html",
               "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            },
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
             }
           ],
           "evidence": [],
@@ -187,6 +240,15 @@
               "published_at": "2026-11-14T09:00:00+09:00",
               "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.json",
               "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-14.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            },
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
               "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
             }
           ],
@@ -215,11 +277,81 @@
           ],
           "evidence": [],
           "rule_version": "1"
+        },
+        {
+          "id": "8b3cb80e97fe5e0a460c0c8f",
+          "url": "https://reddit.com/comments/1xwt6ed",
+          "title": "Reap 시작 여부를 묻는 최신 토론",
+          "first_included_at": "2026-11-16T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community",
+            "unconfirmed"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "e6b28ef9d5dbd1614b740b1c",
+          "url": "https://youtube.com/watch?v=8BbHAM6cP2U",
+          "title": "REXNOR Maynard 전투 저격 로드아웃",
+          "first_included_at": "2026-11-16T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "c473af3a66fac246ea3c1173",
+          "url": "https://youtube.com/watch?v=e3237EAN5Ds",
+          "title": "Toxic Pancake 2018식 Hunt 챌린지",
+          "first_included_at": "2026-11-16T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-16",
+              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+              "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
+              "published_at": "2026-11-16T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-16.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
         }
       ]
     }
   ],
-  "latest_briefing_at": "2026-11-14T09:00:00+09:00",
-  "source_sha": "41554475f56c51eb5ff84e9a2c400a4a2612639a",
-  "source_checked_at": "2026-11-15T23:43:37Z"
+  "latest_briefing_at": "2026-11-16T09:00:00+09:00",
+  "source_sha": "57d6e3d5c2873e0164447c599fbba065b54cd22b",
+  "source_checked_at": "2026-11-16T00:13:37Z"
 }
