@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-16T13:13:38Z",
+  "generated_at": "2026-11-16T13:17:57Z",
   "status": "ok",
   "source_url": "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=594650",
   "scope": "steam_global_online",
@@ -11570,8 +11570,8 @@
     {
       "weekday": 0,
       "hour": 22,
-      "count": 9,
-      "median": 21425
+      "count": 8,
+      "median": 21235.5
     },
     {
       "weekday": 0,
