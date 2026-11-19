@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-19T16:43:37Z",
+  "generated_at": "2026-11-19T17:13:38Z",
   "status": "ok",
   "invalid_event_count": 0,
   "server_notices": [],
@@ -985,6 +985,6 @@
       "date_basis": "announced_date"
     }
   ],
-  "source_sha": "94e0b1a5a4a654308c4a459c5a8e3b8f80776084",
-  "source_checked_at": "2026-11-19T16:43:37Z"
+  "source_sha": "ef78099a7f2fc992b9aa42b424b9147dfeaa096e",
+  "source_checked_at": "2026-11-19T17:13:38Z"
 }
