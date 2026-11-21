@@ -8,13 +8,13 @@
       "supplemental": false
     },
     "hunt-as-the-crow-carves-legacy-chronicle-launch": {
-      "checked_at": "2026-11-16T09:00:00+09:00",
+      "checked_at": "2026-11-21T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-06",
       "supplemental": false
     },
     "hunt-blood-testament": {
-      "checked_at": "2026-11-16T09:00:00+09:00",
+      "checked_at": "2026-11-21T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-12-08",
       "supplemental": false
@@ -26,7 +26,7 @@
       "supplemental": false
     },
     "hunt-blood-testament-chapter-3-start": {
-      "checked_at": "2026-11-16T09:00:00+09:00",
+      "checked_at": "2026-11-21T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-03",
       "supplemental": false
@@ -73,6 +73,12 @@
       "end_date": "2026-11-02",
       "supplemental": false
     },
+    "hunt-reap-the-harvest-start": {
+      "checked_at": "2026-11-21T09:00:00+09:00",
+      "status": "confirmed",
+      "end_date": "2026-11-17",
+      "supplemental": false
+    },
     "hunt-twitch-rewards-2026-10-26": {
       "checked_at": "2026-11-09T09:00:00+09:00",
       "status": "confirmed",
@@ -110,6 +116,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-21",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "published_at": "2026-11-21T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-16",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
@@ -291,7 +306,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-11-16T09:00:00+09:00",
+      "checked_at": "2026-11-21T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -989,6 +1004,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-11-21",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "published_at": "2026-11-21T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
           "id": "2026-11-16",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "Reap 시작일 재질문 · 11월 15일 빌드 변경 · 신규 로드아웃 영상",
@@ -1025,7 +1049,7 @@
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
         }
       ],
-      "checked_at": "2026-11-16T09:00:00+09:00",
+      "checked_at": "2026-11-21T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1043,6 +1067,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-21",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "published_at": "2026-11-21T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-16",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
@@ -1071,7 +1104,35 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-16T09:00:00+09:00",
+      "checked_at": "2026-11-21T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
+    },
+    {
+      "event_id": "hunt-reap-the-harvest-start",
+      "title": "Reap the Harvest 시작",
+      "summary": "Blood Testament Chapter 3의 5단계 Community Event가 시작된 일정입니다. 공식 종료일은 확인되지 않아 시작 이정표로 기록합니다.",
+      "start_date": "2026-11-17",
+      "end_date": "2026-11-17",
+      "source_url": "https://www.reddit.com/r/HuntShowdown/comments/1xypiik/reap_the_harvest_live_now/",
+      "status": "confirmed",
+      "start_at": null,
+      "end_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-21",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "published_at": "2026-11-21T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "checked_at": "2026-11-21T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
