@@ -2,7 +2,7 @@
   "issue": {
     "id": "2026-11-21",
     "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-    "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+    "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
     "published_at": "2026-11-21T09:00:00+09:00",
     "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
     "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -11,10 +11,10 @@
   "document": {
     "date": "2026-11-21",
     "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-    "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+    "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
     "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.11.21",
     "published_at": "2026-11-21T09:00:00+09:00",
-    "summary": "Reap the Harvest의 11월 17일 개시와 Stage 1 완료를 확인하고, Lancaster 해금 단계·11월 19일 SteamDB 변경·최신 Hunt 영상을 분리해 정리했습니다.",
+    "summary": "11월 18일(KST) Reap the Harvest 진행 공식 확인과 커뮤니티 위키의 Stage 1 기록을 구분해 정리했습니다. As the Crow Carves는 11월 7일(KST) 공식 이용 가능 공지를 확인했으며, Reap의 11월 17일은 공식 이미지에 적힌 날짜이며 시간대는 명시되지 않았습니다. As the Crow Carves는 커뮤니티 기록에 따라 11월 3일을 표시하되 공식 개시일로 확정하지 않았습니다.",
     "hero": {
       "alt": "Hunt Showdown 1896 Blood Testament Chapter 3",
       "url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
@@ -46,17 +46,17 @@
       },
       {
         "event_id": "hunt-as-the-crow-carves-legacy-chronicle-launch",
-        "title": "As the Crow Carves 공개",
-        "summary": "Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.",
-        "start_date": "2026-11-06",
-        "end_date": "2026-11-06",
-        "source_url": "https://store.steampowered.com/news/app/594650/view/1848664643346977",
-        "status": "confirmed"
+        "title": "As the Crow Carves 시작 (커뮤니티 기록)",
+        "summary": "커뮤니티 위키와 11월 3일 당시 이용자 기록이 가리키는 인게임 시작일입니다. 공식 Steam 이용 가능 공지는 11월 7일(KST)에 게시됐으며, 공식 개시일과 시각은 확인되지 않았습니다.",
+        "start_date": "2026-11-03",
+        "end_date": "2026-11-03",
+        "source_url": "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
+        "status": "tentative"
       },
       {
         "event_id": "hunt-reap-the-harvest-start",
-        "title": "Reap the Harvest 시작",
-        "summary": "Blood Testament Chapter 3의 5단계 Community Event가 시작된 일정입니다. 공식 종료일은 확인되지 않아 시작 이정표로 기록합니다.",
+        "title": "Reap the Harvest 개시 (공식 안내 기준)",
+        "summary": "Crytek의 공식 행사 이미지에 적힌 11월 17일(시간·시간대 미표기)을 기록합니다. 진행 중이라는 공식 게시물은 11월 18일 01:50 KST에 올라왔으며, 정확한 서버 개시 시각은 확인되지 않았습니다.",
         "start_date": "2026-11-17",
         "end_date": "2026-11-17",
         "source_url": "https://www.reddit.com/r/HuntShowdown/comments/1xypiik/reap_the_harvest_live_now/",
@@ -67,7 +67,7 @@
       {
         "id": "official-reap-live-2026-11-17",
         "category": "official",
-        "title": "Reap the Harvest 개시",
+        "title": "Reap the Harvest 진행 공식 확인",
         "source_urls": [
           "https://www.reddit.com/r/HuntShowdown/comments/1xypiik/reap_the_harvest_live_now/",
           "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
@@ -87,7 +87,9 @@
         "title": "Blood Testament Chapter 3와 As the Crow Carves",
         "source_urls": [
           "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
-          "https://store.steampowered.com/news/app/594650/view/1848664643346977"
+          "https://store.steampowered.com/news/app/594650/view/1848664643346977",
+          "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
+          "https://www.reddit.com/r/HuntShowdown/comments/1xmsnqj/missed_og_plague_doctor_but_plague_surgeon_drops/"
         ]
       },
       {

@@ -3777,7 +3777,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4220,7 +4220,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4527,7 +4527,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4640,7 +4640,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4712,7 +4712,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4725,7 +4725,7 @@
     {
       "id": "979f0e41644601428980638c",
       "url": "https://reddit.com/comments/1xypiik",
-      "title": "Reap the Harvest 개시",
+      "title": "Reap the Harvest 진행 공식 확인",
       "first_included_at": "2026-11-21T09:00:00+09:00",
       "topics": [],
       "origins": [
@@ -4737,7 +4737,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4745,6 +4745,76 @@
         }
       ],
       "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "ee7a24c20d450edcf5a8e3d0",
+      "url": "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
+      "title": "Blood Testament Chapter 3와 As the Crow Carves",
+      "first_included_at": "2026-11-21T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-21",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
+          "published_at": "2026-11-21T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-21",
+          "title": "Blood Testament Chapter 3와 As the Crow Carves",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "59725c92dcc51744274964dc",
+      "url": "https://reddit.com/comments/1xmsnqj",
+      "title": "Blood Testament Chapter 3와 As the Crow Carves",
+      "first_included_at": "2026-11-21T09:00:00+09:00",
+      "topics": [
+        "events"
+      ],
+      "origins": [
+        "official"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-21",
+          "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
+          "published_at": "2026-11-21T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-21",
+          "title": "Blood Testament Chapter 3와 As the Crow Carves",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        }
+      ],
       "rule_version": "1"
     },
     {
@@ -4760,7 +4830,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4785,7 +4855,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
@@ -4817,7 +4887,7 @@
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-          "subtitle": "Reap the Harvest 개시 · Stage 1 완료 · Lancaster 해금 추적",
+          "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",

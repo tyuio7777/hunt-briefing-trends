@@ -46,12 +46,12 @@
       },
       {
         "event_id": "hunt-as-the-crow-carves-legacy-chronicle-launch",
-        "title": "As the Crow Carves 공개",
-        "summary": "Plague Doctor와 Bloodskin의 연결을 다루고 The Plague Surgeon 보상을 제공하는 Legacy Chronicle 공개일입니다.",
-        "start_date": "2026-11-06",
-        "end_date": "2026-11-06",
-        "source_url": "https://store.steampowered.com/news/app/594650/view/1848664643346977",
-        "status": "confirmed"
+        "title": "As the Crow Carves 시작 (커뮤니티 기록)",
+        "summary": "커뮤니티 위키와 11월 3일 당시 이용자 기록이 가리키는 인게임 시작일입니다. 공식 Steam 이용 가능 공지는 11월 7일(KST)에 게시됐으며, 공식 개시일과 시각은 확인되지 않았습니다.",
+        "start_date": "2026-11-03",
+        "end_date": "2026-11-03",
+        "source_url": "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
+        "status": "tentative"
       }
     ],
     "sections": [
