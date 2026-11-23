@@ -8,13 +8,13 @@
       "supplemental": false
     },
     "hunt-as-the-crow-carves-legacy-chronicle-launch": {
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "status": "tentative",
       "end_date": "2026-11-03",
       "supplemental": false
     },
     "hunt-blood-testament": {
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-12-08",
       "supplemental": false
@@ -26,7 +26,7 @@
       "supplemental": false
     },
     "hunt-blood-testament-chapter-3-start": {
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-03",
       "supplemental": false
@@ -55,6 +55,12 @@
       "end_date": "2026-09-28",
       "supplemental": false
     },
+    "hunt-emergency-backend-maintenance-2026-11-20": {
+      "checked_at": "2026-11-23T09:00:00+09:00",
+      "status": "confirmed",
+      "end_date": "2026-11-20",
+      "supplemental": false
+    },
     "hunt-hotfix-2-9-0-1": {
       "checked_at": "2026-09-14T09:00:00+09:00",
       "status": "confirmed",
@@ -73,8 +79,14 @@
       "end_date": "2026-11-02",
       "supplemental": false
     },
+    "hunt-reap-the-harvest-stage-2-lancaster-unlock": {
+      "checked_at": "2026-11-23T09:00:00+09:00",
+      "status": "tentative",
+      "end_date": "2026-11-21",
+      "supplemental": false
+    },
     "hunt-reap-the-harvest-start": {
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-17",
       "supplemental": false
@@ -116,6 +128,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
@@ -306,7 +327,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -1004,6 +1025,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
@@ -1040,7 +1070,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1058,6 +1088,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
@@ -1104,7 +1143,7 @@
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
         }
       ],
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1123,6 +1162,15 @@
       "end_at": null,
       "briefings": [
         {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
           "id": "2026-11-21",
           "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
           "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
@@ -1132,7 +1180,63 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-21T09:00:00+09:00",
+      "checked_at": "2026-11-23T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
+    },
+    {
+      "event_id": "hunt-emergency-backend-maintenance-2026-11-20",
+      "title": "긴급 백엔드 점검",
+      "summary": "데이터센터 제공업체의 예기치 않은 긴급 작업으로 지역 변경 문제와 높은 패킷 손실이 발생한 점검입니다. 공식 공지에 시간·시간대가 없어 날짜만 기록합니다.",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "source_url": "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007",
+      "status": "confirmed",
+      "start_at": null,
+      "end_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "checked_at": "2026-11-23T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
+    },
+    {
+      "event_id": "hunt-reap-the-harvest-stage-2-lancaster-unlock",
+      "title": "Reap the Harvest Stage 2 · Lancaster 해금 (커뮤니티 기록)",
+      "summary": "커뮤니티 위키가 기록한 Stage 2 완료 및 Lancaster 해금일입니다. Crytek의 별도 완료 공지는 확인되지 않아 tentative로 표시합니다.",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
+      "status": "tentative",
+      "start_at": null,
+      "end_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "checked_at": "2026-11-23T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",

@@ -1,0 +1,208 @@
+{
+  "issue": {
+    "id": "2026-11-23",
+    "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+    "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+    "published_at": "2026-11-23T09:00:00+09:00",
+    "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+    "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+    "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+  },
+  "document": {
+    "date": "2026-11-23",
+    "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+    "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+    "subject": "[주간 브리핑] Hunt: Showdown 커뮤니티·유출 동향 - 2026.11.23",
+    "published_at": "2026-11-23T09:00:00+09:00",
+    "summary": "커뮤니티 기록상 Reap the Harvest Stage 2가 11월 21일 완료되어 Lancaster가 해금됐습니다. 11월 20일 긴급 백엔드 점검의 공식 원인과 패킷 손실 반응을 분리해 정리하고, Stage 3 날짜와 11월 21일 SteamDB 변경의 의미는 확정하지 않았습니다.",
+    "hero": {
+      "alt": "Hunt Showdown 1896 Blood Testament Chapter 3",
+      "url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+    },
+    "stats": {
+      "official": 3,
+      "community": 8,
+      "leak": 0,
+      "rumor": 2
+    },
+    "calendar_events": [
+      {
+        "event_id": "hunt-blood-testament",
+        "title": "Blood Testament",
+        "summary": "Hunt: Showdown 1896의 Blood Testament 이벤트 진행 기간입니다.",
+        "start_date": "2026-09-08",
+        "end_date": "2026-12-08",
+        "source_url": "https://store.crytek.com/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-blood-testament-chapter-3-start",
+        "title": "Blood Testament Chapter 3 적용",
+        "summary": "Lancaster·Cleaver 보상 구조, Fair Play Follow Up, 유럽 High-Ping Queue 시험이 포함된 Chapter 3 적용일입니다.",
+        "start_date": "2026-11-03",
+        "end_date": "2026-11-03",
+        "source_url": "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-as-the-crow-carves-legacy-chronicle-launch",
+        "title": "As the Crow Carves 시작 (커뮤니티 기록)",
+        "summary": "커뮤니티 위키와 11월 3일 당시 이용자 기록이 가리키는 인게임 시작일입니다. 공식 Steam 이용 가능 공지는 11월 7일(KST)에 게시됐으며, 공식 개시일과 시각은 확인되지 않았습니다.",
+        "start_date": "2026-11-03",
+        "end_date": "2026-11-03",
+        "source_url": "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
+        "status": "tentative"
+      },
+      {
+        "event_id": "hunt-reap-the-harvest-start",
+        "title": "Reap the Harvest 개시 (공식 안내 기준)",
+        "summary": "Crytek의 공식 행사 이미지에 적힌 11월 17일(시간·시간대 미표기)을 기록합니다. 진행 중이라는 공식 게시물은 11월 18일 01:50 KST에 올라왔으며, 정확한 서버 개시 시각은 확인되지 않았습니다.",
+        "start_date": "2026-11-17",
+        "end_date": "2026-11-17",
+        "source_url": "https://www.reddit.com/r/HuntShowdown/comments/1xypiik/reap_the_harvest_live_now/",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-emergency-backend-maintenance-2026-11-20",
+        "title": "긴급 백엔드 점검",
+        "summary": "데이터센터 제공업체의 예기치 않은 긴급 작업으로 지역 변경 문제와 높은 패킷 손실이 발생한 점검입니다. 공식 공지에 시간·시간대가 없어 날짜만 기록합니다.",
+        "start_date": "2026-11-20",
+        "end_date": "2026-11-20",
+        "source_url": "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007",
+        "status": "confirmed"
+      },
+      {
+        "event_id": "hunt-reap-the-harvest-stage-2-lancaster-unlock",
+        "title": "Reap the Harvest Stage 2 · Lancaster 해금 (커뮤니티 기록)",
+        "summary": "커뮤니티 위키가 기록한 Stage 2 완료 및 Lancaster 해금일입니다. Crytek의 별도 완료 공지는 확인되지 않아 tentative로 표시합니다.",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "source_url": "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
+        "status": "tentative"
+      }
+    ],
+    "sections": [
+      {
+        "id": "official-emergency-backend-maintenance-2026-11-20",
+        "category": "official",
+        "title": "긴급 백엔드 점검과 패킷 손실",
+        "source_urls": [
+          "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007"
+        ]
+      },
+      {
+        "id": "official-reap-stage-structure",
+        "category": "official",
+        "title": "Reap the Harvest 5단계 보상 구조와 Lancaster 사양",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes"
+        ]
+      },
+      {
+        "id": "official-blood-testament-chapter-3-active",
+        "category": "official",
+        "title": "Blood Testament Chapter 3와 As the Crow Carves",
+        "source_urls": [
+          "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+          "https://store.steampowered.com/news/app/594650/view/1848664643346977"
+        ]
+      },
+      {
+        "id": "community-reap-stage-2-lancaster-unlock",
+        "category": "community",
+        "title": "커뮤니티 위키의 Stage 2·Lancaster 해금 기록",
+        "source_urls": [
+          "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament"
+        ]
+      },
+      {
+        "id": "community-lancaster-first-impressions",
+        "category": "community",
+        "title": "Lancaster 첫 실전 평가",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1y290jk/thoughts_on_the_lancaster_pistol/"
+        ]
+      },
+      {
+        "id": "community-packet-loss-reports",
+        "category": "community",
+        "title": "패킷 손실 체감과 라우팅 토론",
+        "source_urls": [
+          "https://www.reddit.com/r/HuntShowdown/comments/1xyuqcv/has_anyone_else_been_having_horrendous_packet_loss/"
+        ]
+      },
+      {
+        "id": "community-korea-budget-loadout",
+        "category": "community",
+        "title": "한국 커뮤니티의 저비용 로드아웃",
+        "source_urls": [
+          "https://gall.dcinside.com/mgallery/board/view/?id=huntshowdown&no=57951&page=1"
+        ]
+      },
+      {
+        "id": "community-ukraine-weekly-tracker",
+        "category": "community",
+        "title": "우크라이나권 주간 운영 기록",
+        "source_urls": [
+          "https://www.showdown.com.ua/en/weekly/2026-w47/"
+        ]
+      },
+      {
+        "id": "youtube-psychoghost-T8r1n9webgs",
+        "category": "community",
+        "title": "Psychoghost Twitch Drops 하이라이트",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=T8r1n9webgs"
+        ]
+      },
+      {
+        "id": "youtube-rexnor-K402ig_ZaCo",
+        "category": "community",
+        "title": "REXNOR 창의적 Hunt 트릭 플레이",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=K402ig_ZaCo"
+        ]
+      },
+      {
+        "id": "youtube-toxic-pancake-S0KTGC2RLME",
+        "category": "community",
+        "title": "Toxic Pancake Combat Axe 메타",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=S0KTGC2RLME"
+        ]
+      },
+      {
+        "id": "rumor-reap-stage-3-timing",
+        "category": "rumor",
+        "title": "Reap Stage 3 도달 시점 추정",
+        "source_urls": [
+          "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament"
+        ]
+      },
+      {
+        "id": "rumor-steamdb-maintenance-link-2026-11-21",
+        "category": "rumor",
+        "title": "11월 21일 SteamDB 변경과 점검 후속 연결설",
+        "source_urls": [
+          "https://steamdb.info/app/594650/history/",
+          "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007",
+      "https://www.huntshowdown.com/releasenotes/en_US/blood-testament-chapter-3-patch-notes",
+      "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
+      "https://www.reddit.com/r/HuntShowdown/comments/1y290jk/thoughts_on_the_lancaster_pistol/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xyuqcv/has_anyone_else_been_having_horrendous_packet_loss/",
+      "https://www.reddit.com/r/HuntShowdown/comments/1xypiik/reap_the_harvest_live_now/",
+      "https://steamdb.info/app/594650/history/",
+      "https://store.steampowered.com/news/app/594650/view/1848664643346977",
+      "https://gall.dcinside.com/mgallery/board/view/?id=huntshowdown&no=57951&page=1",
+      "https://www.showdown.com.ua/en/weekly/2026-w47/",
+      "https://www.youtube.com/watch?v=T8r1n9webgs",
+      "https://www.youtube.com/watch?v=K402ig_ZaCo",
+      "https://www.youtube.com/watch?v=S0KTGC2RLME"
+    ]
+  }
+}

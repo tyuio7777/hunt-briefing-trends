@@ -3782,6 +3782,15 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
@@ -3845,6 +3854,23 @@
         {
           "topic": "events",
           "briefing_id": "2026-11-21",
+          "title": "Blood Testament Chapter 3와 As the Crow Carves",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-23",
+          "title": "Reap the Harvest 5단계 보상 구조와 Lancaster 사양",
+          "terms": [
+            "보상"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-23",
           "title": "Blood Testament Chapter 3와 As the Crow Carves",
           "terms": [
             "chapter",
@@ -4225,12 +4251,30 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
         {
           "topic": "events",
           "briefing_id": "2026-11-21",
+          "title": "Blood Testament Chapter 3와 As the Crow Carves",
+          "terms": [
+            "chapter",
+            "blood testament"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-23",
           "title": "Blood Testament Chapter 3와 As the Crow Carves",
           "terms": [
             "chapter",
@@ -4860,12 +4904,29 @@
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
       "evidence": [
         {
           "topic": "events",
           "briefing_id": "2026-11-21",
+          "title": "Psychoghost Twitch Drops 하이라이트",
+          "terms": [
+            "drops"
+          ]
+        },
+        {
+          "topic": "events",
+          "briefing_id": "2026-11-23",
           "title": "Psychoghost Twitch Drops 하이라이트",
           "terms": [
             "drops"
@@ -4891,6 +4952,211 @@
           "published_at": "2026-11-21T09:00:00+09:00",
           "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
           "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "245f4c48b8da6634b6e5bccc",
+      "url": "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007",
+      "title": "긴급 백엔드 점검과 패킷 손실",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [
+        "performance"
+      ],
+      "origins": [
+        "official",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [
+        {
+          "topic": "performance",
+          "briefing_id": "2026-11-23",
+          "title": "긴급 백엔드 점검과 패킷 손실",
+          "terms": [
+            "점검"
+          ]
+        },
+        {
+          "topic": "performance",
+          "briefing_id": "2026-11-23",
+          "title": "11월 21일 SteamDB 변경과 점검 후속 연결설",
+          "terms": [
+            "점검"
+          ]
+        }
+      ],
+      "rule_version": "1"
+    },
+    {
+      "id": "f1e024626d16c03f480d8db7",
+      "url": "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
+      "title": "커뮤니티 위키의 Stage 2·Lancaster 해금 기록",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community",
+        "unconfirmed"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "5756b0acf04d060c08e87e7f",
+      "url": "https://reddit.com/comments/1y290jk",
+      "title": "Lancaster 첫 실전 평가",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "ccb3c05b8de7efae064fd1db",
+      "url": "https://reddit.com/comments/1xyuqcv",
+      "title": "패킷 손실 체감과 라우팅 토론",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "7a41197bf1537a36f1321765",
+      "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=57951&page=1",
+      "title": "한국 커뮤니티의 저비용 로드아웃",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "7a0612729162b8359a67833d",
+      "url": "https://showdown.com.ua/en/weekly/2026-w47",
+      "title": "우크라이나권 주간 운영 기록",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "8ec644b5e083b32a7adf7f25",
+      "url": "https://youtube.com/watch?v=K402ig_ZaCo",
+      "title": "REXNOR 창의적 Hunt 트릭 플레이",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "evidence": [],
+      "rule_version": "1"
+    },
+    {
+      "id": "e41086a22888f40c19a7a97b",
+      "url": "https://youtube.com/watch?v=S0KTGC2RLME",
+      "title": "Toxic Pancake Combat Axe 메타",
+      "first_included_at": "2026-11-23T09:00:00+09:00",
+      "topics": [],
+      "origins": [
+        "community"
+      ],
+      "briefings": [
+        {
+          "id": "2026-11-23",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
+          "published_at": "2026-11-23T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
@@ -5259,6 +5525,12 @@
     {
       "briefing_id": "2026-11-21",
       "title": "11월 19일 SteamDB 변경의 핫픽스 연결설",
+      "url": "https://steamdb.info/app/594650/history/",
+      "reason": "unidentified_article"
+    },
+    {
+      "briefing_id": "2026-11-23",
+      "title": "11월 21일 SteamDB 변경과 점검 후속 연결설",
       "url": "https://steamdb.info/app/594650/history/",
       "reason": "unidentified_article"
     }
