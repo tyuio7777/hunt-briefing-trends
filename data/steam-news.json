@@ -1,11 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T19:43:43Z",
-  "source_checked_at": "2026-11-23T19:43:43Z",
+  "generated_at": "2026-11-23T20:13:43Z",
+  "source_checked_at": "2026-11-23T20:13:43Z",
   "status": "ok",
   "appid": 594650,
   "feed_name": "steam_community_announcements",
   "items": [
+    {
+      "id": "1849827110443476",
+      "title": "A Fresh Contract: Nominate Hunt for Labor of Love",
+      "published_at": "2026-11-23T19:26:13Z",
+      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110443476"
+    },
     {
       "id": "1849827110434091",
       "title": "Ongoing emergency backend maintenance",
@@ -119,12 +125,6 @@
       "title": "Chapter 2 Trailer | Blood Testament | Hunt: Showdown 1896",
       "published_at": "2026-09-29T16:10:36Z",
       "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234788"
-    },
-    {
-      "id": "1844751498234405",
-      "title": "Blood Testament | Chapter 2 | Livestream | Oct 1st - 6 PM CEST",
-      "published_at": "2026-09-29T14:22:01Z",
-      "source_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234405"
     }
   ]
 }
