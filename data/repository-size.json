@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "checked_at": "2026-11-20T08:43:39+00:00",
-  "size_kib": 4320,
+  "checked_at": "2026-11-27T08:43:39+00:00",
+  "size_kib": 5587,
   "warning_threshold_kib": 262144,
   "source": "github_repository_size_estimate"
 }
