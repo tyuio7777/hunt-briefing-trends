@@ -1,147 +1,25 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T14:43:40Z",
+  "generated_at": "2026-11-27T15:13:35Z",
   "status": "ok",
   "scope": "briefing_sources",
-  "from_date": "2026-11-21",
-  "through_date": "2026-11-27",
-  "previous_from_date": "2026-11-14",
-  "total": 14,
+  "from_date": "2026-11-22",
+  "through_date": "2026-11-28",
+  "previous_from_date": "2026-11-15",
+  "total": 8,
   "previous_total": 10,
-  "small_sample": false,
+  "small_sample": true,
   "excluded_total": 63,
   "registry_total": 133,
   "topics": [
     {
       "id": "events",
       "name": "이벤트·신규 콘텐츠",
-      "count": 3,
-      "previous_count": 1,
-      "share": 0.21428571428571427,
-      "previous_share": 0.1,
-      "articles": [
-        {
-          "id": "ee7a24c20d450edcf5a8e3d0",
-          "url": "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
-          "title": "Blood Testament Chapter 3와 As the Crow Carves",
-          "first_included_at": "2026-11-21T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-21",
-              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
-              "published_at": "2026-11-21T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-21",
-              "title": "Blood Testament Chapter 3와 As the Crow Carves",
-              "terms": [
-                "chapter",
-                "blood testament"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "59725c92dcc51744274964dc",
-          "url": "https://reddit.com/comments/1xmsnqj",
-          "title": "Blood Testament Chapter 3와 As the Crow Carves",
-          "first_included_at": "2026-11-21T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "official"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-21",
-              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
-              "published_at": "2026-11-21T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-21",
-              "title": "Blood Testament Chapter 3와 As the Crow Carves",
-              "terms": [
-                "chapter",
-                "blood testament"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        },
-        {
-          "id": "66124747464a819f1fb01f11",
-          "url": "https://youtube.com/watch?v=T8r1n9webgs",
-          "title": "Psychoghost Twitch Drops 하이라이트",
-          "first_included_at": "2026-11-21T09:00:00+09:00",
-          "topics": [
-            "events"
-          ],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-21",
-              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
-              "published_at": "2026-11-21T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            },
-            {
-              "id": "2026-11-23",
-              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
-              "subtitle": "Lancaster 해금 · 긴급 백엔드 점검 · Stage 3 진행 추적",
-              "published_at": "2026-11-23T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-21",
-              "title": "Psychoghost Twitch Drops 하이라이트",
-              "terms": [
-                "drops"
-              ]
-            },
-            {
-              "topic": "events",
-              "briefing_id": "2026-11-23",
-              "title": "Psychoghost Twitch Drops 하이라이트",
-              "terms": [
-                "drops"
-              ]
-            }
-          ],
-          "rule_version": "1"
-        }
-      ]
+      "count": 0,
+      "previous_count": 4,
+      "share": 0.0,
+      "previous_share": 0.4,
+      "articles": []
     },
     {
       "id": "balance",
@@ -157,7 +35,7 @@
       "name": "서버·성능",
       "count": 1,
       "previous_count": 0,
-      "share": 0.07142857142857142,
+      "share": 0.125,
       "previous_share": 0.0,
       "articles": [
         {
@@ -209,9 +87,9 @@
       "id": "fairness",
       "name": "매칭·공정성",
       "count": 0,
-      "previous_count": 1,
+      "previous_count": 0,
       "share": 0.0,
-      "previous_share": 0.1,
+      "previous_share": 0.0,
       "articles": []
     },
     {
@@ -226,82 +104,11 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 10,
-      "previous_count": 8,
-      "share": 0.7142857142857143,
-      "previous_share": 0.8,
+      "count": 7,
+      "previous_count": 6,
+      "share": 0.875,
+      "previous_share": 0.6,
       "articles": [
-        {
-          "id": "979f0e41644601428980638c",
-          "url": "https://reddit.com/comments/1xypiik",
-          "title": "Reap the Harvest 진행 공식 확인",
-          "first_included_at": "2026-11-21T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "official",
-            "community",
-            "unconfirmed"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-21",
-              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
-              "published_at": "2026-11-21T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "108d654dd766c8a6af99e00c",
-          "url": "https://reddit.com/comments/1xzcxs1",
-          "title": "Lancaster 조합 토론",
-          "first_included_at": "2026-11-21T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-21",
-              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
-              "published_at": "2026-11-21T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
-        {
-          "id": "905734f00e11e544abb7f34d",
-          "url": "https://youtube.com/watch?v=na67cXkn1uc",
-          "title": "REXNOR Hunt Dollars 운영",
-          "first_included_at": "2026-11-21T09:00:00+09:00",
-          "topics": [],
-          "origins": [
-            "community"
-          ],
-          "briefings": [
-            {
-              "id": "2026-11-21",
-              "title": "공식 3건 · 커뮤니티 7건 · 루머 2건",
-              "subtitle": "Reap the Harvest 진행 확인 · Stage 1 위키 기록 · Lancaster 해금 추적",
-              "published_at": "2026-11-21T09:00:00+09:00",
-              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.json",
-              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-21.html",
-              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
-            }
-          ],
-          "evidence": [],
-          "rule_version": "1"
-        },
         {
           "id": "f1e024626d16c03f480d8db7",
           "url": "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
@@ -469,5 +276,5 @@
   ],
   "latest_briefing_at": "2026-11-23T09:00:00+09:00",
   "source_sha": "026d297a52e8e9a68e65d2c3bdcdbb0bebe1f849",
-  "source_checked_at": "2026-11-27T14:43:40Z"
+  "source_checked_at": "2026-11-27T15:13:35Z"
 }
