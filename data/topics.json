@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T23:43:36Z",
+  "generated_at": "2026-11-28T00:13:36Z",
   "status": "ok",
   "scope": "briefing_sources",
   "from_date": "2026-11-22",
   "through_date": "2026-11-28",
   "previous_from_date": "2026-11-15",
-  "total": 8,
+  "total": 13,
   "previous_total": 10,
-  "small_sample": true,
-  "excluded_total": 63,
-  "registry_total": 133,
+  "small_sample": false,
+  "excluded_total": 67,
+  "registry_total": 138,
   "topics": [
     {
       "id": "events",
@@ -35,7 +35,7 @@
       "name": "서버·성능",
       "count": 1,
       "previous_count": 0,
-      "share": 0.125,
+      "share": 0.07692307692307693,
       "previous_share": 0.0,
       "articles": [
         {
@@ -86,11 +86,46 @@
     {
       "id": "fairness",
       "name": "매칭·공정성",
-      "count": 0,
+      "count": 1,
       "previous_count": 0,
-      "share": 0.0,
+      "share": 0.07692307692307693,
       "previous_share": 0.0,
-      "articles": []
+      "articles": [
+        {
+          "id": "dd156df52e6826a06215298c",
+          "url": "https://huntshowdown.com/news/fair-play-task-force-follow-up",
+          "title": "Fair Play Task Force 후속 운영",
+          "first_included_at": "2026-11-28T09:00:00+09:00",
+          "topics": [
+            "fairness"
+          ],
+          "origins": [
+            "official"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [
+            {
+              "topic": "fairness",
+              "briefing_id": "2026-11-28",
+              "title": "Fair Play Task Force 후속 운영",
+              "terms": [
+                "fair play"
+              ]
+            }
+          ],
+          "rule_version": "1"
+        }
+      ]
     },
     {
       "id": "lore",
@@ -104,9 +139,9 @@
     {
       "id": "unclassified",
       "name": "미분류",
-      "count": 7,
+      "count": 11,
       "previous_count": 6,
-      "share": 0.875,
+      "share": 0.8461538461538461,
       "previous_share": 0.6,
       "articles": [
         {
@@ -127,6 +162,15 @@
               "published_at": "2026-11-23T09:00:00+09:00",
               "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
               "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            },
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
               "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
             }
           ],
@@ -150,6 +194,15 @@
               "published_at": "2026-11-23T09:00:00+09:00",
               "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.json",
               "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-23.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            },
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
               "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
             }
           ],
@@ -270,11 +323,103 @@
           ],
           "evidence": [],
           "rule_version": "1"
+        },
+        {
+          "id": "ebdcd1cd286e633ebaae5c50",
+          "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=58111&page=1",
+          "title": "한국 커뮤니티 Lancaster 평가",
+          "first_included_at": "2026-11-28T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "9520b5a8bd316cfe90560d71",
+          "url": "https://gall.dcinside.com/mgallery/board/view?id=huntshowdown&no=58107&page=1",
+          "title": "한국 커뮤니티 Lancaster 평가",
+          "first_included_at": "2026-11-28T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "4c65a755011e0597a89bb27d",
+          "url": "https://youtube.com/watch?v=PAcPYEmOeiw",
+          "title": "Psychoghost Fort Carmick 솔로 플레이",
+          "first_included_at": "2026-11-28T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
+        },
+        {
+          "id": "20e00312fbf89cd7a2e193a7",
+          "url": "https://youtube.com/watch?v=29lAHBschyw",
+          "title": "Toxic Pancake Lancaster 실전",
+          "first_included_at": "2026-11-28T09:00:00+09:00",
+          "topics": [],
+          "origins": [
+            "community"
+          ],
+          "briefings": [
+            {
+              "id": "2026-11-28",
+              "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+              "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+              "published_at": "2026-11-28T09:00:00+09:00",
+              "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+              "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+              "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+            }
+          ],
+          "evidence": [],
+          "rule_version": "1"
         }
       ]
     }
   ],
-  "latest_briefing_at": "2026-11-23T09:00:00+09:00",
-  "source_sha": "026d297a52e8e9a68e65d2c3bdcdbb0bebe1f849",
-  "source_checked_at": "2026-11-27T23:43:36Z"
+  "latest_briefing_at": "2026-11-28T09:00:00+09:00",
+  "source_sha": "c2267e7932a5e05062aebe1a87277d3aaa307120",
+  "source_checked_at": "2026-11-28T00:13:36Z"
 }

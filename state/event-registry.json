@@ -8,13 +8,13 @@
       "supplemental": false
     },
     "hunt-as-the-crow-carves-legacy-chronicle-launch": {
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "status": "tentative",
       "end_date": "2026-11-03",
       "supplemental": false
     },
     "hunt-blood-testament": {
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-12-08",
       "supplemental": false
@@ -26,7 +26,7 @@
       "supplemental": false
     },
     "hunt-blood-testament-chapter-3-start": {
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-03",
       "supplemental": false
@@ -56,7 +56,7 @@
       "supplemental": false
     },
     "hunt-emergency-backend-maintenance-2026-11-20": {
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-20",
       "supplemental": false
@@ -80,15 +80,27 @@
       "supplemental": false
     },
     "hunt-reap-the-harvest-stage-2-lancaster-unlock": {
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "status": "tentative",
       "end_date": "2026-11-21",
       "supplemental": false
     },
+    "hunt-reap-the-harvest-stage-3-reward-unlock": {
+      "checked_at": "2026-11-28T09:00:00+09:00",
+      "status": "tentative",
+      "end_date": "2026-11-26",
+      "supplemental": false
+    },
     "hunt-reap-the-harvest-start": {
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "status": "confirmed",
       "end_date": "2026-11-17",
+      "supplemental": false
+    },
+    "hunt-steam-awards-labor-of-love-nomination-2026": {
+      "checked_at": "2026-11-28T09:00:00+09:00",
+      "status": "confirmed",
+      "end_date": "2026-12-01",
       "supplemental": false
     },
     "hunt-twitch-rewards-2026-10-26": {
@@ -128,6 +140,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-23",
           "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
@@ -327,7 +348,7 @@
           "hero_image_url": "https://clan.fastly.steamstatic.com/images/30897473/f247b8b602719ef1da2e12349eceeaa64ac45ff2.jpg"
         }
       ],
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "supplemental": false,
       "kind": "play",
       "participation": "게임 내 이벤트 참여. 개별 보상·진행 조건은 공식 안내 확인.",
@@ -1016,7 +1037,7 @@
     {
       "event_id": "hunt-as-the-crow-carves-legacy-chronicle-launch",
       "title": "As the Crow Carves 시작 (커뮤니티 기록)",
-      "summary": "커뮤니티 위키와 11월 3일 당시 이용자 기록이 가리키는 인게임 시작일입니다. 공식 Steam 이용 가능 공지는 11월 7일(KST)에 게시됐으며, 공식 개시일과 시각은 확인되지 않았습니다.",
+      "summary": "커뮤니티 위키와 11월 3일 당시 이용자 기록이 가리키는 인게임 시작일입니다. 공식 개시일과 시각은 확인되지 않았습니다.",
       "start_date": "2026-11-03",
       "end_date": "2026-11-03",
       "source_url": "https://huntshowdown.wiki.gg/wiki/Lore/As_the_Crow_Carves",
@@ -1024,6 +1045,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-23",
           "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
@@ -1070,7 +1100,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1088,6 +1118,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-23",
           "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
@@ -1143,7 +1182,7 @@
           "hero_image_url": "https://www.huntshowdown.com/files/releasenotes/Blog_1920x108070.jpg"
         }
       ],
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1153,7 +1192,7 @@
     {
       "event_id": "hunt-reap-the-harvest-start",
       "title": "Reap the Harvest 개시 (공식 안내 기준)",
-      "summary": "Crytek의 공식 행사 이미지에 적힌 11월 17일(시간·시간대 미표기)을 기록합니다. 진행 중이라는 공식 게시물은 11월 18일 01:50 KST에 올라왔으며, 정확한 서버 개시 시각은 확인되지 않았습니다.",
+      "summary": "Crytek의 공식 행사 이미지에 적힌 11월 17일을 기록합니다. 정확한 서버 개시 시각은 확인되지 않았습니다.",
       "start_date": "2026-11-17",
       "end_date": "2026-11-17",
       "source_url": "https://www.reddit.com/r/HuntShowdown/comments/1xypiik/reap_the_harvest_live_now/",
@@ -1161,6 +1200,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-23",
           "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
@@ -1180,7 +1228,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1190,7 +1238,7 @@
     {
       "event_id": "hunt-emergency-backend-maintenance-2026-11-20",
       "title": "긴급 백엔드 점검",
-      "summary": "데이터센터 제공업체의 예기치 않은 긴급 작업으로 지역 변경 문제와 높은 패킷 손실이 발생한 점검입니다. 공식 공지에 시간·시간대가 없어 날짜만 기록합니다.",
+      "summary": "데이터센터 제공업체의 예기치 않은 긴급 작업으로 지역 변경 문제와 높은 패킷 손실이 발생한 점검입니다.",
       "start_date": "2026-11-20",
       "end_date": "2026-11-20",
       "source_url": "https://steamcommunity.com/games/594650/announcements/detail/685271070563894007",
@@ -1198,6 +1246,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-23",
           "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
@@ -1208,7 +1265,7 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
@@ -1218,7 +1275,7 @@
     {
       "event_id": "hunt-reap-the-harvest-stage-2-lancaster-unlock",
       "title": "Reap the Harvest Stage 2 · Lancaster 해금 (커뮤니티 기록)",
-      "summary": "커뮤니티 위키가 기록한 Stage 2 완료 및 Lancaster 해금일입니다. Crytek의 별도 완료 공지는 확인되지 않아 tentative로 표시합니다.",
+      "summary": "커뮤니티 위키가 기록한 Stage 2 완료 및 Lancaster 해금일입니다. Crytek의 별도 완료 공지는 확인되지 않아 tentative입니다.",
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "source_url": "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
@@ -1226,6 +1283,15 @@
       "start_at": null,
       "end_at": null,
       "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        },
         {
           "id": "2026-11-23",
           "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
@@ -1236,7 +1302,63 @@
           "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
         }
       ],
-      "checked_at": "2026-11-23T09:00:00+09:00",
+      "checked_at": "2026-11-28T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
+    },
+    {
+      "event_id": "hunt-reap-the-harvest-stage-3-reward-unlock",
+      "title": "Reap the Harvest Stage 3 보상 해금 (커뮤니티 기록)",
+      "summary": "커뮤니티 위키가 기록한 Stage 3 완료일입니다. 10,000 Hunt Dollars와 2,500 Event Points 보상이 열렸으며 별도 공식 완료 공지는 확인되지 않았습니다.",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Events/Blood_Testament",
+      "status": "tentative",
+      "start_at": null,
+      "end_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "checked_at": "2026-11-28T09:00:00+09:00",
+      "supplemental": false,
+      "kind": "other",
+      "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",
+      "platforms": "플랫폼별 조건 확인 필요",
+      "date_basis": "announced_date"
+    },
+    {
+      "event_id": "hunt-steam-awards-labor-of-love-nomination-2026",
+      "title": "Steam Awards · Labor of Love 후보 추천 마감",
+      "summary": "Hunt: Showdown 1896의 Steam Awards Labor of Love 후보 추천 마감입니다. 공식 공지의 11월 30일 10:00 PT를 KST로 변환했습니다.",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "source_url": "https://steamcommunity.com/app/594650/allnews?l=english",
+      "status": "confirmed",
+      "end_at": "2026-11-30T18:00:00Z",
+      "start_at": null,
+      "briefings": [
+        {
+          "id": "2026-11-28",
+          "title": "공식 3건 · 커뮤니티 8건 · 루머 2건",
+          "subtitle": "Stage 3 완료 · Labor of Love 마감 · Cleaver 해금 추적",
+          "published_at": "2026-11-28T09:00:00+09:00",
+          "json_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.json",
+          "html_url": "https://raw.githubusercontent.com/tyuio7777/hunt-briefing-feed/main/feed/2026/11/2026-11-28.html",
+          "hero_image_url": "https://clan.akamai.steamstatic.com/images/30897473/ee23d0f7d8b356c0c96ad0a0be80f44ac4708000.jpg"
+        }
+      ],
+      "checked_at": "2026-11-28T09:00:00+09:00",
       "supplemental": false,
       "kind": "other",
       "participation": "참여·보상 조건은 공식 출처에서 확인해 주세요.",

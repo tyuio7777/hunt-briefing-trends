@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_bytes": 1286888,
-  "events": 19,
-  "source_cache_files": 24,
+  "generated_bytes": 1327182,
+  "events": 21,
+  "source_cache_files": 25,
   "detail_days": 90,
   "summary_days": 730,
   "warnings": []
